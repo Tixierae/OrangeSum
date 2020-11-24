@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="37a35bd519baad70528272dff014e553" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-09-27 19:35:40" name="orange-generated-date"/><meta content="1601228140" name="orange-generated-timestamp"/><meta content="m0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Coronavirus à l'école : le ministère publie un "plan de continuité pédagogique" en cas de reprise de l'épidémie</title><meta content="Le ministère de l'Education a publié ce vendredi 17 juillet sur son site internet un &quot;plan de continuité pédagogique&quot; pour les écoles, à mettre en place en cas de reprise de l'épidémie de covid-19 à partir de la rentrée.
+
+Que faire dans les écoles, dès la rentrée, en cas de reprise de l'épidémie de coronavirus ? Le ministère de l'Education a mis en ligne ce vendredi 17 juillet sur son site un &quot;plan de continuité pédagogique&quot; à destination des directeurs d'école, chefs d'établissement et professeurs, pour les aider à s'organiser dans cette hypothèse.
+
+
+&quot;Le scénario de référence pour la prochaine rentrée scolaire s'inscrit dans un cadre sanitaire normal, n'impliquant pas de restrictions d'accueil des élèves et de fonctionnement des écoles, collèges et lycées&quot;, a expliqué à quelques médias Edouard Geffray, le directeur général de l'enseignement scolaire (Dgesco), numéro deux du ministère. Il a souligné qu'il est &quot;cependant nécessaire de préparer l'hypothèse d'une circulation active du virus sur tout ou partie du territoire à la rentrée scolaire de septembre&quot;.
+
+Ainsi, cette hypothèse déclencherait un protocole sanitaire strict, similaire à celui qu'ont connu les écoles lors de la première phase du déconfinement, le 11 mai. Une liste de &quot;choses à penser&quot; a été créée pour le cas où les établissements devraient organiser l'accueil des élèves en petits groupes, et dans des espaces réaménagés pour maintenir la distance sociale. Des outils et des exemples de &quot;bonnes pratiques&quot; sont à disposition pour faciliter la réorganisation des lieux et des emplois du temps.
+
+La fermeture des écoles envisagée en cas de circulation très active du virus
+
+Si les écoles doivent à nouveau limiter leur nombre d'élèves, les dispositifs d'enseignement à distance testés durant le confinement tels que &quot;l'école à la maison&quot;, les classes virtuelles du CNED ou encore la prise en charge des enfants dans le dispositif périscolaire &quot;2S2C&quot; (sport, santé, culture, civisme), pourraient être mis de nouveau en place.
+
+Autre scénario, en cas de circulation très active et localisée du virus, cela nécessiterait la fermeture des écoles, collèges et lycées sur une zone géographique déterminée. Une logique de &quot;cluster&quot;, qui est la &quot;plus probable&quot;, selon Edouard Geffray. Des fiches pratiques doivent permettre également de fluidifier l'organisation des établissements et des contacts sont disponibles pour demander le prêt de matériel numérique aux enseignants et aux élèves.
+
+Les professeurs disposent par ailleurs d'un ensemble de ressources leur permettant de mettre en place un enseignement entièrement à distance ou un mélange de &quot;présentiel&quot; et &quot;d'école à la maison&quot;. L'ensemble des classes en vidéo diffusées sur France 4 pendant le confinement dans le cadre de l'émission &quot;La maison Lumni&quot; sont recensées en accès libre sur le site du ministère, avec des exercices correspondants. " name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="227362824389057" property="fb:pages"/><meta content="Orange Actualités" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oactu_tworangenews" property="twitter:site"/><meta content="Coronavirus à l'école : le ministère publie un &quot;plan de continuité pédagogique&quot; en cas de reprise de l'épidémie" property="name"/><meta content="Orange avec Media Services" property="author"/><meta content="Orange avec Media Services" property="publisher"/><meta content="2020-07-17T19:47:38+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fd8b%2F37b%2F96d2980fbac614aae63a799934%2Fcoronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie%7Cd8b37b96d2980fbac614aae63a799934.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-07-17T19:45:00+02:00" property="article:published_time"/><meta content="2020-07-17T19:45:00+02:00" property="article:modified_time"/><meta content="France" property="article:section"/><meta content="Orange avec Media Services" property="article:author"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fd8b%2F37b%2F96d2980fbac614aae63a799934%2Fcoronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie%7Cd8b37b96d2980fbac614aae63a799934.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="Coronavirus à l'école : le ministère publie un &quot;plan de continuité pédagogique&quot; en cas de reprise de l'épidémie" property="og:title"/><meta content="Le ministère de l'Education a publié ce vendredi 17 juillet sur son site internet un &quot;plan de continuité pédagogique&quot; pour les écoles, à mettre en place en cas de reprise de l'épidémie de covid-19 à partir de la rentrée.
+
+Que faire dans les écoles, dès la rentrée, en cas de reprise de l'épidémie de coronavirus ? Le ministère de l'Education a mis en ligne ce vendredi 17 juillet sur son site un &quot;plan de continuité pédagogique&quot; à destination des directeurs d'école, chefs d'établissement et professeurs, pour les aider à s'organiser dans cette hypothèse.
+
+
+&quot;Le scénario de référence pour la prochaine rentrée scolaire s'inscrit dans un cadre sanitaire normal, n'impliquant pas de restrictions d'accueil des élèves et de fonctionnement des écoles, collèges et lycées&quot;, a expliqué à quelques médias Edouard Geffray, le directeur général de l'enseignement scolaire (Dgesco), numéro deux du ministère. Il a souligné qu'il est &quot;cependant nécessaire de préparer l'hypothèse d'une circulation active du virus sur tout ou partie du territoire à la rentrée scolaire de septembre&quot;.
+
+Ainsi, cette hypothèse déclencherait un protocole sanitaire strict, similaire à celui qu'ont connu les écoles lors de la première phase du déconfinement, le 11 mai. Une liste de &quot;choses à penser&quot; a été créée pour le cas où les établissements devraient organiser l'accueil des élèves en petits groupes, et dans des espaces réaménagés pour maintenir la distance sociale. Des outils et des exemples de &quot;bonnes pratiques&quot; sont à disposition pour faciliter la réorganisation des lieux et des emplois du temps.
+
+La fermeture des écoles envisagée en cas de circulation très active du virus
+
+Si les écoles doivent à nouveau limiter leur nombre d'élèves, les dispositifs d'enseignement à distance testés durant le confinement tels que &quot;l'école à la maison&quot;, les classes virtuelles du CNED ou encore la prise en charge des enfants dans le dispositif périscolaire &quot;2S2C&quot; (sport, santé, culture, civisme), pourraient être mis de nouveau en place.
+
+Autre scénario, en cas de circulation très active et localisée du virus, cela nécessiterait la fermeture des écoles, collèges et lycées sur une zone géographique déterminée. Une logique de &quot;cluster&quot;, qui est la &quot;plus probable&quot;, selon Edouard Geffray. Des fiches pratiques doivent permettre également de fluidifier l'organisation des établissements et des contacts sont disponibles pour demander le prêt de matériel numérique aux enseignants et aux élèves.
+
+Les professeurs disposent par ailleurs d'un ensemble de ressources leur permettant de mettre en place un enseignement entièrement à distance ou un mélange de &quot;présentiel&quot; et &quot;d'école à la maison&quot;. L'ensemble des classes en vidéo diffusées sur France 4 pendant le confinement dans le cadre de l'émission &quot;La maison Lumni&quot; sont recensées en accès libre sur le site du ministère, avec des exercices correspondants. " property="og:description"/><meta content="https://actu.orange.fr/france/coronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie-magic-CNT000001rHg6K.html" property="og:url"/><meta content="https://www.facebook.com/orangeactufr" property="og:author"/><link href="https://actu.orange.fr/france/coronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie-magic-CNT000001rHg6K.html" rel="canonical"/><link href="https://actu.orange.fr/france/coronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie-magic-CNT000001rHg6K.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=actu_I1;d=1601228171;s=c97221e5056eaf6198e40873a005585d28fc6931ee4bbc30b086428f834becc9/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "actufranceart"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "actu",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Actualités",
+            queryAdditionalParams : "module=chaine&bhv=actu&ap=-1",
+            cmplBlocks : [{ baseId : '-actu' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "actu",
+            "univers_affichage": "france",
+            "sous_univers" : "",
+            "source_contenu" : "Orange avec Media Services",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//actu.orange.fr/css/min/article.header.23e6981c4bcfdd28c860e3a7145441dde5998348.css" rel="stylesheet"/><script src="//actu.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script><script src="//pms.orange.fr/module/embed/2115/js/embed.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_actu.france?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" mv3-active o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/661%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/661%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="polaris" id="secondary_nav"><div class="container-main"><div class="main-container"><ul class="menu clearfix o_r_url_noeud_menu"><li class="breadcrumb"><span>En ce moment</span></li><li class="o_r_attaque-a-l-arme-blanche-pres-des-anciens-locaux-de-charlie-hebdo-a-paris "><a href="/france/attaque/" title="Attaque à l'arme blanche près des anciens locaux de Charlie Hebdo à Paris">
+                            Attaque à Paris
+                        </a></li><li class="o_r_covid-19-tour-de-vis-impose-en-raison-d-une-nette-degradation "><a href="/france/coronavirus/" title="Covid-19: tour de vis imposé en raison d'une nette dégradation">
+                            Covid-19
+                        </a></li><li class="o_r_proces-des-attentats-de-janvier-2015 "><a href="/france/proces-attentats/" title="Procès des attentats de janvier 2015">
+                            Procès des attentats de janvier 2015
+                        </a></li><li class="o_r_videos "><a href="/france/videos/" title="Vidéos">
+                            Vidéos
+                        </a></li><li class="o_r_diaporamas "><a href="/france/diaporamas/" title="Diaporamas">
+                            Diaporamas
+                        </a></li></ul></div></div></header><div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Sénatoriales: prime aux sortants, Patriat et Lemoyne réélus" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F688%2Fe4f%2Fc3b3ff5a9a036c406afe83a5ee%2Fsenatoriales-prime-aux-sortants-patriat-et-lemoyne-reelus%7C000_I69Q0-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/senatoriales-prime-aux-sortants-patriat-et-lemoyne-reelus-CNT000001tDe2J.html" title="Sénatoriales: prime aux sortants, Patriat et Lemoyne réélus">
+                            Sénatoriales: prime aux sortants, Patriat et Lemoyne réélus
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F6d4%2F4d9%2F712987b28c5d73f4e813f17de1%2Ffermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir%7C000_8QP2TH-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/fermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir-CNT000001tDlSg.html" title="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir">
+                            Fermeture totale des bars et restaurants à Marseille et Aix dimanche ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fc6c%2Fe57%2Fde177b1f31cc6d7ec735af0388%2Fcovid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir%7Cc6ce57de177b1f31cc6d7ec735af0388.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/covid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir-magic-CNT000001tDldS.html" title="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir">
+                            Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F83e%2F528%2F9eddda24089d44659d70628bb7%2Fsavoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte%7C83e5289eddda24089d44659d70628bb7.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/savoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte-magic-CNT000001tDkWB.html" title="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte">
+                            Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F6a9%2F4a8%2F93e4597b8fe67c4e9a6082330e%2Fa-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid%7C6a94a893e4597b8fe67c4e9a6082330e.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/a-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid-magic-CNT000001tDk7R.html" title="A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid">
+                            A Paris, des patrons de bars et de restaurants manifestent contre ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F1cb%2F333%2F07f890e2ca05a86878fd3a538f%2Fattaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude%7C000_8QT8P4-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">14:10</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude-CNT000001tDgM6.html" title="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude">
+                            Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Attaque à Paris : mis hors de cause, le &quot;deuxième suspect&quot; pensait qu'il serait &quot;traité comme un héros&quot;" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F6e2%2Fb46%2Faf668e33a21af560dc040c0ec7%2Fattaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros%7C6e2b46af668e33a21af560dc040c0ec7.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros-magic-CNT000001tDjiQ.html" title="Attaque à Paris : mis hors de cause, le &quot;deuxième suspect&quot; pensait qu'il serait &quot;traité comme un héros&quot;">
+                            Attaque à Paris : mis hors de cause, le "deuxième suspect" pensait ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt='Covid-19: des médecins réclament "des mesures drastiques"' src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F02f%2F21e%2F1f86d9d994824bddcd08d2bf4d%2Fcovid-19-des-medecins-reclament-des-mesures-drastiques%7C000_8QP9DY-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/covid-19-des-medecins-reclament-des-mesures-drastiques-CNT000001tDgBo.html" title='Covid-19: des médecins réclament "des mesures drastiques"'>
+                            Covid-19: des médecins réclament "des mesures drastiques"
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Reconfinement préventif avant Noël : Olivier Véran a tranché" src="//media3.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fb26%2F13a%2F4de8065389f7b336ad37d9f719%2Freconfinement-preventif-avant-noel-olivier-veran-a-tranche%7Cb2613a4de8065389f7b336ad37d9f719.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/reconfinement-preventif-avant-noel-olivier-veran-a-tranche-magic-CNT000001tCddQ.html" title="Reconfinement préventif avant Noël : Olivier Véran a tranché">
+                            Reconfinement préventif avant Noël : Olivier Véran a tranché
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt='Attentats: le risque terroriste "peut-être collectivement mis derrière nous", estime Darmanin' src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F1cb%2F333%2F07f890e2ca05a86878fd3a538f%2Fattentats-le-risque-terroriste-peut-etre-collectivement-mis-derriere-nous-estime-darmanin%7C000_8QT8P4-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">10:40</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attentats-le-risque-terroriste-peut-etre-collectivement-mis-derriere-nous-estime-darmanin-CNT000001tDfvx.html" title='Attentats: le risque terroriste "peut-être collectivement mis derrière nous", estime Darmanin'>
+                            Attentats: le risque terroriste "peut-être collectivement mis ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Femme évêque ou curé ? Des catholiques engagées revendiquent plus de féminin dans l'Eglise" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F02e%2Fc56%2F28a8aec6eaa7958a38950be024%2Ffemme-eveque-ou-cure-des-catholiques-engagees-revendiquent-plus-de-feminin-dans-l-eglise%7C000_1SH8TS-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">41:37</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/femme-eveque-ou-cure-des-catholiques-engagees-revendiquent-plus-de-feminin-dans-l-eglise-CNT000001tDffq.html" title="Femme évêque ou curé ? Des catholiques engagées revendiquent plus de féminin dans l'Eglise">
+                            Femme évêque ou curé ? Des catholiques engagées revendiquent plus de ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt='"Dictats", "parti-pris" : Olivier Véran dans le viseur des restaurateurs des Bouches-du-Rhône' src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F283%2Fd5f%2F9a6c4ba4b3d56e49a2140cf01b%2Fdictats-parti-pris-olivier-veran-dans-le-viseur-des-restaurateurs-des-bouches-du-rhone%7C283d5f9a6c4ba4b3d56e49a2140cf01b.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/dictats-parti-pris-olivier-veran-dans-le-viseur-des-restaurateurs-des-bouches-du-rhone-magic-CNT000001tDeUn.html" title='"Dictats", "parti-pris" : Olivier Véran dans le viseur des restaurateurs des Bouches-du-Rhône'>
+                            "Dictats", "parti-pris" : Olivier Véran dans le viseur des ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Sénatoriales: les grands électeurs aux urnes " src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F162%2Fc51%2F8ba971cb1120169e477e051a31%2Fsenatoriales-les-grands-electeurs-aux-urnes%7C000_I69G0-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/senatoriales-les-grands-electeurs-aux-urnes-CNT000001tDeHX.html" title="Sénatoriales: les grands électeurs aux urnes ">
+                            Sénatoriales: les grands électeurs aux urnes 
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main strip-alerte-info"><div class="main-container"><div class="clear"></div></div></div><div class="container-main"><div class="main-container container-top fil-ariane"><a href="/france/" title="retour en arrière"><span class="icon-arrow-left"></span>Toutes les news France</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Coronavirus à l'école : le ministère publie un "plan de continuité pédagogique" en cas de reprise de l'épidémie
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><article id="CNT000001rHg6K" itemscope="" itemtype="http://schema.org/Article"><span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta content="Orange Actu" itemprop="name"/><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="//c.orange.fr/logo-orange.png" itemprop="url"/></span></span><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><div class="image-wrapper"><div class="article-img"><img alt="Coronavirus à l'école : le ministère publie un &quot;plan de continuité pédagogique&quot; en cas de reprise de l'épidémie" itemprop="image" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fd8b%2F37b%2F96d2980fbac614aae63a799934%2Fcoronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie%7Cd8b37b96d2980fbac614aae63a799934.jpg?format=980x450&amp;facedetect=1&amp;quality=85"/></div><div class="caption-wrapper"><div class="caption-title" itemprop="name">Jean-Michel Blanquer, ministre de l'Education nationale.</div><div class="caption-copyright" itemprop="copyrightHolder" itemtype="http://schema.org/Organization">©Ludovic Marin / AFP</div></div></div><!-- .image-wrapper --></div><!-- fin article corps image --><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt="Coronavirus : les universités vont pouvoir rouvrir à la rentrée, en appliquant un protocole sanitaire bien défini" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fb20%2Ffd9%2F408071629a46cbc8f15644dafa%2Fcoronavirus-les-universites-vont-pouvoir-rouvrir-a-la-rentree-en-appliquant-un-protocole-sanitaire-bien-defini%7Cb20fd9408071629a46cbc8f15644dafa.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/coronavirus-les-universites-vont-pouvoir-rouvrir-a-la-rentree-en-appliquant-un-protocole-sanitaire-bien-defini-magic-CNT000001sgalK.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'Coronavirus : les universités vont pouvoir rouvrir à la rentrée, en appliquant un protocole sanitaire bien défini' });} else { javascript:void(0); }">
+                Coronavirus : les universités vont pouvoir rouvrir à la rentrée, en appliquant un protocole sanitaire bien défini
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/port-du-masque-a-l-ecole-dans-les-universites-en-entreprise-dans-la-rue-l-obligation-se-generalise-magic-CNT000001sMkEv.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'Port du masque : à l'école, dans les universités, en entreprise, dans la rue... l'obligation se généralise' });} else { javascript:void(0); }">
+                Port du masque : à l'école, dans les universités, en entreprise, dans la rue... l'obligation se généralise
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1901);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2020-07-17" itemprop="datePublished"/><meta content="2020-07-17" itemprop="dateModified"/><meta content="https://actu.orange.fr/france/coronavirus-a-l-ecole-le-ministere-publie-un-plan-de-continuite-pedagogique-en-cas-de-reprise-de-l-epidemie-magic-CNT000001rHg6K.html" itemprop="mainEntityOfPage"/><meta content="  Le ministère de l'Education a publié ce vendredi 17 juillet sur son site internet un &quot;plan de..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date"><span itemprop="author" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">Orange avec Media Services</span></span>, publié le vendredi 17 juillet 2020 à 19h45
+                    </p><!-- Fin Date --><!-- TEXTE --><p><strong>Le ministère de l'Education a publié ce vendredi 17 juillet sur son site internet un "plan de continuité pédagogique" pour les écoles, à mettre en place en cas de reprise de l'épidémie de covid-19 à partir de la rentrée.</strong><br/><br/>
+Que faire dans les écoles, dès la rentrée, en cas de reprise de l'épidémie de coronavirus ? Le ministère de l'Education a mis en ligne ce vendredi 17 juillet sur son site un "plan de continuité pédagogique" à destination des directeurs d'école, chefs d'établissement et professeurs, pour les aider à s'organiser dans cette hypothèse.<br/></p><div class="ms-embed dailymotion-p-m video dailymotion-p-m-1 ms-embed-1"><a id="embedAMP_56bab132af0e183e838afcc5195d1fa7"></a><div class="pip" data-pip-mode="pvp" data-pip-ref="pvp_56bab132af0e183e838afcc5195d1fa7" id="pvpContainer_56bab132af0e183e838afcc5195d1fa7"></div><p><script>
+    window.pvp_56bab132af0e183e838afcc5195d1fa7 = new Pvp('dmpublic', {idDM: "x7v2cj2", mediaType: "dm-public"}, {
+        'sequenceUrl': 
+        
+        "//pms.orange.fr/module/pm/1892/videoInfoEdito/extId/x7v2cj2/adCategory/embed", 
+        'domNode': "pvpContainer_56bab132af0e183e838afcc5195d1fa7",
+        "origin": "embed",
+        "mute": true,
+        "autoplay": false
+    });
+</script></p><div class="daily-motion-footer"><span><a href="http://www.dailymotion.com/video/x7v2cj2" target="_blank">Coronavirus: la pandémie atteint de nouveaux records dans le monde</a><em>par <a href="https://www.dailymotion.com/afp" target="_blank">Agence France-Presse</a></em></span><a alt="Signaler ce contenu" class="report o_r_abuseDM" data-id-dm="x7v2cj2" href="http://www.dailymotion.com/pageitem/abuse?request=%2Ffr%2Ffeatured%2Fvideo%2Fx7v2cj2" target="_blank" title="Signaler ce contenu"><span class="icon-flag"></span></a></div><p></p></div><p><br/><br/>
+"Le scénario de référence pour la prochaine rentrée scolaire s'inscrit dans un cadre sanitaire normal, n'impliquant pas de restrictions d'accueil des élèves et de fonctionnement des écoles, collèges et lycées", a expliqué à quelques médias Edouard Geffray, le directeur général de l'enseignement scolaire (Dgesco), numéro deux du ministère. Il a souligné qu'il est "cependant nécessaire de préparer l'hypothèse d'une circulation active du virus sur tout ou partie du territoire à la rentrée scolaire de septembre".<br/><br/>
+Ainsi, cette hypothèse déclencherait un protocole sanitaire strict, similaire à celui qu'ont connu les écoles lors de la première phase du déconfinement, le 11 mai. </p><p>Une liste de "choses à penser" a été créée pour le cas où les établissements devraient organiser l'accueil des élèves en petits groupes, et dans des espaces réaménagés pour maintenir la distance sociale. Des outils et des exemples de "bonnes pratiques" sont à disposition pour faciliter la réorganisation des lieux et des emplois du temps.<br/><br/><strong>La fermeture des écoles envisagée en cas de circulation très active du virus</strong><br/><br/>
+Si les écoles doivent à nouveau limiter leur nombre d'élèves, les dispositifs d'enseignement à distance testés durant le confinement tels que "l'école à la maison", les classes virtuelles du CNED ou encore la prise en charge des enfants dans le dispositif périscolaire "2S2C" (sport, santé, culture, civisme), pourraient être mis de nouveau en place.<br/><br/>
+Autre scénario, en cas de circulation très active et localisée du virus, cela nécessiterait la fermeture des écoles, collèges et lycées sur une zone géographique déterminée. Une logique de "cluster", qui est la "plus probable", selon Edouard Geffray. Des fiches pratiques doivent permettre également de fluidifier l'organisation des établissements et des contacts sont disponibles pour demander le prêt de matériel numérique aux enseignants et aux élèves.<br/></p><div class="ms-embed twitter rich twitter-1 ms-embed-2"><a id="embedAMP_367064f28b832e4cd39ab656e469ef03"></a><iframe data-type="ms-embed" frameborder="0" id="ms-embed-367064f28b832e4cd39ab656e469ef03-7ed512f7cb073e3840d67514e22bab66" sandbox="allow-scripts allow-same-origin allow-forms " src="//pms.orange.fr/module/embed/2115/sandbox?url=https%3A%2F%2Ftwitter.com%2FEduscol%2Fstatus%2F1284114327751012353&amp;frm=7ed512f7cb073e3840d67514e22bab66&amp;maxWidth=500" style="width: 100%; height: 40px;"></iframe></div><br/>
+Les professeurs disposent par ailleurs d'un ensemble de ressources leur permettant de mettre en place un enseignement entièrement à distance ou un mélange de "présentiel" et "d'école à la maison". L'ensemble des classes en vidéo diffusées sur France 4 pendant le confinement dans le cadre de l'émission "La maison Lumni" sont recensées en accès libre sur le site du ministère, avec des exercices correspondants. </div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+$(document).ready(function () {
+    if ($('.news-top-article').length && $('.sticky-block-column').length) {
+    //to set banner "a lire aussi" position at the top if "news-top-article" is present
+        $('.article-corps').addClass('news-top-check');
+        $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+    }
+});
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1901
+                    },
+                    "magicRequest": {
+                        "hostname" : "//actu.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'actu', 2, 4, 'CNT000001rHg6K');
+    });
+</script><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200717'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_1_300x250_actu.france" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_1_300x250_actu.france" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="fil-info no-js o_r_url_filinfo"><div class="fil-info-entete bloc-commun"><h2> Fil info</h2><nav class="fil-info-select" id="fil-info-select"><a class="fil-info-choix-categorie o_r_actu" href="#"><span id="fil-info-choix-label">Actu</span></a><ul class="fil-info-list-categorie mCS_destroyed" id="fil-info-list-categorie"><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Actu" href="#all">Actu</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="France" href="#france">France</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Politique" href="#politique">Politique</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Société" href="#societe">Société</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Monde" href="#monde">Monde</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Finance" href="#finance">Finance</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Auto" href="#auto">Auto</a></li></ul></nav></div><div class="fil-info-content bloc-commun"><div class="fil-info-datatitle o_r_news_1" data-text="Trump exige un contrôle antidopage de Biden en vue de leur débat " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/trump-exige-un-controle-antidopage-de-biden-en-vue-de-leur-debat-CNT000001tDjd4.html"><span class="fil-info-datePublished">19:29</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Trump exige un contrôle antidopage de Biden en vue de leur débat </span></a></div><div class="fil-info-datatitle o_r_news_2" data-text="Sénatoriales: prime aux sortants, Patriat et Lemoyne réélus" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/senatoriales-prime-aux-sortants-patriat-et-lemoyne-reelus-CNT000001tDe2J.html"><span class="fil-info-datePublished">19:26</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Sénatoriales: prime aux sortants, Patriat et Lemoyne réélus</span></a></div><div class="fil-info-datatitle o_r_news_3" data-text="Coronavirus : le point sur la pandémie" data-title="Sante"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/coronavirus-le-point-sur-la-pandemie-CNT000001tDi3N.html"><span class="fil-info-datePublished">19:10</span><span class="fil-info-categorie">Sante</span><span class="fil-info-datatitre">Coronavirus : le point sur la pandémie</span></a></div><div class="fil-info-datatitle o_r_news_4" data-text="Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/suisse-oui-au-conge-paternite-non-aux-entraves-a-l-immigration-de-citoyens-de-l-ue-CNT000001tCPCc.html"><span class="fil-info-datePublished">19:09</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens de l'UE</span></a></div><div class="fil-info-datatitle o_r_news_5" data-text="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/fermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir-CNT000001tDlSg.html"><span class="fil-info-datePublished">18:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_6" data-text="Législatives 2022: erreur politique de modifier le mode de scrutin..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/legislatives-2022-erreur-politique-de-modifier-le-mode-de-scrutin-guerini-lrem-CNT000001tDlIN.html"><span class="fil-info-datePublished">18:45</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Législatives 2022: "erreur politique" de modifier le mode de scrutin (Guerini, LREM)</span></a></div><div class="fil-info-datatitle o_r_news_7" data-text="Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/belarus-centaines-d-arrestations-lors-d-une-nouvelle-marche-de-l-opposition-CNT000001tDhaO.html"><span class="fil-info-datePublished">18:37</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition</span></a></div><div class="fil-info-datatitle o_r_news_8" data-text="Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/conflit-au-karabakh-au-moins-23-morts-poutine-appelle-a-la-fin-des-affrontements-CNT000001tDfqT.html"><span class="fil-info-datePublished">18:36</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des affrontements</span></a></div><div class="fil-info-datatitle o_r_news_9" data-text="Epic Games retrouve Apple lundi au tribunal" data-title="High-tech"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/high-tech/epic-games-retrouve-apple-lundi-au-tribunal-CNT000001tDlpl.html"><span class="fil-info-datePublished">18:34</span><span class="fil-info-categorie">High-tech</span><span class="fil-info-datatitre">Epic Games retrouve Apple lundi au tribunal</span></a></div><div class="fil-info-datatitle o_r_news_10" data-text="Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis" data-title="Fait-divers"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/fait-divers/ils-volent-du-2-000-pieds-de-chanvre-en-le-prenant-pour-du-cannabis-CNT000001tDlpc.html"><span class="fil-info-datePublished">18:30</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis</span></a></div><div class="fil-info-datatitle o_r_news_11" data-text="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/covid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir-magic-CNT000001tDldS.html"><span class="fil-info-datePublished">18:00</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_12" data-text="Les tendances à la Fashion Week de Milan : Viva l'Italia!" data-title="Culture"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/culture/les-tendances-a-la-fashion-week-de-milan-viva-l-italia-CNT000001tDhOg.html"><span class="fil-info-datePublished">17:56</span><span class="fil-info-categorie">Culture</span><span class="fil-info-datatitre">Les tendances à la Fashion Week de Milan : Viva l'Italia!</span></a></div><div class="fil-info-datatitle o_r_news_13" data-text="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/savoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte-magic-CNT000001tDkWB.html"><span class="fil-info-datePublished">17:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte</span></a></div><div class="fil-info-datatitle o_r_news_14" data-text="A Paris, des patrons de bars et de restaurants manifestent contre les..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/a-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid-magic-CNT000001tDk7R.html"><span class="fil-info-datePublished">17:30</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid</span></a></div><div class="fil-info-datatitle o_r_news_15" data-text="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude-CNT000001tDgM6.html"><span class="fil-info-datePublished">16:52</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude</span></a></div><div class="fil-info-datatitle o_r_news_16" data-text="Attaque à Paris : mis hors de cause, le deuxième suspect pensait qu'il..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros-magic-CNT000001tDjiQ.html"><span class="fil-info-datePublished">16:20</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque à Paris : mis hors de cause, le "deuxième suspect" pensait qu'il serait "traité comme un héros"</span></a></div><div class="fil-info-datatitle o_r_news_17" data-text="Coronavirus: l'avion-ambulance qui sauve des vies au Pérou" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/coronavirus-l-avion-ambulance-qui-sauve-des-vies-au-perou-CNT000001tDeaI.html"><span class="fil-info-datePublished">16:16</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Coronavirus: l'avion-ambulance qui sauve des vies au Pérou</span></a></div><div class="fil-info-datatitle o_r_news_18" data-text="Au Liban, pas la moindre perspective de sortie de crise" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/au-liban-pas-la-moindre-perspective-de-sortie-de-crise-CNT000001tDgfZ.html"><span class="fil-info-datePublished">15:21</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Au Liban, pas la moindre perspective de sortie de crise</span></a></div><div class="fil-info-datatitle o_r_news_19" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDiwz.html"><span class="fil-info-datePublished">15:15</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers </span></a></div><div class="fil-info-datatitle o_r_news_20" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDium.html"><span class="fil-info-datePublished">15:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers</span></a></div>
+</div><div class="fil-info-pagination bloc-commun"><div class="fil-info-counter"></div></div></div><!--[if lte IE 7]></div><![endif]--><!--[if IE 8]></div><![endif]--><script>
+    if (sUrlReferrer != 'undefined'){
+        var ref = sUrlReferrer;
+    }else {
+        var ref = "";
+    }
+    if(typeof Polaris == "undefined") Polaris = { };
+    Polaris.newsfeed = { limit: 7, src: "/fragments/fil-info/", currentCat: "all" };
+    function changeAllLinksFilInfo(tag_gstat){
+        img = new Image();
+        z_protocol = (document.location.protocol === 'https:') ? 'https%3A' : 'http%3A';
+        rnd = Math.round(Math.random() * 10000000000);
+        img.src = document.location.protocol + "//r.orange.fr/r?ref="+ref+"_"+tag_gstat+"&url=" + z_protocol + "//c.woopic.com/z.gif?" + rnd;
+    };
+</script><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="no-js graphbourse blocHref tile"><div class="container"><div class="inline"><p class="name"><a href="//finance.orange.fr/bourse/">CAC 40</a></p><p class="variation">
+                4 730 pts
+            </p></div><div class="inline"><div class="icone bourse"><span class="icon-finance-down"></span></div></div><div class="inline"><p class="down">-0,69%</p></div></div></div><div class="no-js graphbourse thelast tile"><div class="container"><div class="inline"><p class="name">
+                Météo
+            </p><p class="variation ville">
+                Paris
+            </p></div><div class="inline"><div class="meteo"><span class="favorites-city-icon"><span class="picTempsAddons"></span></span></div></div><div class="inline"><span class="temperature">27°</span></div><div class="clear"></div></div></div><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Le Point" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2F853%2F3d6%2F9485f72909ee9400ee57805739%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Le Point</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/le-point/2020-09-24" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-actu',
+                            uid: 'CNT000001rHg6K',
+                            publication_date: '2020-07-17 19:45:00',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_300x250_actu.france" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_300x250_actu.france" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_facebook bt-soc bt-fb transition_1" href="//r.orange.fr/r/Oactu_fborangenews" target="_blank" title="Facebook"><span class="icon-facebook"></span><span class="nom transition_1">facebook</span></a><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="//r.orange.fr/r/Oactu_tworangenews" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_728x90_actu.france" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_728x90_actu.france" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//actu.orange.fr/js/min/article.footer.7debf2966c34a61cb0733f7d607f63c2455d8564.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

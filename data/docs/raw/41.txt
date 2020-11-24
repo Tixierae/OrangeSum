@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="4a7dd984f49339f81549bbe83e5b1eca" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-07-03 12:44:30" name="orange-generated-date"/><meta content="1593773070" name="orange-generated-timestamp"/><meta content="s0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Bosch : une mise à jour qui booste ! : actualité automobile, infos, scoop</title><meta content="Bosch vient de présenter les nouvelles fonctions offertes par une mise à jour logicielle qui est destinée à sa nouvelle gamme de moteurs pour vélos à assistance électrique. Parmi les évolutions les plus notables, notons une augmentation assez conséquente de la puissance et du couple." name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="Orange Auto" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oauto_twitter_orange" property="twitter:site"/><meta content="Bosch : une mise à jour qui booste !" property="name"/><meta content="2020-07-03T09:06:17+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fbosch-une-mise-a-jour-qui-booste%7Cimg_pano_21366_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-07-02T12:21:11+02:00" property="article:published_time"/><meta content="2020-07-03T08:20:50+02:00" property="article:modified_time"/><meta content="News" property="article:section"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fbosch-une-mise-a-jour-qui-booste%7Cimg_pano_21366_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="Bosch : une mise à jour qui booste !" property="og:title"/><meta content="Bosch vient de présenter les nouvelles fonctions offertes par une mise à jour logicielle qui est destinée à sa nouvelle gamme de moteurs pour vélos à assistance électrique. Parmi les évolutions les plus notables, notons une augmentation assez conséquente de la puissance et du couple." property="og:description"/><meta content="https://auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa.html" property="og:url"/><link href="https://auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa.html" rel="canonical"/><link href="https://auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=auto_I1;d=1593773101;s=03f6b73b1b26c7c329dcc6ea4933ef44dce20e4a64a26c10f85469823ac5d99f/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "autonews"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "auto",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Auto",
+            queryAdditionalParams : "module=chaine&bhv=auto&ap=-1",
+            cmplBlocks : [{ baseId : '-auto' }],
+                        toptrend : false
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "auto",
+            "univers_affichage": "ecomobilite",
+            "sous_univers" : "news",
+            "source_contenu" : "",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//auto.orange.fr/css/min/article.header.2566cacba4dec678238f84076377e601f97fa8f1.css" rel="stylesheet"/><script src="//auto.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_auto.actu?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" mv3-active o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu" id="menu-v3-second-level"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark"><li class="fixed-width"><ul><li class=" o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                                    Auto
+                                </a></li><li class=" mv3-active o_r_ecomobilite"><a href="https://auto.orange.fr/ecomobilite/news/" title="Ecomobilité">
+                                    Ecomobilité
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" mv3-active o_r_News"><a href="https://auto.orange.fr/ecomobilite/news/" title="News">
+                                News
+                            </a></li><li class=" o_r_dossiers"><a href="https://auto.orange.fr/ecomobilite/dossiers/" title="Dossiers">
+                                Dossiers
+                            </a></li></ul></li></ul></div></header><header class="menu-v3-init o_r_url_menu" id="menu-v3-second-level-init"><div class="mv3-container-main mv3-loader-dark"><ul class="mv3-second-level"><li class="menu-item-1 o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                            Auto
+                        </a></li><li class="menu-item-1 mv3-active o_r_ecomobilite"><a href="https://auto.orange.fr/ecomobilite/news/" title="Ecomobilité">
+                            Ecomobilité
+                        </a></li><li class="menu-item-2 mv3-active o_r_News"><a href="https://auto.orange.fr/ecomobilite/news/" title="News">
+                            News
+                        </a></li><li class="menu-item-2 o_r_dossiers"><a href="https://auto.orange.fr/ecomobilite/dossiers/" title="Dossiers">
+                            Dossiers
+                        </a></li></ul></div></header>
+<div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Trottinette : la réglementation se durcit au 1er juillet" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F8e7%2Ff5c%2Fbdb8df4766abc1b82c7206af1d%2Ftrottinette-la-reglementation-se-durcit-au-1er-juillet%7Cimg_pano_21372_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/trottinette-la-reglementation-se-durcit-au-1er-juillet-CNT000001rkHb5.html" title="Trottinette : la réglementation se durcit au 1er juillet">
+                            Trottinette : la réglementation se durcit au 1er juillet
+                        </a></div><div class="date">
+                                03 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Bosch : une mise à jour qui booste !" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fbosch-une-mise-a-jour-qui-booste%7Cimg_pano_21366_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa.html" title="Bosch : une mise à jour qui booste !">
+                            Bosch : une mise à jour qui booste !
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Pour que les entreprises passent au vélo !" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F2dd%2Faa6%2F3ebf3c6253936b59c819bb389f%2Fpour-que-les-entreprises-passent-au-velo%7Cimg_pano_21336_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/pour-que-les-entreprises-passent-au-velo-CNT000001r8HWW.html" title="Pour que les entreprises passent au vélo !">
+                            Pour que les entreprises passent au vélo !
+                        </a></div><div class="date">
+                                26 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="FLYER Upstreet5 Édition Anniversaire" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb4d%2F4b3%2F292e5a8f77c704849d1c69af14%2Fflyer-upstreet5-edition-anniversaire%7Cimg_pano_21325_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/flyer-upstreet5-edition-anniversaire-CNT000001r5WXJ.html" title="FLYER Upstreet5 Édition Anniversaire">
+                            FLYER Upstreet5 Édition Anniversaire
+                        </a></div><div class="date">
+                                24 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="Triumph Trekker GT, un vélo à assistance électrique signé Triumph !" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fd45%2F036%2Fb9b6f3220ad1d87ee5d2433b8f%2Ftriumph-trekker-gt-un-velo-a-assistance-electrique-signe-triumph%7Cimg_pano_21307_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/triumph-trekker-gt-un-velo-a-assistance-electrique-signe-triumph-CNT000001qYNSf.html" title="Triumph Trekker GT, un vélo à assistance électrique signé Triumph !">
+                            Triumph Trekker GT, un vélo à assistance électrique signé Triumph !
+                        </a></div><div class="date">
+                                19 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="Velair, des réductions supplémentaires pour démocratiser l'usage du vélo" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F234%2Fd37%2F4ff44bfe418b9426a87c413b3b%2Fvelair-des-reductions-supplementaires-pour-democratiser-l-usage-du-velo%7Cimg_pano_21293_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/velair-des-reductions-supplementaires-pour-democratiser-l-usage-du-velo-CNT000001qVmPO.html" title="Velair, des réductions supplémentaires pour démocratiser l'usage du vélo">
+                            Velair, des réductions supplémentaires pour démocratiser l'usage du vélo
+                        </a></div><div class="date">
+                                17 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Horwin arrive en France avec deux motos électriques" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fecb%2F288%2F923377afeaec6acd489c534d0b%2Fhorwin-arrive-en-france-avec-deux-motos-electriques%7Cimg_pano_21265_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/horwin-arrive-en-france-avec-deux-motos-electriques-CNT000001qNbwp.html" title="Horwin arrive en France avec deux motos électriques">
+                            Horwin arrive en France avec deux motos électriques
+                        </a></div><div class="date">
+                                11 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt="Kymco Like EV dévoile son scooter électrique" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fbca%2F617%2F681b8dfd6f305e4c4d9a11a15a%2Fkymco-like-ev-devoile-son-scooter-electrique%7Cimg_pano_21262_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/kymco-like-ev-devoile-son-scooter-electrique-CNT000001qLMoJ.html" title="Kymco Like EV dévoile son scooter électrique">
+                            Kymco Like EV dévoile son scooter électrique
+                        </a></div><div class="date">
+                                10 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Test Neomouv Montana" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F266%2Fb20%2Fb3c745d20c1b8d5e838756cf09%2Ftest-neomouv-montana%7Cimg_pano_21241_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/test-neomouv-montana-CNT000001qF4gq.html" title="Test Neomouv Montana">
+                            Test Neomouv Montana
+                        </a></div><div class="date">
+                                05 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt="Gogoro Eeyo 1 et 1S, le VAE poids plume" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fc92%2F015%2F63d0147ffe986038814fc0a985%2Fgogoro-eeyo-1-et-1s-le-vae-poids-plume%7Cimg_pano_21223_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/gogoro-eeyo-1-et-1s-le-vae-poids-plume-CNT000001qBMIs.html" title="Gogoro Eeyo 1 et 1S, le VAE poids plume">
+                            Gogoro Eeyo 1 et 1S, le VAE poids plume
+                        </a></div><div class="date">
+                                03 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Winora Confort CB 9.4, le VAE tout confort pour affronter la ville !" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F55a%2F1bc%2F592f7093c0bbf22d82cf5c170b%2Fwinora-confort-cb-9-4-le-vae-tout-confort-pour-affronter-la-ville%7Cimg_pano_21213_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/winora-confort-cb-9-4-le-vae-tout-confort-pour-affronter-la-ville-CNT000001qz73z.html" title="Winora Confort CB 9.4, le VAE tout confort pour affronter la ville !">
+                            Winora Confort CB 9.4, le VAE tout confort pour affronter la ville !
+                        </a></div><div class="date">
+                                01 juin 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt="Xiaomi Mi Smart Electric Folding Bike" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fe0b%2Fa2c%2Fd789375e8bea3d5d0e182c6b98%2Fxiaomi-mi-smart-electric-folding-bike%7Cimg_pano_21190_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/xiaomi-mi-smart-electric-folding-bike-CNT000001qscdG.html" title="Xiaomi Mi Smart Electric Folding Bike">
+                            Xiaomi Mi Smart Electric Folding Bike
+                        </a></div><div class="date">
+                                27 mai 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Le plein de promotions pour une reprise électrique" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F499%2F4f9%2F1fe681139e41ac286233648e03%2Fle-plein-de-promotions-pour-une-reprise-electrique%7Cimg_pano_21159_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/ecomobilite/news/le-plein-de-promotions-pour-une-reprise-electrique-CNT000001qiMwp.html" title="Le plein de promotions pour une reprise électrique">
+                            Le plein de promotions pour une reprise électrique
+                        </a></div><div class="date">
+                                20 mai 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main"><div class="main-container container-top fil-ariane"><a href="//auto.orange.fr/ecomobilite/news/" title="retour en arrière"><span class="icon-arrow-left"></span>Toute l'info écomobilité</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Bosch : une mise à jour qui booste !
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><div id="Diaporama"><a name="plmAnchor"></a><div id="DiapoMainContainer" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><div class="o_r_nav_diapo" id="MiniSlideContainer" style="display:none"><div id="MiniSlide"><!-- Loading Screen --><div class="loading" data-u="loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><!-- Slides Container --><div class="slides" data-u="slides"><div><a class="currentPhoto" data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fimg_pano_21366_600.jpg?facedetect=1&amp;quality=85" data-id="bosch-une-mise-a-jour-qui-booste-0" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fimg_pano_21366_600.jpg?format=822x700&amp;quality=85" data-title="Bosch : une mise à jour qui booste !" data-type="image" data-u="image" href="//auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa/photos/bosch-une-mise-a-jour-qui-booste-6bd57ab2e944fac9fee77b09827561c8.html"><img alt="Bosch : une mise à jour qui booste !" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fimg_pano_21366_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Bosch : une mise à jour qui booste !"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F71c%2Ff61%2Fa095097e59e256104dbcd202c4%2Fimg_1_21366_600.jpg?facedetect=1&amp;quality=85" data-id="-1" data-src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F71c%2Ff61%2Fa095097e59e256104dbcd202c4%2Fimg_1_21366_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa/photos/-410afb909e5951cd844451b1e026f151.html"><img alt="" data-src2="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F71c%2Ff61%2Fa095097e59e256104dbcd202c4%2Fimg_1_21366_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fab3%2F3ed%2Fb2d592c9d015cda75d394ae800%2Fimg_2_21366_600.jpg?facedetect=1&amp;quality=85" data-id="-2" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fab3%2F3ed%2Fb2d592c9d015cda75d394ae800%2Fimg_2_21366_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa/photos/-2ad705c1de536ec2001dc6faa4bbed8b.html"><img alt="" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fab3%2F3ed%2Fb2d592c9d015cda75d394ae800%2Fimg_2_21366_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fead%2F097%2F724790179002973a1b972af867%2Fimg_3_21366_600.jpg?facedetect=1&amp;quality=85" data-id="-3" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fead%2F097%2F724790179002973a1b972af867%2Fimg_3_21366_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa/photos/-03a97d0780b44ac74a5cd35016c689ac.html"><img alt="" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fead%2F097%2F724790179002973a1b972af867%2Fimg_3_21366_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div></div></div></div><div class="image" id="ImageContainer"><div id="Loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><div class="module" id="MainImage"><img alt="Bosch : une mise à jour qui booste !" itemprop="contentUrl" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fimg_pano_21366_600.jpg?format=822x700&amp;quality=85" title="Bosch : une mise à jour qui booste !"/></div><div class="o_r_url_diapo" id="SlideNav"><a class="slide-prev hidden nav o_r_fleche_gauche" href="" id="SlideNavLeft"><div class="diapo-chevron prev" id="SlidePrev"><span class="icon-arrow-left"></span></div></a><a class="slide-next hidden nav o_r_fleche_droite" href="" id="SlideNavRight"><div class="diapo-chevron next" id="SlideNext"><span class="icon-arrow-right"></span></div></a></div></div><div id="DescContainer"><div class="module" id="DescTitle" itemprop="name">Bosch : une mise à jour qui booste !</div><div id="DescContent" itemprop="description"></div><div id="DescIndex"><span id="currentIndex">1</span>/4</div><div id="DescCopyright" itemprop="copyrightHolder">
+                 © Motorlegend
+            </div></div></div></div><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+    Polaris.channelName = "Actualités";
+    Polaris.diaporamaTitle = 'Bosch : une mise à jour qui booste !'
+    Polaris.diaporamaTotal = 4;
+    Polaris.diaporamaStartIndex = 0;
+    Polaris.diaporamaStartId = "bosch-une-mise-a-jour-qui-booste-0";
+    Polaris.dynamicLoading = true;
+</script><article id="CNT000001riNxa" itemscope="" itemtype="http://schema.org/Article"><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><meta content="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcb4%2Fa53%2F1998886cee9fcc9a4771c4e9f9%2Fimg_pano_21366_600.jpg?format=822x700&amp;quality=85" itemprop="url"/></span></div><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt="RVE : la nouvelle Ducati Hypermotard 950" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fd41%2Fd8c%2Fd98f00b204e9800998ecf8427e%2Frve-la-nouvelle-ducati-hypermotard-950%7Cimg_1_12634.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/2-roues/news/rve-la-nouvelle-ducati-hypermotard-950-CNT000001rk7Do.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'RVE : la nouvelle Ducati Hypermotard 950' });} else { javascript:void(0); }">
+                RVE : la nouvelle Ducati Hypermotard 950
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/news/ineos-grenadier-sur-les-traces-de-land-rover-CNT000001rkSnB.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'INEOS Grenadier : sur les traces de Land Rover' });} else { javascript:void(0); }">
+                INEOS Grenadier : sur les traces de Land Rover
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1478);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2020-07-02" itemprop="datePublished"/><meta content="2020-07-03" itemprop="dateModified"/><meta content="https://auto.orange.fr/ecomobilite/news/bosch-une-mise-a-jour-qui-booste-CNT000001riNxa.html" itemprop="mainEntityOfPage"/><meta content=" Bosch vient de présenter les nouvelles fonctions offertes par une mise à jour logicielle qui est destinée..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date">
+                                            publié le <strong> 2 juillet</strong></p><!-- Fin Date --><!-- TEXTE --><p>Bosch vient de présenter les nouvelles fonctions offertes par une mise à jour logicielle qui est destinée à sa nouvelle gamme de moteurs pour vélos à assistance électrique. Parmi les évolutions les plus notables, notons une augmentation assez conséquente de la puissance et du couple.</p><p>Pour profiter de la mise à jour logicielle, vous devrez vous rendre chez un revendeur de cycle Bosch. Le technicien effectuera ainsi une mise à jour du logiciel afin d'augmenter le couple du moteur, passant ainsi de 75 Nm à 85 Nm. Si Bosch ne communique pas sur la puissance (même si celle-ci est limitée à 250 watts sur tous les vélos à assistance électrique) nous sommes sûrs que la réactivité - et par définition la puissance ressentie - a été améliorée.</p><p>Sur le terrain, pour profiter de ce couple de 85 Nm - le plus important disponible actuellement sur un VAE - il faut utiliser le mode Turbo. Les modes Eco et Tour restant, eux, inchangés afin de préserver l'autonomie. Il en découle donc un comportement au démarrage plus nerveux et parfaitement adapté aux terrains les plus techniques et les plus accidentés. En outre, pour accompagner agréablement cette augmentation de couple, la fonction « Extended Boost » devient un sérieux atout. Celle-ci a été améliorée afin de rendre le déclenchement de l'assistance plus rapide et son arrêt moins brusque. Cela afin d'offrir un meilleur confort de pilotage dans les passages difficiles et techniques. L'Extended Boost se présente sous la forme d'un capteur qui offre la possibilité au pilote de donner des petits à-coups de pédales pour bénéficier d'un « boost » tout en restant avec les pédales à l'horizontale. Une fonction très utile lorsque l'on fait du franchissement d'obstacle par exemple. Notons que l'Extended Boost se désactive dès qu'il n'y a plus d'à-coups sur les pédales ou lorsque l'on roule de façon fluide.</p><p>La nouvelle mise à jour ne nécessite aucune modification physique du vélo, la mise à jour est entièrement basée sur un logiciel, débloquant ainsi plus de performances. Notez enfin que la mise à jour logicielle ne s'appliquera qu'à la dernière gamme de moteurs Bosch de quatrième génération avec les CX, Cargo Line et Cargo Line Speed.</p></div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+    $(document).ready(function () {
+        if ($('.news-top-article').length && $('.sticky-block-column').length) {
+            //to set banner "a lire aussi" position at the top if "news-top-article" is present
+            $('.article-corps').addClass('news-top-check');
+            $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+        }
+    });
+</script><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1478
+                    },
+                    "magicRequest": {
+                        "hostname" : "//auto.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'auto', 14, 4, 'CNT000001riNxa');
+    });
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200702'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_1_300x250_auto.actu" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_1_300x250_auto.actu" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="L'Auto Journal" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2F418%2F136%2F030dd15324cd40805bcacc60fa%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">L'Auto Journal</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/l-auto-journal/2020-07-02" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                            </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                    /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                    window.gc_params = {
+                        graphcomment_id:'orange-auto',
+                        uid: 'CNT000001riNxa',
+                        publication_date: '2020-07-02 12:21:11',//datetime
+                        lifetime: '7' //Number of days
+                    };
+                    /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                    (function() {
+                        var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                        var environmentUrl = window.location.hostname;
+                        var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                        if (environmentSet && environmentSet.length) {
+                            gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                          } else {
+                            gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                          }
+                        
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                    })();
+                </script></div><aside class="fixed-sidebar"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_2_300x250_auto.actu" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_2_300x250_auto.actu" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="http://r.orange.fr/r/Oauto_twitter_orange" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_2_728x90_auto.actu" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_2_728x90_auto.actu" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//auto.orange.fr/js/min/article.footer.9beaf928d8e73b1f7949088d3fb0587355c56058.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

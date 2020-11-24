@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
+<title>
+        What Hifi du 01 juillet 2020
+    </title>
+<meta content="noindex" name="robots"/>
+<!-- DNS Prefetch -->
+<link href="//ad.360yield.com" rel="dns-prefetch"/>
+<link href="//ad.yieldlab.net" rel="dns-prefetch"/>
+<link href="//ads.yahoo.com" rel="dns-prefetch"/>
+<link href="//browser-update.org" rel="dns-prefetch"/>
+<link href="//cm.g.doubleclick.net" rel="dns-prefetch"/>
+<link href="//dis.criteo.com" rel="dns-prefetch"/>
+<link href="//dis.eu.criteo.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//fonts.gstatic.com" rel="dns-prefetch"/>
+<link href="//googleads.g.doubleclick.net" rel="dns-prefetch"/>
+<link href="//ib.adnxs.com" rel="dns-prefetch"/>
+<link href="//pixel.mathtag.com" rel="dns-prefetch"/>
+<link href="//pixel.rubiconproject.com" rel="dns-prefetch"/>
+<link href="//radar.cedexis.com" rel="dns-prefetch"/>
+<link href="//rtb-csync.smartadserver.com" rel="dns-prefetch"/>
+<link href="//secure.adnxs.com" rel="dns-prefetch"/>
+<link href="//static.criteo.net" rel="dns-prefetch"/>
+<link href="//static.milibris.com" rel="dns-prefetch"/>
+<link href="//trc.taboola.com" rel="dns-prefetch"/>
+<link href="//widget.criteo.com" rel="dns-prefetch"/>
+<link href="//www.facebook.com" rel="dns-prefetch"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<link href="//www.google.com" rel="dns-prefetch"/>
+<link href="//www.google.fr" rel="dns-prefetch"/>
+<link href="//www.googleadservices.com" rel="dns-prefetch"/>
+<link href="//x.bidswitch.net" rel="dns-prefetch"/>
+<link href="https://nxtck.com" rel="dns-prefetch"/>
+<!-- / DNS Prefetch -->
+<!-- Intégration Windows 8 -->
+<meta content="ePresse.ePresse" name="msApplication-ID"/>
+<meta content="ePresse.ePresse_bmddq8nvvkea8" name="msApplication-PackageFamilyName"/>
+<!-- / Intégration Windows 8 -->
+<!-- Intégration Android -->
+<meta content="app-id=fr.epresse.android" name="google-play-app"/>
+<!-- / Intégration Android -->
+<!-- Metas -->
+<meta content="" name="description"/>
+<!-- / Metas -->
+<!-- Favicons -->
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/favicon.ico?1592482116" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/favicon.png?1592482116" rel="icon" type="image/png"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-xxlarge.png?1592482116" rel="icon" sizes="192x192" type="image/png"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-small.png?1592482116" rel="apple-touch-icon-precomposed"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-small.png?1592482116" rel="apple-touch-icon-precomposed" sizes="57x57"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-medium.png?1592482116" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-large.png?1592482116" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-xlarge.png?1592482116" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="https://orange.epresse.fr/public/assets/images2017/icones/apple-touch-icon-xxlarge.png?1592482116" rel="apple-touch-icon-precomposed" sizes="192x192"/>
+<!-- /Favicons -->
+<!-- Marqueurs -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KDTJ8SC');</script>
+<!-- End Google Tag Manager --> <meta content="Lisez en toute liberté vos journaux &amp; magazines préférés : L'Équipe, Les Échos, Le Figaro, Sud Ouest, Le Point, ELLE, Auto Plus, Voici, 01 Net … Bénéficiez des meilleurs tarifs en vous abonnant aux BOUQUETS sur le site www.ePresse.fr, et utilisez vos crédits dans l'application pour tablettes et smartphones. Testez pour 1€ sans engagement !" property="og:description"/>
+<meta content="https://orange.epresse.fr/public/www/images/opengraph/image_OpenGraph.jpg" property="og:image"/>
+<meta content="ePresse.fr" property="og:site_name"/>
+<meta content="ePresse.fr" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://orange.epresse.fr/magazine/what-hifi/2020-07-01" property="og:url"/>
+<meta content="summary" property="twitter:card"/>
+<meta content="What Hifi du 01 juillet 2020 — 3,99 € à l'unité" property="twitter:description"/>
+<meta content="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/92/l-doc-id/182335/doc-version/4/profile/cover-big.jpg" property="twitter:image"/>
+<meta content="Lisez What Hifi sur ePresse.fr" property="twitter:title"/>
+<!-- / Marqueurs -->
+<!-- OpenSearch -->
+<link href="https://orange.epresse.fr/public/opensearch.xml?1593443491" rel="search" title="ePresse" type="application/opensearchdescription+xml"/>
+<!-- / OpenSearch -->
+<script type="application/x-javascript">
+            // Url du site.
+            var __URL__ = "https://orange.epresse.fr/",
+                __ENVIRONNEMENT__ = "prod",
+                __URL_ORANGE__ = "https://orange-connect.orange.fr/amp/connect/epresse",
+                __URL_FICHIERS_STATIQUES__ = "https://orange.epresse.fr/public/",
+                __TVA__ = 2.1,
+                __ROUTE_COURANTE__ = 'www/titre-presse';
+
+                            // Préfixe des routes
+                var __PREFIXE_ROUTES__ = "www/";
+                    </script>
+<!--[if lt IE 9]>
+        <script src="https://orange.epresse.fr/public/assets/js/html5shiv.min.js?1593443531"></script><![endif]-->
+<script src="https://orange.epresse.fr/public/assets/js/commun.min.js?1593443531"></script>
+<link href="https://orange.epresse.fr/public/assets/css/2017/styles.min.css?1593443526" rel="stylesheet" type="text/css"/>
+<!-- Deep links -->
+<link href="https://orange.epresse.fr/issue/208/208/170412" rel="alternate"/>
+<link href="android-app://fr.epresse.android/http/issue/208/208/170412" rel="alternate"/>
+<meta content="app-id=id430832375, app-argument=http/issue/208/208/170412" name="apple-itunes-app"/>
+<link href="ios-app://id430832375/http/issue/208/208/170412" rel="alternate"/>
+<!-- / Deep links -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css" rel="stylesheet"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js"></script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			$("[data-fancybox=parcours-ulysse-1]").fancybox({
+				toolbar  : false,
+				buttons : false,
+				smallBtn : false,
+				loop : false,
+				hash : false,
+				transitionEffect : "slide",
+				iframe : {
+					css : {
+						width : '95%',
+						height : '800px'
+					}
+
+				},
+				clickSlide : false,
+				clickOutside : 'close',
+				lang : 'fr',
+				i18n : {
+					'fr' : {
+						CLOSE       : 'Fermer',
+						NEXT        : 'Suivant',
+						PREV        : 'Précédent',
+						ERROR       : 'Le contenu demandé ne peut pas être chargé<br/> Veuillez réessayer plus tard.',
+						PLAY_START  : 'Démarrer le diaporama',
+						PLAY_STOP   : 'Arrêter le diaporama',
+						FULL_SCREEN : 'Plein écran',
+						THUMBS      : 'Miniatures'
+					}
+				},
+				baseTpl :
+				'<div class="fancybox-container" role="dialog" tabindex="-1">' +
+				'<div class="fancybox-bg"></div>' +
+				'<div class="fancybox-inner">' +
+				'<div class="fancybox-stage"></div>' +
+				'</div>' +
+				'</div>',
+				btnTpl : {
+					// This small close button will be appended to your html/inline/ajax content by default,
+					// if "smallBtn" option is not set to false
+					smallBtn   : '<button data-fancybox-close class="fancybox-close-small" title=""></button>'
+				}
+			});
+		});
+	</script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) --><noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KDTJ8SC" style="display:none;visibility:hidden" width="0"></iframe></noscript><!-- End Google Tag Manager (noscript) --> <div id="page">
+<div class="ajax-loader" data-remplacer-contenu="true" data-url="/ajax/flashes"></div>
+<div class="ajax-loader" data-header="true" data-remplacer-contenu="true" data-url="/ajax/header">
+<header class=" kiosque " id="header" style="display: none;">
+<section id="navbar">
+<div class="wrap">
+<nav class="navigation" id="top-menu">
+<ul class="left size-m">
+<li id="nav_offers">
+<a href="/nos-offres">Nos offres</a>
+</li>
+<li id="nav_discover">
+<a href="/decouvrir">Découvrir</a>
+</li>
+<li class="size-m" id="nav_rvp-angelique">
+<a href="/la-revue-de-presse-d-angelique">
+							La revue de presse
+						</a>
+</li>
+</ul>
+<ul class="right size-m">
+<li class="size-m" id="nav_magazines">
+<a href="/mon-compte/mes-achats">Mes magazines</a>
+</li>
+<li id="nav_pro-offer">
+<a href="/offre-pro?utm_source=epresse&amp;utm_medium=header&amp;utm_campaign=bouquet_entreprise">
+							Offre pro
+						</a>
+</li>
+									 ul&gt;
+			</ul></nav>
+</div>
+</section>
+<section id="connectbar">
+<div class="wrap">
+<a class="btn size-s" href="#menu-mobile" id="menu-mobile-button"><span></span></a>
+<div class="size-m" id="logo">
+<a class="epresse" href="/la-une">
+<span>ePresse</span>
+</a>
+</div>
+<div id="kiosque">
+<a class="catalogue" href="/la-une">
+<span>Tout le catalogue</span>
+<span class="triangle"></span>
+</a>
+<a class="premium" href="/kiosque_premium">
+<span>Kiosque Premium</span>
+<span class="triangle"></span>
+</a>
+</div>
+<div class="nav_user">
+<div id="nav_connexion">
+<div id="nav_checkin">
+<a class="btn size-m" href="/connexion">Se connecter</a>
+<a class="icon" href="/connexion"></a>
+</div>
+</div>
+<div class="size-m" id="nav_sabonner">
+<a class="btn" href="/nos-offres" title="S'abonner">S'abonner</a>
+</div>
+</div>
+</div>
+</section>
+<section id="catbar">
+<div class="wrap">
+<div class="menublock size-m">
+<nav class="navigation" id="menu-mobile">
+<ul>
+<li class="nav-mobile"><a href="/nos-offres">Nos offres</a></li>
+<li class="nav-mobile"><a href="/decouvrir">Découvrir</a></li>
+<li class="nav-mobile"><a href="/la-revue-de-presse-d-angelique">La revue de presse d'Angélique</a></li>
+<li class="nav-item " id="quotidiens-nationaux">
+<a href="/kiosque/categories/quotidiens-nationaux"></a>
+</li>
+<li class="nav-item " id="quotidiens-regionaux">
+<a href="/kiosque/categories/quotidiens-regionaux"></a>
+</li>
+<li class="nav-item " id="news-mag">
+<a href="/kiosque/categories/news-mag"></a>
+</li>
+<li class="nav-item " id="presse-regionale">
+<a href="/kiosque/categories/presse-regionale"></a>
+</li>
+<li class="nav-item " id="presse-regionale_auvergne-rhone-alpes">
+<a href="/kiosque/categories/presse-regionale_auvergne-rhone-alpes"></a>
+</li>
+<li class="nav-item " id="presse-regionale_bourgogne-franche-comte">
+<a href="/kiosque/categories/presse-regionale_bourgogne-franche-comte"></a>
+</li>
+<li class="nav-item " id="presse-regionale_bretagne">
+<a href="/kiosque/categories/presse-regionale_bretagne"></a>
+</li>
+<li class="nav-item " id="presse-regionale_centre-val-de-loire">
+<a href="/kiosque/categories/presse-regionale_centre-val-de-loire"></a>
+</li>
+<li class="nav-item " id="presse-regionale_corse">
+<a href="/kiosque/categories/presse-regionale_corse"></a>
+</li>
+<li class="nav-item " id="presse-regionale_ile-de-france">
+<a href="/kiosque/categories/presse-regionale_ile-de-france"></a>
+</li>
+<li class="nav-item " id="presse-regionale_grand-est">
+<a href="/kiosque/categories/presse-regionale_grand-est"></a>
+</li>
+<li class="nav-item " id="presse-regionale_hauts-de-france">
+<a href="/kiosque/categories/presse-regionale_hauts-de-france"></a>
+</li>
+<li class="nav-item " id="presse-regionale_normandie">
+<a href="/kiosque/categories/presse-regionale_normandie"></a>
+</li>
+<li class="nav-item " id="presse-regionale_nouvelle-aquitaine">
+<a href="/kiosque/categories/presse-regionale_nouvelle-aquitaine"></a>
+</li>
+<li class="nav-item " id="presse-regionale_occitanie">
+<a href="/kiosque/categories/presse-regionale_occitanie"></a>
+</li>
+<li class="nav-item " id="presse-regionale_outre-mer">
+<a href="/kiosque/categories/presse-regionale_outre-mer"></a>
+</li>
+<li class="nav-item " id="presse-regionale_pays-de-la-loire">
+<a href="/kiosque/categories/presse-regionale_pays-de-la-loire"></a>
+</li>
+<li class="nav-item " id="presse-regionale_provence-alpes-cote-d-azur">
+<a href="/kiosque/categories/presse-regionale_provence-alpes-cote-d-azur"></a>
+</li>
+<li class="nav-item " id="international">
+<a href="/kiosque/categories/international"></a>
+</li>
+<li class="nav-item " id="sport">
+<a href="/kiosque/categories/sport"></a>
+</li>
+<li class="nav-item " id="sport_football-rugby">
+<a href="/kiosque/categories/sport_football-rugby"></a>
+</li>
+<li class="nav-item " id="sport_velo">
+<a href="/kiosque/categories/sport_velo"></a>
+</li>
+<li class="nav-item " id="sport_glisse">
+<a href="/kiosque/categories/sport_glisse"></a>
+</li>
+<li class="nav-item " id="sport_autres-sports">
+<a href="/kiosque/categories/sport_autres-sports"></a>
+</li>
+<li class="nav-item " id="auto-moto">
+<a href="/kiosque/categories/auto-moto"></a>
+</li>
+<li class="nav-item " id="auto-moto_auto">
+<a href="/kiosque/categories/auto-moto_auto"></a>
+</li>
+<li class="nav-item " id="auto-moto_moto">
+<a href="/kiosque/categories/auto-moto_moto"></a>
+</li>
+<li class="nav-item " id="feminin">
+<a href="/kiosque/categories/feminin"></a>
+</li>
+<li class="nav-item " id="feminin_mode">
+<a href="/kiosque/categories/feminin_mode"></a>
+</li>
+<li class="nav-item " id="feminin_bien-etre">
+<a href="/kiosque/categories/feminin_bien-etre"></a>
+</li>
+<li class="nav-item " id="feminin_famille">
+<a href="/kiosque/categories/feminin_famille"></a>
+</li>
+<li class="nav-item " id="people-tv">
+<a href="/kiosque/categories/people-tv"></a>
+</li>
+<li class="nav-item " id="people-tv_people">
+<a href="/kiosque/categories/people-tv_people"></a>
+</li>
+<li class="nav-item " id="people-tv_tv">
+<a href="/kiosque/categories/people-tv_tv"></a>
+</li>
+<li class="nav-item " id="culture">
+<a href="/kiosque/categories/culture"></a>
+</li>
+<li class="nav-item " id="culture_musique">
+<a href="/kiosque/categories/culture_musique"></a>
+</li>
+<li class="nav-item " id="culture_arts">
+<a href="/kiosque/categories/culture_arts"></a>
+</li>
+<li class="nav-item " id="culture_lecture">
+<a href="/kiosque/categories/culture_lecture"></a>
+</li>
+<li class="nav-item " id="culture_photo">
+<a href="/kiosque/categories/culture_photo"></a>
+</li>
+<li class="nav-item " id="culture_cinema">
+<a href="/kiosque/categories/culture_cinema"></a>
+</li>
+<li class="nav-item " id="loisirs">
+<a href="/kiosque/categories/loisirs"></a>
+</li>
+<li class="nav-item " id="loisirs_animaux">
+<a href="/kiosque/categories/loisirs_animaux"></a>
+</li>
+<li class="nav-item " id="loisirs_passions">
+<a href="/kiosque/categories/loisirs_passions"></a>
+</li>
+<li class="nav-item " id="loisirs_chasse-peche">
+<a href="/kiosque/categories/loisirs_chasse-peche"></a>
+</li>
+<li class="nav-item " id="loisirs_voyage">
+<a href="/kiosque/categories/loisirs_voyage"></a>
+</li>
+<li class="nav-item " id="economie">
+<a href="/kiosque/categories/economie"></a>
+</li>
+<li class="nav-item " id="jeunesse">
+<a href="/kiosque/categories/jeunesse"></a>
+</li>
+<li class="nav-item " id="maison">
+<a href="/kiosque/categories/maison"></a>
+</li>
+<li class="nav-item " id="maison_deco">
+<a href="/kiosque/categories/maison_deco"></a>
+</li>
+<li class="nav-item " id="maison_jardin">
+<a href="/kiosque/categories/maison_jardin"></a>
+</li>
+<li class="nav-item " id="maison_bricolage">
+<a href="/kiosque/categories/maison_bricolage"></a>
+</li>
+<li class="nav-item " id="cuisine-et-vins">
+<a href="/kiosque/categories/cuisine-et-vins"></a>
+</li>
+<li class="nav-item " id="masculin">
+<a href="/kiosque/categories/masculin"></a>
+</li>
+<li class="nav-item " id="sciences-histoire">
+<a href="/kiosque/categories/sciences-histoire"></a>
+</li>
+<li class="nav-item " id="sciences-histoire_sciences">
+<a href="/kiosque/categories/sciences-histoire_sciences"></a>
+</li>
+<li class="nav-item " id="sciences-histoire_histoire">
+<a href="/kiosque/categories/sciences-histoire_histoire"></a>
+</li>
+<li class="nav-item " id="turf">
+<a href="/kiosque/categories/turf"></a>
+</li>
+<li class="nav-item " id="presse-pro">
+<a href="/kiosque/categories/presse-pro"></a>
+</li>
+<li class="nav-item " id="hi-tech-jeux-video">
+<a href="/kiosque/categories/hi-tech-jeux-video"></a>
+</li>
+<li class="nav-item " id="hi-tech-jeux-video_hi-tech">
+<a href="/kiosque/categories/hi-tech-jeux-video_hi-tech"></a>
+</li>
+<li class="nav-item " id="hi-tech-jeux-video_jeux-video">
+<a href="/kiosque/categories/hi-tech-jeux-video_jeux-video"></a>
+</li>
+</ul>
+</nav>
+<span class="plus">...</span>
+</div>
+<div id="searchform">
+<form action="/recherche" autocomplete="off" id="search" method="GET">
+<input name="q" placeholder="Rechercher un titre" type="search"/>
+<span class="btn">
+<input class="search-btn" type="submit" value="Rechercher"/>
+</span>
+</form>
+<section class="autocomplete blanc" id="liste-autocompletion" style="display: none;">
+<div><ul></ul></div>
+</section>
+</div>
+</div>
+</section>
+</header>
+</div>
+<section class="contenu" id="contenu">
+<!-- fil d'ariane -->
+<section id="ariane"><div class="wrap"><ul> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://orange.epresse.fr/la-une" itemprop="url"><i itemprop="title" style="font-style: normal;">Accueil</i></a></li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://orange.epresse.fr/kiosque" itemprop="url"><i itemprop="title" style="font-style: normal;">En Kiosque</i></a></li> <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span><a href="/kiosque/categories/hi-tech-jeux-video" itemprop="url"><i itemprop="title" style="font-style: normal;">Hi-tech - Jeux vidéo</i></a>, <a href="/kiosque/categories/hi-tech-jeux-video_hi-tech" itemprop="url"><i itemprop="title" style="font-style: normal;">Hi-tech</i></a></span></li></ul></div></section>
+<!-- / fil d'ariane -->
+<!-- bloc rappel -->
+<section class="titre rappel">
+<div class="wrap">
+<!-- bloc rappel sommaire -->
+<div class="issue">
+<figure class="pic">
+<span class="cover">
+<img alt="What Hifi" src="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/92/l-doc-id/182335/doc-version/4/profile/cover-small.jpg" title="What Hifi 01 juillet 2020"/>
+</span>
+</figure>
+<div class="issue-infos">
+<h1 class="title">What Hifi</h1>
+<span>
+<time datetime="2020-07-01">
+				01 juillet 2020
+			</time>
+                            — n°193
+            		</span>
+</div>
+</div>
+<!-- / bloc rappel sommaire -->
+<div class="titre-infos">
+<div class="ajax-loader" data-url="/ajax/bloc-titre-achat?numero=170412&amp;mode_simplifie=true" style="display: none;">
+<div class="abos">
+<form action="https://orange.epresse.fr/parcours-achat/etape-1" autocomplete="off" class="abonnement-section" data-prio="100" method="POST">
+<input name="commande[provenance]" type="hidden" value="web"/>
+<input name="commande[id_achat]" type="hidden" value="penelope"/>
+<input name="commande[type_achat]" type="hidden" value="abomb"/>
+<input name="commande[mid_numero_apres_pack]" type="hidden" value="170412"/>
+<div class="titre-option subscription inclup ">
+<div class="titre-option-title">
+<strong class="title">Inclus dans l'Offre Premium à 9,99€</strong>
+<p>Kiosque Premium : lisez sans compter vos magazines préférés dans votre kiosque dédié.</p>
+</div>
+<div class="titre-option-infos">
+<div class="action">
+<a class="btn" href="javascript:void(0);" onclick="$(this).parents('form').trigger('submit');" title="">
+<big>1€ le premier mois</big><br/>puis 9,99€/mois
+									        </a>
+</div>
+</div><!-- .titre-option-infos -->
+</div><!-- .titre-option -->
+</form>
+</div><!-- .abos -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        // bloc offres credits
+        $("[data-fancybox]").fancybox({
+            toolbar  : false,
+            buttons : false,
+            smallBtn : true,
+            loop : false,
+            hash : false,
+            transitionEffect : "slide",
+            iframe : {
+                css : {
+                    width : '95%',
+                    height : '610px'
+                }
+            },
+            clickSlide : false,
+            clickOutside : 'close',
+            lang : 'fr',
+            i18n : {
+                'fr' : {
+                    CLOSE       : 'Fermer',
+                    NEXT        : 'Suivant',
+                    PREV        : 'Précédent',
+                    ERROR       : 'Le contenu demandé ne peut pas être chargé<br/> Veuillez réessayer plus tard.',
+                    PLAY_START  : 'Démarrer le diaporama',
+                    PLAY_STOP   : 'Arrêter le diaporama',
+                    FULL_SCREEN : 'Plein écran',
+                    THUMBS      : 'Miniatures'
+                }
+            },
+            baseTpl :
+                '<div class="fancybox-container" role="dialog" tabindex="-1">' +
+                '<div class="fancybox-bg"></div>' +
+                '<div class="fancybox-inner">' +
+                '<div class="fancybox-stage"></div>' +
+                '</div>' +
+                '</div>',
+            btnTpl : {
+                // This small close button will be appended to your html/inline/ajax content by default,
+                // if "smallBtn" option is not set to false
+                smallBtn   : '<button data-fancybox-close class="fancybox-close-small" title=""></button>'
+            },
+            afterLoad : function( instance, current ) {
+                if ( instance.group.length > 1 && current.$content ) {
+                    current.$content.append('<div class="btn-controls"><button data-fancybox-prev title="Précédent" class="btn btn-prev">Précédent</button><button data-fancybox-next title="Suivant" class="btn btn-next">Suivant</button></div>');
+                }
+
+                if (current.index == 0) {
+                    current.$content.addClass("first-slide");
+                }
+
+                if (current.index == (instance.group.length - 1)) {
+                    current.$content.addClass("last-slide");
+                }
+            }
+        });
+    });
+</script>
+</div>
+</div>
+</div>
+</section>
+<!-- / bloc rappel -->
+<article itemscope="" itemtype="http://schema.org/Product">
+<span itemprop="brand" style="display: none;">What Hifi</span>
+<section class="titre">
+<div class="wrap">
+<!-- bloc couverture -->
+<div class="issue">
+<figure class="pic verifier-droits-internaute" data-mid="170412" data-type="">
+<span class="cover">
+<img alt="What Hifi du 01 juillet 2020" src="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/92/l-doc-id/182335/doc-version/4/profile/cover-big.jpg" title="What Hifi 01 juillet 2020"/>
+</span>
+<span class="fav verifier-favoris-internaute" data-mid="208" data-msg-ajouter-favoris="Ajouter aux favoris" data-msg-supprimer-favoris="Supprimer des favoris" data-type="" style="display: none;">
+<a href="javascript:void(0);">
+<span></span>
+</a>
+</span>
+</figure>
+</div>
+<!-- / bloc couverture -->
+<div class="titre-infos">
+<!-- bloc détails -->
+<h1 class="title">Lisez What Hifi</h1>
+<span>
+<time datetime="2020-07-01">01 juillet 2020</time>
+     — n°193</span>
+<span itemprop="name" style="display: none;">What Hifi n°193 — 01 juillet 2020</span>
+<span itemprop="mpn" style="display: none;">170412</span>
+<!-- / bloc détails -->
+<div class="ajax-loader" data-remplacer-contenu="true" data-titre-achat="true" data-url="/ajax/bloc-titre-achat?numero=170412" style="display: none;">
+<span itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" style="display: none;">
+<meta content="EUR" itemprop="priceCurrency"/>
+<span itemprop="price">3.99</span>
+</span><!-- / offers -->
+<div class="abos">
+<form action="https://orange.epresse.fr/parcours-achat/etape-1" autocomplete="off" class="abonnement-section" data-prio="100" method="POST">
+<input name="commande[provenance]" type="hidden" value="web"/>
+<input name="commande[id_achat]" type="hidden" value="penelope"/>
+<input name="commande[type_achat]" type="hidden" value="abomb"/>
+<input name="commande[mid_numero_apres_pack]" type="hidden" value="170412"/>
+<div class="titre-option subscription inclup ">
+<div class="titre-option-title">
+<strong class="title">Inclus dans l'Offre Premium à 9,99€</strong>
+<p>Kiosque Premium : lisez sans compter vos magazines préférés dans votre kiosque dédié.</p>
+</div>
+<div class="titre-option-infos">
+<div class="action">
+<a class="btn" href="javascript:void(0);" onclick="$(this).parents('form').trigger('submit');" title="">
+<big>1€ le premier mois</big><br/>puis 9,99€/mois
+									        </a>
+</div>
+</div><!-- .titre-option-infos -->
+</div><!-- .titre-option -->
+</form>
+<form action="https://orange.epresse.fr/parcours-achat/etape-1" autocomplete="off" class="abonnement-section" method="GET">
+<input name="commande[provenance]" type="hidden" value="web"/>
+<input name="commande[id_achat]" type="hidden" value="170412"/>
+<input name="commande[type_achat]" type="hidden" value="issue"/>
+<div class="titre-option buy">
+<div class="titre-option-title">
+<strong class="title">Acheter ce numéro</strong>
+<p>à l'unité</p>
+</div>
+<div class="titre-option-infos">
+<div class="price">
+<span>3,99 €</span></div>
+<div class="action">
+<input class="btn btn-white" type="submit" value="J'achète"/>
+</div>
+</div>
+</div><!-- .titre-option.buy -->
+</form>
+</div><!-- .abos -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        // bloc offres credits
+        $("[data-fancybox]").fancybox({
+            toolbar  : false,
+            buttons : false,
+            smallBtn : true,
+            loop : false,
+            hash : false,
+            transitionEffect : "slide",
+            iframe : {
+                css : {
+                    width : '95%',
+                    height : '610px'
+                }
+            },
+            clickSlide : false,
+            clickOutside : 'close',
+            lang : 'fr',
+            i18n : {
+                'fr' : {
+                    CLOSE       : 'Fermer',
+                    NEXT        : 'Suivant',
+                    PREV        : 'Précédent',
+                    ERROR       : 'Le contenu demandé ne peut pas être chargé<br/> Veuillez réessayer plus tard.',
+                    PLAY_START  : 'Démarrer le diaporama',
+                    PLAY_STOP   : 'Arrêter le diaporama',
+                    FULL_SCREEN : 'Plein écran',
+                    THUMBS      : 'Miniatures'
+                }
+            },
+            baseTpl :
+                '<div class="fancybox-container" role="dialog" tabindex="-1">' +
+                '<div class="fancybox-bg"></div>' +
+                '<div class="fancybox-inner">' +
+                '<div class="fancybox-stage"></div>' +
+                '</div>' +
+                '</div>',
+            btnTpl : {
+                // This small close button will be appended to your html/inline/ajax content by default,
+                // if "smallBtn" option is not set to false
+                smallBtn   : '<button data-fancybox-close class="fancybox-close-small" title=""></button>'
+            },
+            afterLoad : function( instance, current ) {
+                if ( instance.group.length > 1 && current.$content ) {
+                    current.$content.append('<div class="btn-controls"><button data-fancybox-prev title="Précédent" class="btn btn-prev">Précédent</button><button data-fancybox-next title="Suivant" class="btn btn-next">Suivant</button></div>');
+                }
+
+                if (current.index == 0) {
+                    current.$content.addClass("first-slide");
+                }
+
+                if (current.index == (instance.group.length - 1)) {
+                    current.$content.addClass("last-slide");
+                }
+            }
+        });
+    });
+</script>
+</div>
+</div><!-- .titre-infos -->
+</div><!-- .wrap -->
+</section> <!-- .titre -->
+</article>
+<section class="tabs">
+<div class="wrap">
+<ul class="tabs-list">
+<li><a href="#anciens" title="">Derniers numéros</a></li>
+</ul><!-- .tabs-list -->
+<div class="tabs-content">
+<div id="description"></div><!-- description --><!-- SEO -->
+<div id="anciens">
+<h2>
+						Les anciens numéros du magazine What Hifi					</h2>
+<div class="ajax-loader" data-lazy="true" data-remplacer-contenu="true" data-titre-achat="true" data-url="/ajax/derniers-numeros?numero=170412"></div>
+</div><!-- .tabs-content -->
+</div><!-- .wrap -->
+<!-- .tabs -->
+<!-- bloc autres -->
+<section class="also-like">
+<div class="wrap">
+<h2 class="title">
+			Les lecteurs du magazine What Hifi ont également aimé		</h2>
+<ul class="numeros list list8">
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/internet-pratique" title="Internet Pratique">
+<figure class="pic verifier-droits-internaute" data-mid="145745" data-mpid="1432" data-pid="1432" data-type="">
+<span class="cover">
+<img alt="Internet Pratique" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/3011/l-doc-id/713208/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">7,90 €</span> </figure>
+</a>
+<a href="/magazine/internet-pratique">
+<h5 class="title">Internet Pratique</h5>
+<time datetime="2020-03-04">04 mars 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/windows-internet-pratique-hors-serie" title="Windows &amp; Internet Pratique Hors-Série">
+<figure class="pic verifier-droits-internaute" data-mid="152892" data-mpid="1193" data-pid="1193" data-type="">
+<span class="cover">
+<img alt="Windows &amp; Internet Pratique Hors-Série" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/2108/l-doc-id/1018728/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">12,90 €</span> </figure>
+</a>
+<a href="/magazine/windows-internet-pratique-hors-serie">
+<h5 class="title">Windows &amp; Internet Pratique Hors-Série</h5>
+<time datetime="2020-04-30">30 avril 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/l-essentiel-du-drone" title="L'essentiel du drone">
+<figure class="pic verifier-droits-internaute" data-mid="140650" data-mpid="1640" data-pid="1640" data-type="">
+<span class="cover">
+<img alt="L'essentiel du drone" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/3263/l-doc-id/658127/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">3,90 €</span> </figure>
+</a>
+<a href="/magazine/l-essentiel-du-drone">
+<h5 class="title">L'essentiel du drone</h5>
+<time datetime="2020-03-25">25 mars 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/windows-10-pratique" title="Windows 10 Pratique">
+<figure class="pic verifier-droits-internaute" data-mid="145437" data-mpid="1680" data-pid="1680" data-type="">
+<span class="cover">
+<img alt="Windows 10 Pratique" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/3007/l-doc-id/714156/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">7,90 €</span> </figure>
+</a>
+<a href="/magazine/windows-10-pratique">
+<h5 class="title">Windows 10 Pratique</h5>
+<time datetime="2020-04-03">03 avril 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/windows-10-pratique-hors-serie" title="Windows 10 Pratique Hors Série">
+<figure class="pic verifier-droits-internaute" data-mid="118598" data-mpid="1712" data-pid="1712" data-type="">
+<span class="cover">
+<img alt="Windows 10 Pratique Hors Série" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/3375/l-doc-id/636290/doc-version/1/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">11,99 €</span> </figure>
+</a>
+<a href="/magazine/windows-10-pratique-hors-serie">
+<h5 class="title">Windows 10 Pratique Hors Série</h5>
+<time datetime="2019-12-13">13 décembre 2019</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/pc-pratique" title="PC Pratique">
+<figure class="pic verifier-droits-internaute" data-mid="171084" data-mpid="1711" data-pid="1711" data-type="">
+<span class="cover">
+<img alt="PC Pratique" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/3377/l-doc-id/635910/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">0,00 €</span> </figure>
+</a>
+<a href="/magazine/pc-pratique">
+<h5 class="title">PC Pratique</h5>
+<time datetime="2020-07-03">03 juillet 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/windows-internet-pratique" title="Windows &amp; Internet Pratique">
+<figure class="pic verifier-droits-internaute" data-mid="169005" data-mpid="1191" data-pid="1191" data-type="">
+<span class="cover">
+<img alt="Windows &amp; Internet Pratique" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/1829/l-doc-id/1174116/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">5,49 €</span> </figure>
+</a>
+<a href="/magazine/windows-internet-pratique">
+<h5 class="title">Windows &amp; Internet Pratique</h5>
+<time datetime="2020-06-26">26 juin 2020</time>
+</a>
+</li>
+<li class="issue" style="position:relative;">
+<a class="pic-link a-img" href="/magazine/01net-hors-serie" title="01net Hors-Série">
+<figure class="pic verifier-droits-internaute" data-mid="156266" data-mpid="387" data-pid="387" data-type="">
+<span class="cover">
+<img alt="01net Hors-Série" class="lazy" data-original="https://docimg-cdn.immanens.com/phepresse/getcover/logistic-code/PVN1/l-pub-id/1887/l-doc-id/1138027/doc-version/4/profile/cover-medium.jpg" width="100%"/>
+</span>
+<span class="price">4,49 €</span> </figure>
+</a>
+<a href="/magazine/01net-hors-serie">
+<h5 class="title">01net Hors-Série</h5>
+<time datetime="2020-05-14">14 mai 2020</time>
+</a>
+</li>
+</ul>
+</div>
+</section>
+<section class="mediums">
+<div class="wrap">
+<h2>
+<span>
+				Lisez ce numéro du magazine What Hifi			</span>
+</h2>
+<div class="choice">
+<div class="choice-screens">
+<h4>Sur tous vos écrans</h4>
+<ul>
+<li class="phone">Smartphone</li>
+<li class="comp">Ordinateur</li>
+<li class="tablet">Tablette</li>
+</ul>
+</div>
+<div class="choice-hconnec">
+<h4>Hors connexion</h4>
+<p>
+					Une fois téléchargé dans l'application, lisez votre titre même sans connexion 3G/4G ou wifi.
+				</p>
+</div>
+</div>
+</div>
+</section>
+<!-- / bloc autres -->
+<footer id="footer">
+<section id="download">
+<div class="wrap">
+<h3 class="title">Télécharger l'application ePresse.fr</h3>
+<ul>
+<li class="appstore"><a class="btn" href="https://itunes.apple.com/fr/app/epresse/id430832375?mt=8">App Store</a></li>
+<li class="googleplay"><a class="btn" href="https://play.google.com/store/apps/details?id=fr.epresse.android&amp;hl=fr">Google Play</a></li>
+</ul></div>
+</section>
+<section id="foot-infos">
+<div class="wrap">
+<div class="row">
+<div class="col apropos size-m">
+<h3 class="title">À propos</h3>
+<ul>
+<li><a href="/cgv">CGV</a></li>
+<li><a href="/politique-de-confidentialite">Politique de confidentialité</a></li>
+<li><a href="mailto:partenaires@epresse.fr">Être diffusé sur ePresse</a></li>
+<li><a href="mailto:presse@epresse.fr">Relation Presse</a></li>
+</ul>
+</div>
+<div class="col services size-m">
+<h3 class="title">Services</h3>
+<ul>
+<li><a href="/aide">Aide en ligne</a></li>
+<li><a href="mailto:support@epresse.fr">support@epresse.fr</a></li>
+<li><a href="mailto:support@epresse.fr">Contact</a></li>
+</ul>
+</div>
+<div class="col reseaux">
+<h3 class="title">Réseaux sociaux</h3>
+<ul>
+<li class="facebook"><a href="https://www.facebook.com/pages/ePresse/185455604842300">Suivez-nous sur Facebook</a></li>
+<li class="twitter"><a href="https://twitter.com/ePressefr">Suivez-nous sur Twitter</a></li>
+<li class="google"><a href="https://www.google.com/+EpresseFr">Suivez-nous sur Google +</a></li>
+</ul>
+</div>
+<div class="col newsletter size-m">
+<h3 class="title">Recevez la revue de presse d'Angélique</h3>
+<form action="/revue-de-presse/inscription" method="post">
+<input name="email" placeholder="votrenom@email.com" type="email"/>
+<input class="btn grisfonce" type="submit" value="S'abonner"/>
+</form>
+</div>
+<div class="col apropos size-s">
+<h3 class="title">Gardons le contact</h3>
+<ul>
+<li><a href="mailto:support@epresse.fr">Contact</a></li>
+<li><a href="mailto:presse@epresse.fr">Relation Presse</a></li>
+<li><a href="mailto:partenaires@epresse.fr">Être diffusé sur ePresse</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="size-m" id="legal">
+<div class="wrap">
+<p>© Copyright 2020 — ePresse.fr</p>
+<ul>
+<li><a href="/politique-de-confidentialite">Respect de la vie privée</a></li>
+<li><a href="/cgv">Conditions Générales de Vente</a></li>
+</ul>
+</div>
+</section>
+</footer>
+</div>
+<script type="text/javascript">
+        var $buoop = {};
+        $(window).load(function () {
+            var e = document.createElement("script");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute("src", "//browser-update.org/update.js");
+            document.body.appendChild(e);
+        });
+    </script>
+<script src="https://orange.epresse.fr/public/assets/js/cookies.min.js?1593443531"></script>
+</section></section></div></body>
+</html>

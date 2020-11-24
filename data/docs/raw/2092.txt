@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="37a35bd519baad70528272dff014e553" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-07-03 12:47:20" name="orange-generated-date"/><meta content="1593773240" name="orange-generated-timestamp"/><meta content="s0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Bébés nés sans bras : "Que veut-on cacher ?" Interpellé, le gouvernement répond</title><meta content="Plusieurs bébés sont nés avec une seule main, un seul avant-bras ou un seul bras, dans trois départements (Ain, Loire-Atlantique, Morbihan) en quelques années. Une concentration de cas qui a conduit l'agence Santé publique France, qui dépend du ministère de la Santé, à ouvrir trois enquêtes. Mais celles-ci n'ont pas identifié l'origine des handicaps. Deux anciennes ministres de l'Écologie, la centriste Corinne Lepage et l'ex-socialiste Delphine Batho, interpellent la ministre de la Santé Agnès Buzyn sur &quot;l'attitudes des autorités sanitaires&quot;, soupçonnées de vouloir enterrer l'affaire. D'autant que, selon Le Parisien, la chercheuse qui a révélé l'affaire, Emmanuelle Amar, employée dans un laboratoire financé par des fonds public, serait sur le point d'être licenciée. De son côté, le nouveau ministre de l'Agriculture Didier Guillaume estime qu'&quot;il n'y a aucune preuve scientifique&quot; que les pesticides soient la cause de ces malformations.
+
+Un nouveau scandale sanitaire se profile-t-il ? Sept bébés souffrants d'&quot;agénésie transverse des membres supérieurs&quot; (absence de formation d'une main, d'un avant-bras ou d'un bras au cours du développement de l'embryon) sont nés dans un périmètre de 17 kilomètres dans l'Ain, autour du village de Druillat, entre 2009 et 2014. En Loire-Atlantique, 3 bébés malformés sont nés autour de Mouzeil entre 2007 et 2008. Dans le Morbihan, dans la région de Guidel, ce handicap concerne 4 enfants nés entre 2011 et 2013. 
+
+
+
+L'agénésie transverse des membres supérieurs représente moins de 150 cas par an en France. Les causes peuvent être génétiques, liées à des contraintes physiques ou dues à des substances toxiques (alimentation, environnement ou médicaments). 
+
+Aucun produit &quot;responsable&quot; des malformations
+
+Quelle est l'origine des malformations dans l'Ain, en Loire-Atlantique et dans le Morbihan ? Mystère, selon l'agence sanitaire Santé publique France, qui a rendu ses conclusions le 4 octobre. Pour l'Ain, &quot;l'analyse statistique ne met pas en évidence un excès de cas par rapport à la moyenne nationale, et Santé publique France n'a pas identifié une exposition commune à la survenue de ces malformations&quot;, indique son rapport. &quot;Pour la Loire Atlantique et la Bretagne, l'investigation a conclu à un excès de cas. Cependant, aucune exposition commune n'a été identifiée&quot;. 
+
+Les investigations ont été menées sous deux formes : la recherche statistique d'un excès de cas et une enquête auprès des parents, via des questionnaires. Le but des questionnaires était d'identifier quels produits (pesticides, médicaments, produits ménagers...) auraient pu provoquer les malformations. Conclusion : &quot;On n'a pas d'élément démontré pour dire que tel produit est responsable&quot;, a expliqué Jean-Claude Désenclos, directeur scientifique de Santé publique France, quand le rapport de l'agence a été publié. 
+
+La piste des pesticides pas explorée
+
+L'agence n'a donc pas creusé la piste des pesticides. Pour les cas recensés en Bretagne, &quot;les calendriers d'épandage ne correspondaient pas à la période-clé de fragilité durant la grossesse&quot;, justifie l'épidémiologiste Bertrand Gagnière. 
+
+
+
+Concernant l'Ain, la structure basée à Lyon qui avait donné l'alerte pour ce département, le Remera, avait immédiatement contesté ces conclusions. &quot;On tombe des nues&quot;, jugeait alors sa directrice générale, l'épidémiologiste Emmanuelle Amar, lors d'un entretien téléphonique avec l'AFP. Le Remera a mené sa propre étude, dans laquelle il conclut que le nombre de cas dans l'Ain est statistiquement significatif. Mais lui et Santé publique France ne s'accordent pas sur la méthodologie.
+
+La lanceuse d'alerte sous le coup d'une procédure de licenciement
+
+&quot;Il ne suffit pas de dire 'C'est l'environnement, c'est l'agriculture'&quot;, juge le Dr Gagnière. &quot;En l'absence d'hypothèses, il ne sert à rien de lancer des recherches tous azimuts : on sait par expérience que ça ne débouche sur aucun résultat.&quot; Un argument contesté par Emmanuelle Amar : &quot;Dire 'On n'a pas trouvé la cause, alors on ne la cherche pas' est un raisonnement étrange&quot;, objecte-t-elle. &quot;Il peut y avoir un débat scientifique, mais il y a eu une investigation et on ne peut pas considérer que Santé publique France nierait l'existence de signaux&quot;, assurait de son côté, le 4 octobre, le directeur général de l'agence sanitaire, François Bourdillon. 
+
+Cette controverse intervient alors que l'avenir du Remera est menacé, deux des financiers de l'association (la région Auvergne-Rhône-Alpes et l'Inserm) ayant stoppé leur financement. On apprend en outre, vendredi 19 octobre dans Le Parisien, qu'Emmanuelle Amar est sous le coup d'une procédure de licenciement, tout comme les cinq membres de son équipe. &quot;Toutefois, Santé publique France, un autre co-financeur, a annoncé récemment qu'elle pourrait prolonger (les financements)... mais avec une autre équipe&quot;, précise le quotidien. 
+
+&quot;On veut empêcher un lanceur d'alerte de faire son travail&quot;
+
+Le Remera a prouvé l'utilité de ses travaux. Il a été fondé en 1973 après le scandale du thalidomide, un anti-nauséeux qui avait fait naître des milliers d'enfants sans bras entre 1957 et 1962. Cette structure a notamment aidé à montrer le lien entre incinérateurs et malformations rénales, et les conséquences possibles de la prise de l'antiépileptique Dépakine pendant la grossesse. 
+
+
+
+De quoi susciter les soupçons de certains. &quot;On veut empêcher un lanceur d'alerte de faire son travail. La décision de l'Inserm a été prise alors qu'Yves Lévy, le mari d'Agnès Buzyn (la ministre de la Santé, NDLR), était à la tête de cet organisme&quot;, a déclaré l'ancienne ministre de l'Écologie Delphine Batho jeudi, lors d'une conférence de presse organisée par l'eurodéputée écologiste Michèle Rivasi, spécialiste des scandales sanitaires, avec l'ancienne ministre écologiste Corinne Lepage. 
+
+&quot;On a l'impression que l'État fait tout pour étouffer l'affaire&quot;
+
+&quot;Je suis profondément troublée par l'attitude des autorités sanitaires, a fait savoir Delphine Batho, citée par Le Parisien. Santé publique France dit assumer de ne pas chercher les causes des malformations survenues chez ces enfants. La ministre de la Santé Agnès Buzyn, qui a la tutelle sur Santé publique France, ne s'exprime pas sur cette question. Que veut-on cacher ? C'est très choquant&quot;. 
+
+Même son de cloche chez Corinne Lepage : &quot;L'attitude de Santé publique France dans cette affaire est inadmissible. Pourquoi ne recherche-t-on pas la vérité dans ce dossier ? Veut-on mettre la poussière sous le tapis ? Il faut au contraire lancer un grand mouvement pour obliger l'État à mettre des registres de détection des malformations dans chaque région&quot;, estime l'ancienne ministre. Michèle Rivasi s'indigne également :  &quot;Je demande que Santé publique France reconnaisse qu'il a fait une erreur, rapporte le quotidien. Il est incompréhensible qu'il ne prenne pas en compte que les 7 cas d'enfants nés mal formés dans l'Ain l'ont été dans un rayon très réduit de 17 km. Et il faut vraiment chercher les causes : s'agit-il des pesticides ? De produits chimiques ? Du nucléaire ? Ou d'une autre raison ? On a l'impression que l'État fait tout pour étouffer l'affaire.&quot; 
+
+La ministre de la Santé Agnès Buzyn &quot;reste attenti(ve)&quot;
+
+Ce dont le gouvernement se défend. Au Parisien, l'entourage d'Agnès Buzyn assure que &quot;la ministre ne veut absolument pas enterrer l'affaire. Personne ne veut fermer les registres de détection des malformations. Mais il y avait un problème avec ce registre-là, le Remera, qui ne fonctionnait pas bien. On ne déjuge pas Santé publique France, mais on reste attentif à l'évolution de ce dossier, bien sûr.&quot; 
+
+Six registres de malformations congénitales existent en France : en Bretagne, à Paris, aux Antilles, à La Réunion et deux en Auvergne-Rhône-Alpes. Coordonnés par l'Agence sanitaire Santé publique France, ils ne couvrent que 19 départements et 19% des naissances. Le Remera est l'un de ces registres. 
+
+&quot;Aucune preuve scientifique&quot; que les pesticides soient en cause
+
+De son côté, le nouveau ministre de l'Agriculture, Didier Guillaume, estime que  &quot;sur la question des bébés sans bras il faut que la science fasse son travail&quot;. &quot;C'est aux scientifiques de faire la preuve ou non qu'il y a des conséquences à l'usage des pesticides ou pas&quot;, a-t-il jugé, vendredi sur RTL. &quot;Il y a peut-être des soupçons, mais il n'y a aucune preuve scientifique&quot;. 
+
+Sur la procédure de licenciement de la lanceuse d'alerte, le ministre déclare ne pas savoir &quot;pourquoi il pourrait y avoir ce licenciement. Il s'agit de ne rien étouffer&quot;. &quot;Je ne sais pas de quoi il retourne pour cette association, mais le monde comme la France ont besoin de lanceurs d'alertes&quot;, estime l'ancien socialiste. " name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="227362824389057" property="fb:pages"/><meta content="Orange Actualités" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oactu_tworangenews" property="twitter:site"/><meta content='Bébés nés sans bras : "Que veut-on cacher ?" Interpellé, le gouvernement répond' property="name"/><meta content="Orange avec AFP" property="author"/><meta content="Orange avec AFP" property="publisher"/><meta content="2018-10-29T14:46:32+01:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F090%2F2e4%2F8afdba5827e1f6f443c2c5a001%2Fbebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond%7C0902e48afdba5827e1f6f443c2c5a001.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2018-10-19T13:12:00+02:00" property="article:published_time"/><meta content="2018-10-19T13:12:00+02:00" property="article:modified_time"/><meta content="Environnement" property="article:section"/><meta content="Orange avec AFP" property="article:author"/><meta content="http://media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F090%2F2e4%2F8afdba5827e1f6f443c2c5a001%2Fbebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond%7C0902e48afdba5827e1f6f443c2c5a001.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content='Bébés nés sans bras : "Que veut-on cacher ?" Interpellé, le gouvernement répond' property="og:title"/><meta content="Plusieurs bébés sont nés avec une seule main, un seul avant-bras ou un seul bras, dans trois départements (Ain, Loire-Atlantique, Morbihan) en quelques années. Une concentration de cas qui a conduit l'agence Santé publique France, qui dépend du ministère de la Santé, à ouvrir trois enquêtes. Mais celles-ci n'ont pas identifié l'origine des handicaps. Deux anciennes ministres de l'Écologie, la centriste Corinne Lepage et l'ex-socialiste Delphine Batho, interpellent la ministre de la Santé Agnès Buzyn sur &quot;l'attitudes des autorités sanitaires&quot;, soupçonnées de vouloir enterrer l'affaire. D'autant que, selon Le Parisien, la chercheuse qui a révélé l'affaire, Emmanuelle Amar, employée dans un laboratoire financé par des fonds public, serait sur le point d'être licenciée. De son côté, le nouveau ministre de l'Agriculture Didier Guillaume estime qu'&quot;il n'y a aucune preuve scientifique&quot; que les pesticides soient la cause de ces malformations.
+
+Un nouveau scandale sanitaire se profile-t-il ? Sept bébés souffrants d'&quot;agénésie transverse des membres supérieurs&quot; (absence de formation d'une main, d'un avant-bras ou d'un bras au cours du développement de l'embryon) sont nés dans un périmètre de 17 kilomètres dans l'Ain, autour du village de Druillat, entre 2009 et 2014. En Loire-Atlantique, 3 bébés malformés sont nés autour de Mouzeil entre 2007 et 2008. Dans le Morbihan, dans la région de Guidel, ce handicap concerne 4 enfants nés entre 2011 et 2013. 
+
+
+
+L'agénésie transverse des membres supérieurs représente moins de 150 cas par an en France. Les causes peuvent être génétiques, liées à des contraintes physiques ou dues à des substances toxiques (alimentation, environnement ou médicaments). 
+
+Aucun produit &quot;responsable&quot; des malformations
+
+Quelle est l'origine des malformations dans l'Ain, en Loire-Atlantique et dans le Morbihan ? Mystère, selon l'agence sanitaire Santé publique France, qui a rendu ses conclusions le 4 octobre. Pour l'Ain, &quot;l'analyse statistique ne met pas en évidence un excès de cas par rapport à la moyenne nationale, et Santé publique France n'a pas identifié une exposition commune à la survenue de ces malformations&quot;, indique son rapport. &quot;Pour la Loire Atlantique et la Bretagne, l'investigation a conclu à un excès de cas. Cependant, aucune exposition commune n'a été identifiée&quot;. 
+
+Les investigations ont été menées sous deux formes : la recherche statistique d'un excès de cas et une enquête auprès des parents, via des questionnaires. Le but des questionnaires était d'identifier quels produits (pesticides, médicaments, produits ménagers...) auraient pu provoquer les malformations. Conclusion : &quot;On n'a pas d'élément démontré pour dire que tel produit est responsable&quot;, a expliqué Jean-Claude Désenclos, directeur scientifique de Santé publique France, quand le rapport de l'agence a été publié. 
+
+La piste des pesticides pas explorée
+
+L'agence n'a donc pas creusé la piste des pesticides. Pour les cas recensés en Bretagne, &quot;les calendriers d'épandage ne correspondaient pas à la période-clé de fragilité durant la grossesse&quot;, justifie l'épidémiologiste Bertrand Gagnière. 
+
+
+
+Concernant l'Ain, la structure basée à Lyon qui avait donné l'alerte pour ce département, le Remera, avait immédiatement contesté ces conclusions. &quot;On tombe des nues&quot;, jugeait alors sa directrice générale, l'épidémiologiste Emmanuelle Amar, lors d'un entretien téléphonique avec l'AFP. Le Remera a mené sa propre étude, dans laquelle il conclut que le nombre de cas dans l'Ain est statistiquement significatif. Mais lui et Santé publique France ne s'accordent pas sur la méthodologie.
+
+La lanceuse d'alerte sous le coup d'une procédure de licenciement
+
+&quot;Il ne suffit pas de dire 'C'est l'environnement, c'est l'agriculture'&quot;, juge le Dr Gagnière. &quot;En l'absence d'hypothèses, il ne sert à rien de lancer des recherches tous azimuts : on sait par expérience que ça ne débouche sur aucun résultat.&quot; Un argument contesté par Emmanuelle Amar : &quot;Dire 'On n'a pas trouvé la cause, alors on ne la cherche pas' est un raisonnement étrange&quot;, objecte-t-elle. &quot;Il peut y avoir un débat scientifique, mais il y a eu une investigation et on ne peut pas considérer que Santé publique France nierait l'existence de signaux&quot;, assurait de son côté, le 4 octobre, le directeur général de l'agence sanitaire, François Bourdillon. 
+
+Cette controverse intervient alors que l'avenir du Remera est menacé, deux des financiers de l'association (la région Auvergne-Rhône-Alpes et l'Inserm) ayant stoppé leur financement. On apprend en outre, vendredi 19 octobre dans Le Parisien, qu'Emmanuelle Amar est sous le coup d'une procédure de licenciement, tout comme les cinq membres de son équipe. &quot;Toutefois, Santé publique France, un autre co-financeur, a annoncé récemment qu'elle pourrait prolonger (les financements)... mais avec une autre équipe&quot;, précise le quotidien. 
+
+&quot;On veut empêcher un lanceur d'alerte de faire son travail&quot;
+
+Le Remera a prouvé l'utilité de ses travaux. Il a été fondé en 1973 après le scandale du thalidomide, un anti-nauséeux qui avait fait naître des milliers d'enfants sans bras entre 1957 et 1962. Cette structure a notamment aidé à montrer le lien entre incinérateurs et malformations rénales, et les conséquences possibles de la prise de l'antiépileptique Dépakine pendant la grossesse. 
+
+
+
+De quoi susciter les soupçons de certains. &quot;On veut empêcher un lanceur d'alerte de faire son travail. La décision de l'Inserm a été prise alors qu'Yves Lévy, le mari d'Agnès Buzyn (la ministre de la Santé, NDLR), était à la tête de cet organisme&quot;, a déclaré l'ancienne ministre de l'Écologie Delphine Batho jeudi, lors d'une conférence de presse organisée par l'eurodéputée écologiste Michèle Rivasi, spécialiste des scandales sanitaires, avec l'ancienne ministre écologiste Corinne Lepage. 
+
+&quot;On a l'impression que l'État fait tout pour étouffer l'affaire&quot;
+
+&quot;Je suis profondément troublée par l'attitude des autorités sanitaires, a fait savoir Delphine Batho, citée par Le Parisien. Santé publique France dit assumer de ne pas chercher les causes des malformations survenues chez ces enfants. La ministre de la Santé Agnès Buzyn, qui a la tutelle sur Santé publique France, ne s'exprime pas sur cette question. Que veut-on cacher ? C'est très choquant&quot;. 
+
+Même son de cloche chez Corinne Lepage : &quot;L'attitude de Santé publique France dans cette affaire est inadmissible. Pourquoi ne recherche-t-on pas la vérité dans ce dossier ? Veut-on mettre la poussière sous le tapis ? Il faut au contraire lancer un grand mouvement pour obliger l'État à mettre des registres de détection des malformations dans chaque région&quot;, estime l'ancienne ministre. Michèle Rivasi s'indigne également :  &quot;Je demande que Santé publique France reconnaisse qu'il a fait une erreur, rapporte le quotidien. Il est incompréhensible qu'il ne prenne pas en compte que les 7 cas d'enfants nés mal formés dans l'Ain l'ont été dans un rayon très réduit de 17 km. Et il faut vraiment chercher les causes : s'agit-il des pesticides ? De produits chimiques ? Du nucléaire ? Ou d'une autre raison ? On a l'impression que l'État fait tout pour étouffer l'affaire.&quot; 
+
+La ministre de la Santé Agnès Buzyn &quot;reste attenti(ve)&quot;
+
+Ce dont le gouvernement se défend. Au Parisien, l'entourage d'Agnès Buzyn assure que &quot;la ministre ne veut absolument pas enterrer l'affaire. Personne ne veut fermer les registres de détection des malformations. Mais il y avait un problème avec ce registre-là, le Remera, qui ne fonctionnait pas bien. On ne déjuge pas Santé publique France, mais on reste attentif à l'évolution de ce dossier, bien sûr.&quot; 
+
+Six registres de malformations congénitales existent en France : en Bretagne, à Paris, aux Antilles, à La Réunion et deux en Auvergne-Rhône-Alpes. Coordonnés par l'Agence sanitaire Santé publique France, ils ne couvrent que 19 départements et 19% des naissances. Le Remera est l'un de ces registres. 
+
+&quot;Aucune preuve scientifique&quot; que les pesticides soient en cause
+
+De son côté, le nouveau ministre de l'Agriculture, Didier Guillaume, estime que  &quot;sur la question des bébés sans bras il faut que la science fasse son travail&quot;. &quot;C'est aux scientifiques de faire la preuve ou non qu'il y a des conséquences à l'usage des pesticides ou pas&quot;, a-t-il jugé, vendredi sur RTL. &quot;Il y a peut-être des soupçons, mais il n'y a aucune preuve scientifique&quot;. 
+
+Sur la procédure de licenciement de la lanceuse d'alerte, le ministre déclare ne pas savoir &quot;pourquoi il pourrait y avoir ce licenciement. Il s'agit de ne rien étouffer&quot;. &quot;Je ne sais pas de quoi il retourne pour cette association, mais le monde comme la France ont besoin de lanceurs d'alertes&quot;, estime l'ancien socialiste. " property="og:description"/><meta content="https://actu.orange.fr/societe/environnement/bebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond-magic-CNT0000017Apfg.html" property="og:url"/><meta content="https://www.facebook.com/orangeactufr" property="og:author"/><link href="https://actu.orange.fr/societe/environnement/bebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond-magic-CNT0000017Apfg.html" rel="canonical"/><link href="https://actu.orange.fr/societe/environnement/bebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond-magic-CNT0000017Apfg.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=actu_I1;d=1593773271;s=6f392ee6bef8e59ab931ee3266d6ee09c3db369bc959744d49ae27f3f074b3d3/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "actusocieteart"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "actu",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Actualités",
+            queryAdditionalParams : "module=chaine&bhv=actu&ap=-1",
+            cmplBlocks : [{ baseId : '-actu' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "actu",
+            "univers_affichage": "societe",
+            "sous_univers" : "environnement",
+            "source_contenu" : "Orange avec AFP",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//actu.orange.fr/css/min/article.header.46b2b5e9bb7ffb6ccb1eadbc600ea48e8cdf0f32.css" rel="stylesheet"/><script src="//actu.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script><script src="//pms.orange.fr/module/embed/2115/js/embed.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_actu.societe?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu" id="menu-v3-second-level"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark"><li class="fixed-width"><ul><li class=" mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                    Société
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" o_r_sante"><a href="//actu.orange.fr/societe/sante/" title="Santé">
+                                Santé
+                            </a></li><li class=" mv3-active o_r_environnement"><a href="//actu.orange.fr/societe/environnement/" title="Environnement">
+                                Environnement
+                            </a></li><li class=" o_r_fait-divers"><a href="//actu.orange.fr/societe/fait-divers/" title="Fait divers">
+                                Fait divers
+                            </a></li><li class=" o_r_people"><a href="//actu.orange.fr/societe/people/" title="People">
+                                People
+                            </a></li><li class=" o_r_culture"><a href="//actu.orange.fr/societe/culture/" title="Culture">
+                                Culture
+                            </a></li><li class=" o_r_media"><a href="//actu.orange.fr/societe/media/" title="Média">
+                                Média
+                            </a></li><li class=" o_r_high-tech"><a href="//actu.orange.fr/societe/high-tech/" title="High-tech">
+                                High-tech
+                            </a></li><li class=" o_r_insolite"><a href="//actu.orange.fr/societe/insolite/" title="Insolite">
+                                Insolite
+                            </a></li><li class=" o_r_videos"><a href="//actu.orange.fr/societe/videos/" title="Vidéos">
+                                Vidéos
+                            </a></li></ul></li></ul></div></header><header class="menu-v3-init o_r_url_menu" id="menu-v3-second-level-init"><div class="mv3-container-main mv3-loader-dark"><ul class="mv3-second-level"><li class="menu-item-1 mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                            Société
+                        </a></li><li class="menu-item-2 o_r_sante"><a href="//actu.orange.fr/societe/sante/" title="Santé">
+                            Santé
+                        </a></li><li class="menu-item-2 mv3-active o_r_environnement"><a href="//actu.orange.fr/societe/environnement/" title="Environnement">
+                            Environnement
+                        </a></li><li class="menu-item-2 o_r_fait-divers"><a href="//actu.orange.fr/societe/fait-divers/" title="Fait divers">
+                            Fait divers
+                        </a></li><li class="menu-item-2 o_r_people"><a href="//actu.orange.fr/societe/people/" title="People">
+                            People
+                        </a></li><li class="menu-item-2 o_r_culture"><a href="//actu.orange.fr/societe/culture/" title="Culture">
+                            Culture
+                        </a></li><li class="menu-item-2 o_r_media"><a href="//actu.orange.fr/societe/media/" title="Média">
+                            Média
+                        </a></li><li class="menu-item-2 o_r_high-tech"><a href="//actu.orange.fr/societe/high-tech/" title="High-tech">
+                            High-tech
+                        </a></li><li class="menu-item-2 o_r_insolite"><a href="//actu.orange.fr/societe/insolite/" title="Insolite">
+                            Insolite
+                        </a></li><li class="menu-item-2 o_r_videos"><a href="//actu.orange.fr/societe/videos/" title="Vidéos">
+                            Vidéos
+                        </a></li></ul></div></header>
+<div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Glissement de terrain en Birmanie: 166 mineurs morts, les recherches se poursuivent" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F9e0%2Fb74%2Fb157cadf4f7adee2d1a65c081d%2Fglissement-de-terrain-en-birmanie-166-mineurs-morts-les-recherches-se-poursuivent%7C000_1UG935-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">12:44</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/glissement-de-terrain-en-birmanie-166-mineurs-morts-les-recherches-se-poursuivent-CNT000001rkUqC.html" title="Glissement de terrain en Birmanie: 166 mineurs morts, les recherches se poursuivent">
+                            Glissement de terrain en Birmanie: 166 mineurs morts, les recherches ...
+                        </a></div><div class="date">
+                                03 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="En 20 ans, un nouveau tube a conquis de petits oiseaux canadiens" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F0bc%2F8db%2Fd8e1eb23acd457ea1240419823%2Fen-20-ans-un-nouveau-tube-a-conquis-de-petits-oiseaux-canadiens%7C000_1UI025-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/en-20-ans-un-nouveau-tube-a-conquis-de-petits-oiseaux-canadiens-CNT000001rj1ZY.html" title="En 20 ans, un nouveau tube a conquis de petits oiseaux canadiens">
+                            En 20 ans, un nouveau tube a conquis de petits oiseaux canadiens
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Pastoralisme et ours: 10 millions d'euros en 2020 pour soutenir la cohabitation" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Fe00%2Fa0f%2Fc87eaa92e31de0785270030559%2Fpastoralisme-et-ours-10-millions-d-euros-en-2020-pour-soutenir-la-cohabitation%7C000_1T56EJ-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/pastoralisme-et-ours-10-millions-d-euros-en-2020-pour-soutenir-la-cohabitation-CNT000001rj1Q1.html" title="Pastoralisme et ours: 10 millions d'euros en 2020 pour soutenir la cohabitation">
+                            Pastoralisme et ours: 10 millions d'euros en 2020 pour soutenir la ...
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="La justice ordonne une expertise sur les rejets d'une usine d'engrais à Saint-Malo" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Ff87%2F2ae%2F418ab5a88912db4cba54cd3c67%2Fla-justice-ordonne-une-expertise-sur-les-rejets-d-une-usine-d-engrais-a-saint-malo%7C000_1U52YX-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/la-justice-ordonne-une-expertise-sur-les-rejets-d-une-usine-d-engrais-a-saint-malo-CNT000001riX3f.html" title="La justice ordonne une expertise sur les rejets d'une usine d'engrais à Saint-Malo">
+                            La justice ordonne une expertise sur les rejets d'une usine ...
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="Botswana: mort mystérieuse d'au moins 275 éléphants" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F9b7%2F200%2F98b16633edc231857fd7bd182b%2Fbotswana-mort-mysterieuse-d-au-moins-275-elephants%7C000_1KS6HK-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/botswana-mort-mysterieuse-d-au-moins-275-elephants-CNT000001riCXp.html" title="Botswana: mort mystérieuse d'au moins 275 éléphants">
+                            Botswana: mort mystérieuse d'au moins 275 éléphants
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="Birmanie: plus de 160 morts dans un glissement de terrain dans des mines de jade " src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F9e0%2Fb74%2Fb157cadf4f7adee2d1a65c081d%2Fbirmanie-plus-de-160-morts-dans-un-glissement-de-terrain-dans-des-mines-de-jade%7C000_1UG935-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">12:44</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/birmanie-plus-de-160-morts-dans-un-glissement-de-terrain-dans-des-mines-de-jade-CNT000001riOjW.html" title="Birmanie: plus de 160 morts dans un glissement de terrain dans des mines de jade ">
+                            Birmanie: plus de 160 morts dans un glissement de terrain dans des ...
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Confinés à l'étroit sur un îlot surpeuplé des Caraïbes" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Fd6f%2F548%2F13439268648397ae125da63e70%2Fconfines-a-l-etroit-sur-un-ilot-surpeuple-des-caraibes%7C000_1UE2W4-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/confines-a-l-etroit-sur-un-ilot-surpeuple-des-caraibes-CNT000001ri87L.html" title="Confinés à l'étroit sur un îlot surpeuplé des Caraïbes">
+                            Confinés à l'étroit sur un îlot surpeuplé des Caraïbes
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt="Couches bébés: nette amélioration de la qualité, mais encore des progrès à faire" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F375%2F0fd%2F331879e867a359f5677b185faf%2Fcouches-bebes-nette-amelioration-de-la-qualite-mais-encore-des-progres-a-faire%7C000_18J989-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/couches-bebes-nette-amelioration-de-la-qualite-mais-encore-des-progres-a-faire-CNT000001rinUa.html" title="Couches bébés: nette amélioration de la qualité, mais encore des progrès à faire">
+                            Couches bébés: nette amélioration de la qualité, mais encore des ...
+                        </a></div><div class="date">
+                                02 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Course au large et science en équipe pour pister les microplastiques" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Ffa7%2F60d%2Fa81524a54cbe1498fd79b9825c%2Fcourse-au-large-et-science-en-equipe-pour-pister-les-microplastiques%7C000_1U67HE-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">30:33</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/course-au-large-et-science-en-equipe-pour-pister-les-microplastiques-CNT000001rgM6W.html" title="Course au large et science en équipe pour pister les microplastiques">
+                            Course au large et science en équipe pour pister les microplastiques
+                        </a></div><div class="date">
+                                01 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt="Brésil: pire mois de juin en 13 ans pour les incendies en Amazonie" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2Ff7b%2F41d%2Fb1af14d4bfe391c2cbb1a2dcae%2Fbresil-pire-mois-de-juin-en-13-ans-pour-les-incendies-en-amazonie%7C000_1LW48X-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/bresil-pire-mois-de-juin-en-13-ans-pour-les-incendies-en-amazonie-CNT000001rhq48.html" title="Brésil: pire mois de juin en 13 ans pour les incendies en Amazonie">
+                            Brésil: pire mois de juin en 13 ans pour les incendies en Amazonie
+                        </a></div><div class="date">
+                                01 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Trottinettes et vélos électriques en libre-service à Grenoble" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F2a6%2F104%2F6a4ca2795a1b55496487712c80%2Ftrottinettes-et-velos-electriques-en-libre-service-a-grenoble%7C000_1JH9CX-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/trottinettes-et-velos-electriques-en-libre-service-a-grenoble-CNT000001rhmOz.html" title="Trottinettes et vélos électriques en libre-service à Grenoble">
+                            Trottinettes et vélos électriques en libre-service à Grenoble
+                        </a></div><div class="date">
+                                01 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt="Les sacs plastiques sont devenus payants au Japon" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F587%2F6a6%2Ff87483e6f347bdce14f6d91e89%2Fles-sacs-plastiques-sont-devenus-payants-au-japon%7C000_1BF6FX-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">35:16</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/les-sacs-plastiques-sont-devenus-payants-au-japon-CNT000001rhbab.html" title="Les sacs plastiques sont devenus payants au Japon">
+                            Les sacs plastiques sont devenus payants au Japon
+                        </a></div><div class="date">
+                                01 juillet 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Le photographe naturaliste Laurent Ballesta, star du 64e album de RSF" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F08d%2F279%2F08880d514ddb6d887d995ebc5e%2Fle-photographe-naturaliste-laurent-ballesta-star-du-64e-album-de-rsf%7C000_1J637N-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/environnement/le-photographe-naturaliste-laurent-ballesta-star-du-64e-album-de-rsf-CNT000001rh9Sk.html" title="Le photographe naturaliste Laurent Ballesta, star du 64e album de RSF">
+                            Le photographe naturaliste Laurent Ballesta, star du 64e album de RSF
+                        </a></div><div class="date">
+                                01 juillet 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main strip-alerte-info"><div class="main-container"><div class="alerte-info blocHref"><div class="title-alerte-info">
+                    ALERTE INFO
+                </div><div class="texte-alerte-info"><div class="slide"><span class="heure">12:39</span><a href="https://actu.orange.fr/politique/remaniement-demission-du-gouvernement-d-edouard-philippe-magic-CNT000001rkHbn.html" target="_self">
+                                                Emmanuel Macron nomme Jean Castex au poste de Premier ministre
+                                                    </a></div></div></div><div class="clear"></div></div></div><div class="container-main"><div class="main-container container-top fil-ariane"><a href="/societe/environnement/" title="retour en arrière"><span class="icon-arrow-left"></span>Toutes les news Environnement</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Bébés nés sans bras : "Que veut-on cacher ?" Interpellé, le gouvernement répond
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><article id="CNT0000017Apfg" itemscope="" itemtype="http://schema.org/Article"><span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta content="Orange Actu" itemprop="name"/><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="//c.orange.fr/logo-orange.png" itemprop="url"/></span></span><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><div class="image-wrapper"><div class="article-img"><img alt='Bébés nés sans bras : "Que veut-on cacher ?" Interpellé, le gouvernement répond' itemprop="image" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F090%2F2e4%2F8afdba5827e1f6f443c2c5a001%2Fbebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond%7C0902e48afdba5827e1f6f443c2c5a001.jpg?format=980x450&amp;facedetect=1&amp;quality=85"/></div><div class="caption-wrapper"><div class="caption-title" itemprop="name">Les deux anciennes ministres de l'Écologie Delphine Batho et Corinne Lepage demandent des comptes à la ministre de la Santé Agnès Buzyn dans l'affaire des bébés nés sans bras.</div><div class="caption-copyright" itemprop="copyrightHolder" itemtype="http://schema.org/Organization">©PHILIPPE HUGUEN / AFP</div></div></div><!-- .image-wrapper --></div><!-- fin article corps image --><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt='"Anticipation" et "réactivité": Agnès Buzyn défend sa gestion de la crise sanitaire' src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F6d1%2Fde3%2Fa052f6ed4cd6fd8252d66a42f6%2Fanticipation-et-reactivite-agnes-buzyn-defend-sa-gestion-de-la-crise-sanitaire%7C000_1UD4U9-highDef.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/anticipation-et-reactivite-agnes-buzyn-defend-sa-gestion-de-la-crise-sanitaire-CNT000001rfcNK.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'&quot;Anticipation&quot; et &quot;réactivité&quot;: Agnès Buzyn défend sa gestion de la crise sanitaire' });} else { javascript:void(0); }">
+                "Anticipation" et "réactivité": Agnès Buzyn défend sa gestion de la crise sanitaire
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/crise-du-coronavirus-l-anticipation-en-france-a-ete-sans-commune-mesure-assure-agnes-buzyn-magic-CNT000001rfmwG.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'Crise du coronavirus : &quot;l'anticipation&quot; en France a été &quot;sans commune mesure&quot;, assure Agnès Buzyn' });} else { javascript:void(0); }">
+                Crise du coronavirus : "l'anticipation" en France a été "sans commune mesure", assure Agnès Buzyn
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1901);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2018-10-19" itemprop="datePublished"/><meta content="2018-10-19" itemprop="dateModified"/><meta content="https://actu.orange.fr/societe/environnement/bebes-nes-sans-bras-que-veut-on-cacher-interpelle-le-gouvernement-repond-magic-CNT0000017Apfg.html" itemprop="mainEntityOfPage"/><meta content="  Plusieurs bébés sont nés avec une seule main, un seul avant-bras ou un seul bras, dans trois départements..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date"><span itemprop="author" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">Orange avec AFP</span></span>, publié le vendredi 19 octobre 2018 à 13h12
+                    </p><!-- Fin Date --><!-- TEXTE --><p><strong>Plusieurs bébés sont nés avec une seule main, un seul avant-bras ou un seul bras, dans trois départements (Ain, Loire-Atlantique, Morbihan) en quelques années. Une concentration de cas qui a conduit l'agence Santé publique France, qui dépend du ministère de la Santé, à ouvrir trois enquêtes. </strong></p><p><strong>Mais celles-ci n'ont pas identifié l'origine des handicaps. Deux anciennes ministres de l'Écologie, la centriste Corinne Lepage et l'ex-socialiste Delphine Batho, interpellent la ministre de la Santé Agnès Buzyn sur "l'attitudes des autorités sanitaires", soupçonnées de vouloir enterrer l'affaire. D'autant que, selon <em>Le Parisien</em>, la chercheuse qui a révélé l'affaire, Emmanuelle Amar, employée dans un laboratoire financé par des fonds public, serait sur le point d'être licenciée. De son côté, le nouveau ministre de l'Agriculture Didier Guillaume estime qu'"il n'y a aucune preuve scientifique" que les pesticides soient la cause de ces malformations.</strong><br/><br/><a href="https://actu.orange.fr/france/video-la-concentration-de-bebes-malformes-en-france-reste-inexpliquee-magic-CNT00000173g7y.html">Un nouveau scandale sanitaire</a> se profile-t-il ? Sept bébés souffrants d'"agénésie transverse des membres supérieurs" (absence de formation d'une main, d'un avant-bras ou d'un bras au cours du développement de l'embryon) sont nés <strong>dans un périmètre de 17 kilomètres dans l'Ain</strong>, autour du village de Druillat, entre 2009 et 2014. <strong>En Loire-Atlantique, 3 bébés malformés</strong> sont nés autour de Mouzeil entre 2007 et 2008. <strong>Dans le Morbihan, dans la région de Guidel, ce handicap concerne 4 enfants</strong> nés entre 2011 et 2013. <br/><br/></p><div class="ms-embed twitter rich twitter-1 ms-embed-1"><a id="embedAMP_2491148a72638863107c68b30d526018"></a><iframe data-type="ms-embed" frameborder="0" id="ms-embed-2491148a72638863107c68b30d526018-0f75b9f84bc948db165b4d68e66b12fc" sandbox="allow-scripts allow-same-origin allow-forms" src="//pms.orange.fr/module/embed/2115/sandbox?url=https%3A%2F%2Ftwitter.com%2Forangenewsfr%2Fstatus%2F1047884047572058112%3Fref_src%3Dtwsrc%255Etfw&amp;frm=0f75b9f84bc948db165b4d68e66b12fc&amp;maxWidth=500" style="width: 100%; height: 40px;"></iframe></div><br/><br/>
+L'agénésie transverse des membres supérieurs représente moins de 150 cas par an en France. Les causes peuvent être génétiques, liées à des contraintes physiques ou dues à des substances toxiques (alimentation, environnement ou médicaments). <br/><br/><strong>Aucun produit "responsable" des malformations</strong><br/><br/>
+Quelle est l'origine des malformations dans l'Ain, en Loire-Atlantique et dans le Morbihan ? Mystère, selon l'agence sanitaire Santé publique France, qui a rendu ses conclusions le 4 octobre. Pour l'Ain, "l'analyse statistique ne met pas en évidence un excès de cas par rapport à la moyenne nationale, et Santé publique France n'a pas identifié une exposition commune à la survenue de ces malformations", indique son rapport. "Pour la Loire Atlantique et la Bretagne, l'investigation a conclu à un excès de cas. Cependant, aucune exposition commune n'a été identifiée". <br/><br/>
+Les investigations ont été menées sous deux formes : la recherche statistique d'un excès de cas et une enquête auprès des parents, via des questionnaires. Le but des questionnaires était d'identifier quels produits (pesticides, médicaments, produits ménagers...) auraient pu provoquer les malformations. Conclusion : "On n'a pas d'élément démontré pour dire que tel produit est responsable", a expliqué Jean-Claude Désenclos, directeur scientifique de Santé publique France, quand le rapport de l'agence a été publié. <br/><br/><strong>La piste des pesticides pas explorée</strong><br/><br/>
+L'agence n'a donc pas creusé la piste des <a href="https://actu.orange.fr/politique/bebes-malformes-on-ne-veut-pas-voir-les-effets-des-pesticides-accuse-jadot-CNT0000017f5MD.html">pesticides</a>. Pour les cas recensés en Bretagne, "les calendriers d'épandage ne correspondaient pas à la période-clé de fragilité durant la grossesse", justifie l'épidémiologiste Bertrand Gagnière. <br/><br/><div class="ms-embed dailymotion-p-m video dailymotion-p-m-1 ms-embed-2"><a id="embedAMP_6076c9433bda3a18564cea62d5b00cc8"></a><div class="pip" data-pip-mode="pvp" data-pip-ref="pvp_6076c9433bda3a18564cea62d5b00cc8" id="pvpContainer_6076c9433bda3a18564cea62d5b00cc8"></div><script>
+    window.pvp_6076c9433bda3a18564cea62d5b00cc8 = new Pvp('dmpublic', {idDM: "x6vb5iw", mediaType: "dm-public"}, {
+        'sequenceUrl': 
+        
+        "//pms.orange.fr/module/pm/1892/videoInfoEdito/extId/x6vb5iw/adCategory/embed", 
+        'domNode': "pvpContainer_6076c9433bda3a18564cea62d5b00cc8",
+        "origin": "embed",
+        "mute": true,
+        "autoplay": false
+    });
+</script><div class="daily-motion-footer"><span><a href="https://www.dailymotion.com/video/x6vb5iw" target="_blank">Le mystère des bébés sans bras</a><em>par <a href="https://www.dailymotion.com/BFMTV" target="_blank">BFMTV</a></em></span><a alt="Signaler ce contenu" class="report o_r_abuseDM" data-id-dm="x6vb5iw" href="http://www.dailymotion.com/pageitem/abuse?request=%2Ffr%2Ffeatured%2Fvideo%2Fx6vb5iw" target="_blank" title="Signaler ce contenu"><span class="icon-flag"></span></a></div></div><br/><br/>
+Concernant l'Ain, la structure basée à Lyon qui avait donné l'alerte pour ce département, le Remera, avait immédiatement contesté ces conclusions. "On tombe des nues", jugeait alors sa directrice générale, l'épidémiologiste Emmanuelle Amar, lors d'un entretien téléphonique avec l'<em>AFP</em>. Le Remera a mené sa propre étude, dans laquelle il conclut que le nombre de cas dans l'Ain est statistiquement significatif. Mais lui et Santé publique France ne s'accordent pas sur la méthodologie.<br/><br/><strong>La lanceuse d'alerte sous le coup d'une procédure de licenciement</strong><br/><br/><strong>"Il ne suffit pas de dire <em>'C'est l'environnement, c'est l'agriculture'</em>"</strong>, juge le Dr Gagnière. "En l'absence d'hypothèses, il ne sert à rien de lancer des recherches tous azimuts : on sait par expérience que ça ne débouche sur aucun résultat." Un argument contesté par Emmanuelle Amar : <strong>"Dire <em>'On n'a pas trouvé la cause, alors on ne la cherche pas'</em> est un raisonnement étrange"</strong>, objecte-t-elle. "Il peut y avoir un débat scientifique, mais il y a eu une investigation et on ne peut pas considérer que Santé publique France nierait l'existence de signaux", assurait de son côté, le 4 octobre, le directeur général de l'agence sanitaire, François Bourdillon. <br/><br/>
+Cette controverse intervient alors que l'avenir du Remera est menacé, deux des financiers de l'association (la région Auvergne-Rhône-Alpes et l'Inserm) ayant stoppé leur financement. On apprend en outre, vendredi 19 octobre dans <em>Le Parisien</em>, qu'Emmanuelle Amar est sous le coup d'une procédure de licenciement, tout comme les cinq membres de son équipe. "Toutefois, Santé publique France, un autre co-financeur, a annoncé récemment qu'elle pourrait prolonger (les financements)... mais avec une autre équipe", précise le quotidien. <br/><br/><strong>"On veut empêcher un lanceur d'alerte de faire son travail"</strong><br/><br/>
+Le Remera a prouvé l'utilité de ses travaux. Il a été fondé en 1973 après le scandale du thalidomide, un anti-nauséeux qui avait fait naître des milliers d'enfants sans bras entre 1957 et 1962. Cette structure a notamment aidé à montrer le lien entre incinérateurs et malformations rénales, et les conséquences possibles de la prise de l'antiépileptique Dépakine pendant la grossesse. <br/><br/><div class="ms-embed twitter rich twitter-2 ms-embed-3"><a id="embedAMP_57c35ea48384967639d140fc0cb6a769"></a><iframe data-type="ms-embed" frameborder="0" id="ms-embed-57c35ea48384967639d140fc0cb6a769-4c99356aefe22ade4c1bbb10df92e05b" sandbox="allow-scripts allow-same-origin allow-forms" src="//pms.orange.fr/module/embed/2115/sandbox?url=https%3A%2F%2Ftwitter.com%2Fle_Parisien%2Fstatus%2F1053012158588612609%3Fref_src%3Dtwsrc%255Etfw&amp;frm=4c99356aefe22ade4c1bbb10df92e05b&amp;maxWidth=500" style="width: 100%; height: 40px;"></iframe></div><br/><br/>
+De quoi susciter les soupçons de certains. "On veut empêcher un lanceur d'alerte de faire son travail. La décision de l'Inserm a été prise alors qu'Yves Lévy, le mari d'Agnès Buzyn (la ministre de la Santé, NDLR), était à la tête de cet organisme", a déclaré l'ancienne ministre de l'Écologie Delphine Batho jeudi, lors d'une conférence de presse organisée par l'eurodéputée écologiste Michèle Rivasi, spécialiste des scandales sanitaires, avec l'ancienne ministre écologiste Corinne Lepage. <br/><br/><strong>"On a l'impression que l'État fait tout pour étouffer l'affaire"</strong><br/><br/>
+"Je suis profondément troublée par l'attitude des autorités sanitaires, a fait savoir Delphine Batho, citée par <em>Le Parisien</em>. Santé publique France dit assumer de ne pas chercher les causes des malformations survenues chez ces enfants. La ministre de la Santé Agnès Buzyn, qui a la tutelle sur Santé publique France, ne s'exprime pas sur cette question. Que veut-on cacher ? C'est très choquant". <br/><br/>
+Même son de cloche chez Corinne Lepage : "L'attitude de Santé publique France dans cette affaire est inadmissible. Pourquoi ne recherche-t-on pas la vérité dans ce dossier ? Veut-on mettre la poussière sous le tapis ? Il faut au contraire lancer un grand mouvement pour obliger l'État à mettre des registres de détection des malformations dans chaque région", estime l'ancienne ministre. Michèle Rivasi s'indigne également :  "Je demande que Santé publique France reconnaisse qu'il a fait une erreur, rapporte le quotidien. Il est incompréhensible qu'il ne prenne pas en compte que les 7 cas d'enfants nés mal formés dans l'Ain l'ont été dans un rayon très réduit de 17 km. Et il faut vraiment chercher les causes : s'agit-il des pesticides ? De produits chimiques ? Du nucléaire ? Ou d'une autre raison ? On a l'impression que l'État fait tout pour étouffer l'affaire." <br/><br/><strong>La ministre de la Santé Agnès Buzyn "reste attenti(ve)"</strong><br/><br/>
+Ce dont le gouvernement se défend. Au <em>Parisien</em>, l'entourage d'Agnès Buzyn assure que "la ministre ne veut absolument pas enterrer l'affaire. Personne ne veut fermer les registres de détection des malformations. Mais il y avait un problème avec ce registre-là, le Remera, qui ne fonctionnait pas bien. On ne déjuge pas Santé publique France, mais on reste attentif à l'évolution de ce dossier, bien sûr." <br/><br/>
+Six registres de malformations congénitales existent en France : en Bretagne, à Paris, aux Antilles, à La Réunion et deux en Auvergne-Rhône-Alpes. Coordonnés par l'Agence sanitaire Santé publique France, ils ne couvrent que 19 départements et 19% des naissances. Le Remera est l'un de ces registres. <br/><br/><strong>"Aucune preuve scientifique" que les pesticides soient en cause</strong><br/><br/>
+De son côté, le nouveau ministre de l'Agriculture, Didier Guillaume, estime que  "sur la question des bébés sans bras il faut que la science fasse son travail". "C'est aux scientifiques de faire la preuve ou non qu'il y a des conséquences à l'usage des pesticides ou pas", a-t-il jugé, vendredi sur <em>RTL</em>. "Il y a peut-être des soupçons, mais il n'y a aucune preuve scientifique". <br/><br/>
+Sur la procédure de licenciement de la lanceuse d'alerte, le ministre déclare ne pas savoir "pourquoi il pourrait y avoir ce licenciement. Il s'agit de ne rien étouffer". "Je ne sais pas de quoi il retourne pour cette association, mais le monde comme la France ont besoin de lanceurs d'alertes", estime l'ancien socialiste. </div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+$(document).ready(function () {
+    if ($('.news-top-article').length && $('.sticky-block-column').length) {
+    //to set banner "a lire aussi" position at the top if "news-top-article" is present
+        $('.article-corps').addClass('news-top-check');
+        $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+    }
+});
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1901
+                    },
+                    "magicRequest": {
+                        "hostname" : "//actu.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'actu', 2, 4, 'CNT0000017Apfg');
+    });
+</script><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20181019'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_1_300x250_actu.societe" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_1_300x250_actu.societe" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="fil-info no-js o_r_url_filinfo"><div class="fil-info-entete bloc-commun"><h2> Fil info</h2><nav class="fil-info-select" id="fil-info-select"><a class="fil-info-choix-categorie o_r_actu" href="#"><span id="fil-info-choix-label">Actu</span></a><ul class="fil-info-list-categorie mCS_destroyed" id="fil-info-list-categorie"><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Actu" href="#all">Actu</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="France" href="#france">France</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Politique" href="#politique">Politique</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Société" href="#societe">Société</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Monde" href="#monde">Monde</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Finance" href="#finance">Finance</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Auto" href="#auto">Auto</a></li></ul></nav></div><div class="fil-info-content bloc-commun"><div class="fil-info-datatitle o_r_news_1" data-text="Droits voisins: Google a fait appel de la décision de l'Autorité de la..." data-title="Media"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/media/droits-voisins-google-a-fait-appel-de-la-decision-de-l-autorite-de-la-concurrence-CNT000001rkVry.html"><span class="fil-info-datePublished">12:37</span><span class="fil-info-categorie">Media</span><span class="fil-info-datatitre">Droits voisins: Google a fait appel de la décision de l'Autorité de la concurrence</span></a></div><div class="fil-info-datatitle o_r_news_2" data-text="Marseille: règles du jeu et scénarios possibles pour le 3e tour des..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/marseille-regles-du-jeu-et-scenarios-possibles-pour-le-3e-tour-des-municipales-CNT000001rkOCc.html"><span class="fil-info-datePublished">12:20</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Marseille: règles du jeu et scénarios possibles pour le "3e tour" des municipales</span></a></div><div class="fil-info-datatitle o_r_news_3" data-text="Municipales à Marseille : Samia Ghali accepte de soutenir Michèle Rubirola, à..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/municipales-a-marseille-samia-ghali-accepte-de-soutenir-michele-rubirola-a-condition-d-etre-sa-premiere-adjointe-magic-CNT000001rkUSM.html"><span class="fil-info-datePublished">12:02</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Municipales à Marseille : Samia Ghali accepte de soutenir Michèle Rubirola, à condition d'être sa première adjointe</span></a></div><div class="fil-info-datatitle o_r_news_4" data-text="Glissement de terrain en Birmanie: 166 mineurs morts, les recherches se..." data-title="Fait-divers"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/fait-divers/glissement-de-terrain-en-birmanie-166-mineurs-morts-les-recherches-se-poursuivent-CNT000001rkUqC.html"><span class="fil-info-datePublished">11:54</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Glissement de terrain en Birmanie: 166 mineurs morts, les recherches se poursuivent</span></a></div><div class="fil-info-datatitle o_r_news_5" data-text="Le gouvernement démissionne, Macron se sépare de Philippe" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/le-gouvernement-demissionne-macron-se-separe-de-philippe-CNT000001rkOCl.html"><span class="fil-info-datePublished">11:49</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Le gouvernement démissionne, Macron se sépare de Philippe</span></a></div><div class="fil-info-datatitle o_r_news_6" data-text="Assassinat de Khashoggi: 20 Saoudiens jugés par contumace en Turquie" data-title="Fait-divers"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/fait-divers/assassinat-de-khashoggi-20-saoudiens-juges-par-contumace-en-turquie-CNT000001rkPq8.html"><span class="fil-info-datePublished">11:48</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Assassinat de Khashoggi: 20 Saoudiens jugés par contumace en Turquie</span></a></div><div class="fil-info-datatitle o_r_news_7" data-text="La perpétuité requise contre le jihadiste français Tyler Vilus" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/la-perpetuite-requise-contre-le-jihadiste-francais-tyler-vilus-CNT000001rkU03.html"><span class="fil-info-datePublished">11:28</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">La perpétuité requise contre le jihadiste français Tyler Vilus</span></a></div><div class="fil-info-datatitle o_r_news_8" data-text="Edouard Philippe va quitter Matignon après trois ans en fonction " data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/edouard-philippe-va-quitter-matignon-apres-trois-ans-en-fonction-CNT000001rkTpb.html"><span class="fil-info-datePublished">11:25</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Edouard Philippe va quitter Matignon après trois ans en fonction </span></a></div><div class="fil-info-datatitle o_r_news_9" data-text="Edouard Philippe, le soldat inconnu qui s'était fait un nom" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/edouard-philippe-le-soldat-inconnu-qui-s-etait-fait-un-nom-CNT000001rkTpC.html"><span class="fil-info-datePublished">11:16</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Edouard Philippe, le soldat inconnu qui s'était fait un nom</span></a></div><div class="fil-info-datatitle o_r_news_10" data-text="Démission d'Édouard Philippe : ses moments marquants à Matignon" data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/demission-d-edouard-philippe-ses-moments-marquants-a-matignon-magic-CNT000001rkSAF.html"><span class="fil-info-datePublished">11:08</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Démission d'Édouard Philippe : ses moments marquants à Matignon</span></a></div><div class="fil-info-datatitle o_r_news_11" data-text="Réforme des retraites : Emmanuel Macron joue avec le feu, estime Philippe..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/reforme-des-retraites-emmanuel-macron-joue-avec-le-feu-estime-philippe-martinez-magic-CNT000001rkSBG.html"><span class="fil-info-datePublished">11:06</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Réforme des retraites : Emmanuel Macron "joue avec le feu", estime Philippe Martinez </span></a></div><div class="fil-info-datatitle o_r_news_12" data-text="Remaniement : démission du gouvernement d'Edouard Philippe" data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/remaniement-demission-du-gouvernement-d-edouard-philippe-magic-CNT000001rkHbn.html"><span class="fil-info-datePublished">10:00</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Remaniement : démission du gouvernement d'Edouard Philippe</span></a></div><div class="fil-info-datatitle o_r_news_13" data-text="L'Elysée annonce la démission du gouvernement d'Edouard Philippe" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/l-elysee-annonce-la-demission-du-gouvernement-d-edouard-philippe-CNT000001rkEcO.html"><span class="fil-info-datePublished">09:51</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">L'Elysée annonce la démission du gouvernement d'Edouard Philippe</span></a></div><div class="fil-info-datatitle o_r_news_14" data-text="Loi sur la sécurité: le grand ménage des Hongkongais sur les réseaux sociaux" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/loi-sur-la-securite-le-grand-menage-des-hongkongais-sur-les-reseaux-sociaux-CNT000001rkEcF.html"><span class="fil-info-datePublished">09:50</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Loi sur la sécurité: le grand ménage des Hongkongais sur les réseaux sociaux</span></a></div><div class="fil-info-datatitle o_r_news_15" data-text="Le gouvernement d'Édouard Philippe démissionne" data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/le-gouvernement-d-edouard-philippe-demissionne-magic-CNT000001rkCBX.html"><span class="fil-info-datePublished">09:45</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Le gouvernement d'Édouard Philippe démissionne</span></a></div><div class="fil-info-datatitle o_r_news_16" data-text="En Syrie, les récoltes abondantes redonnent de l'espoir face à la crise" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/en-syrie-les-recoltes-abondantes-redonnent-de-l-espoir-face-a-la-crise-CNT000001rkCu7.html"><span class="fil-info-datePublished">09:40</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">En Syrie, les récoltes abondantes redonnent de l'espoir face à la crise</span></a></div><div class="fil-info-datatitle o_r_news_17" data-text="Remaniement : Edouard Philippe remet la démission de son gouvernement" data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/remaniement-edouard-philippe-remet-la-demission-de-son-gouvernement-magic-CNT000001rkzKz.html"><span class="fil-info-datePublished">09:35</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Remaniement : Edouard Philippe remet la démission de son gouvernement</span></a></div><div class="fil-info-datatitle o_r_news_18" data-text="Accusations de harcèlement chez Ubisoft: le PDG promet un changement..." data-title="High-tech"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/high-tech/accusations-de-harcelement-chez-ubisoft-le-pdg-promet-un-changement-structurel-CNT000001rkw0i.html"><span class="fil-info-datePublished">09:16</span><span class="fil-info-categorie">High-tech</span><span class="fil-info-datatitre">Accusations de harcèlement chez Ubisoft: le PDG promet un "changement structurel" </span></a></div><div class="fil-info-datatitle o_r_news_19" data-text="Maladie de Lyme: ils attaquaient des labos sur la fiabilité de leurs tests,..." data-title="Sante"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/maladie-de-lyme-ils-attaquaient-des-labos-sur-la-fiabilite-de-leurs-tests-93-patients-deboutes-CNT000001rktdy.html"><span class="fil-info-datePublished">09:07</span><span class="fil-info-categorie">Sante</span><span class="fil-info-datatitre">Maladie de Lyme: ils attaquaient des labos sur la fiabilité de leurs tests, 93 patients déboutés</span></a></div><div class="fil-info-datatitle o_r_news_20" data-text="Décentralisation : Emmanuel Macron annonce une grande conférence des..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/decentralisation-emmanuel-macron-annonce-une-grande-conference-des-territoires-des-cet-ete-magic-CNT000001rkoK0.html"><span class="fil-info-datePublished">09:03</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Décentralisation : Emmanuel Macron annonce une "grande conférence des territoires" dès cet été</span></a></div>
+</div><div class="fil-info-pagination bloc-commun"><div class="fil-info-counter"></div></div></div><!--[if lte IE 7]></div><![endif]--><!--[if IE 8]></div><![endif]--><script>
+    if (sUrlReferrer != 'undefined'){
+        var ref = sUrlReferrer;
+    }else {
+        var ref = "";
+    }
+    if(typeof Polaris == "undefined") Polaris = { };
+    Polaris.newsfeed = { limit: 7, src: "/fragments/fil-info/", currentCat: "all" };
+    function changeAllLinksFilInfo(tag_gstat){
+        img = new Image();
+        z_protocol = (document.location.protocol === 'https:') ? 'https%3A' : 'http%3A';
+        rnd = Math.round(Math.random() * 10000000000);
+        img.src = document.location.protocol + "//r.orange.fr/r?ref="+ref+"_"+tag_gstat+"&url=" + z_protocol + "//c.woopic.com/z.gif?" + rnd;
+    };
+</script><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="no-js graphbourse blocHref tile"><div class="container"><div class="inline"><p class="name"><a href="//finance.orange.fr/bourse/">CAC 40</a></p><p class="variation">
+                5 011 pts
+            </p></div><div class="inline"><div class="icone bourse"><span class="icon-finance-down"></span></div></div><div class="inline"><p class="down">-0,75%</p></div></div></div><div class="no-js graphbourse thelast tile"><div class="container"><div class="inline"><p class="name">
+                Météo
+            </p><p class="variation ville">
+                Paris
+            </p></div><div class="inline"><div class="meteo"><span class="favorites-city-icon"><span class="picTempsAddons"></span></span></div></div><div class="inline"><span class="temperature">27°</span></div><div class="clear"></div></div></div><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Society" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2F262%2F4f2%2Fdf7b777dac98e5a6ae6009aa7f%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Society</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/society/2020-06-25" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                            </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                    /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                    window.gc_params = {
+                        graphcomment_id:'orange-actu',
+                        uid: 'CNT0000017Apfg',
+                        publication_date: '2018-10-19 13:12:00',//datetime
+                        lifetime: '7' //Number of days
+                    };
+                    /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                    (function() {
+                        var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                        var environmentUrl = window.location.hostname;
+                        var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                        if (environmentSet && environmentSet.length) {
+                            gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                          } else {
+                            gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                          }
+                        
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                    })();
+                </script></div><aside class="fixed-sidebar"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_2_300x250_actu.societe" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_2_300x250_actu.societe" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_facebook bt-soc bt-fb transition_1" href="//r.orange.fr/r/Oactu_fborangenews" target="_blank" title="Facebook"><span class="icon-facebook"></span><span class="nom transition_1">facebook</span></a><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="//r.orange.fr/r/Oactu_tworangenews" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_2_728x90_actu.societe" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_2_728x90_actu.societe" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//actu.orange.fr/js/min/article.footer.0fac09d68949f9c0ee2c4374aeef2fba8a685a5e.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

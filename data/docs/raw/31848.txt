@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="37a35bd519baad70528272dff014e553" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-09-27 19:19:11" name="orange-generated-date"/><meta content="1601227151" name="orange-generated-timestamp"/><meta content="s0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>attaque à Paris, deux journalistes blessés, deux suspects interpellés</title><meta content="• Un homme et une femme ont été blessés à l'arme blanche, vendredi 25 septembre à Paris dans le 11e arrondissement, près des anciens locaux de Charlie Hebdo. Il s'agit de deux journalistes de la société Premières Lignes, qui travaillent pour l'émission &quot;Cash investigation&quot; de France 2. Leur vie n'est &quot;pas en danger&quot;, selon le Premier ministre Jean Castex, qui s'est rendu sur place. Ils ont été attaqués vendredi en fin de matinée, alors qu'ils prenaient une pause cigarette.
+• Deux suspects ont été interpellés.
+• Le Parquet national antiterroriste a été saisi. 
+• Cette attaque survient alors que se tient à Paris le procès des attentats de janvier 2015, dont celui contre Charlie Hebdo. 
+
+
+
+  " name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="227362824389057" property="fb:pages"/><meta content="Orange Actualités" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oactu_tworangenews" property="twitter:site"/><meta content="attaque à Paris, deux journalistes blessés, deux suspects interpellés" property="name"/><meta content="Orange avec Media Services" property="author"/><meta content="Orange avec Media Services" property="publisher"/><meta content="2020-09-26T07:06:52+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F20e%2F03a%2Fe3cddd888333ea67c9456da2ab%2Fattaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles%7C20e03ae3cddd888333ea67c9456da2ab.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-09-25T12:30:00+02:00" property="article:published_time"/><meta content="2020-09-25T12:30:00+02:00" property="article:modified_time"/><meta content="France" property="article:section"/><meta content="Orange avec Media Services" property="article:author"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F20e%2F03a%2Fe3cddd888333ea67c9456da2ab%2Fattaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles%7C20e03ae3cddd888333ea67c9456da2ab.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="attaque à Paris, deux journalistes blessés, deux suspects interpellés" property="og:title"/><meta content="• Un homme et une femme ont été blessés à l'arme blanche, vendredi 25 septembre à Paris dans le 11e arrondissement, près des anciens locaux de Charlie Hebdo. Il s'agit de deux journalistes de la société Premières Lignes, qui travaillent pour l'émission &quot;Cash investigation&quot; de France 2. Leur vie n'est &quot;pas en danger&quot;, selon le Premier ministre Jean Castex, qui s'est rendu sur place. Ils ont été attaqués vendredi en fin de matinée, alors qu'ils prenaient une pause cigarette.
+• Deux suspects ont été interpellés.
+• Le Parquet national antiterroriste a été saisi. 
+• Cette attaque survient alors que se tient à Paris le procès des attentats de janvier 2015, dont celui contre Charlie Hebdo. 
+
+
+
+  " property="og:description"/><meta content="https://actu.orange.fr/france/attaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles-magic-CNT000001tA4d5.html" property="og:url"/><meta content="https://www.facebook.com/orangeactufr" property="og:author"/><link href="https://actu.orange.fr/france/attaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles-magic-CNT000001tA4d5.html" rel="canonical"/><link href="https://actu.orange.fr/france/attaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles-magic-CNT000001tA4d5.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=actu_I1;d=1601227181;s=96b6b744642d44456453ea30c4e83d9348e7321e06bb9db64d9bb572519008c9/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "actufranceart"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "actu",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Actualités",
+            queryAdditionalParams : "module=chaine&bhv=actu&ap=-1",
+            cmplBlocks : [{ baseId : '-actu' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "actu",
+            "univers_affichage": "france",
+            "sous_univers" : "",
+            "source_contenu" : "Orange avec Media Services",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//actu.orange.fr/css/min/article.header.23e6981c4bcfdd28c860e3a7145441dde5998348.css" rel="stylesheet"/><script src="//actu.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_actu.france?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" mv3-active o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/661%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/661%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="polaris" id="secondary_nav"><div class="container-main"><div class="main-container"><ul class="menu clearfix o_r_url_noeud_menu"><li class="breadcrumb"><span>En ce moment</span></li><li class="o_r_attaque-a-l-arme-blanche-pres-des-anciens-locaux-de-charlie-hebdo-a-paris "><a href="/france/attaque/" title="Attaque à l'arme blanche près des anciens locaux de Charlie Hebdo à Paris">
+                            Attaque à Paris
+                        </a></li><li class="o_r_covid-19-tour-de-vis-impose-en-raison-d-une-nette-degradation "><a href="/france/coronavirus/" title="Covid-19: tour de vis imposé en raison d'une nette dégradation">
+                            Covid-19
+                        </a></li><li class="o_r_proces-des-attentats-de-janvier-2015 "><a href="/france/proces-attentats/" title="Procès des attentats de janvier 2015">
+                            Procès des attentats de janvier 2015
+                        </a></li><li class="o_r_videos "><a href="/france/videos/" title="Vidéos">
+                            Vidéos
+                        </a></li><li class="o_r_diaporamas "><a href="/france/diaporamas/" title="Diaporamas">
+                            Diaporamas
+                        </a></li></ul></div></div></header><div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F6d4%2F4d9%2F712987b28c5d73f4e813f17de1%2Ffermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir%7C000_8QP2TH-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/fermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir-CNT000001tDlSg.html" title="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir">
+                            Fermeture totale des bars et restaurants à Marseille et Aix dimanche ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fc6c%2Fe57%2Fde177b1f31cc6d7ec735af0388%2Fcovid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir%7Cc6ce57de177b1f31cc6d7ec735af0388.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/covid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir-magic-CNT000001tDldS.html" title="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir">
+                            Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F83e%2F528%2F9eddda24089d44659d70628bb7%2Fsavoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte%7C83e5289eddda24089d44659d70628bb7.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/savoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte-magic-CNT000001tDkWB.html" title="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte">
+                            Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="Sénatoriales: le scrutin est clos, des élus dès le premier tour" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F688%2Fe4f%2Fc3b3ff5a9a036c406afe83a5ee%2Fsenatoriales-le-scrutin-est-clos-des-elus-des-le-premier-tour%7C000_I69Q0-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/senatoriales-le-scrutin-est-clos-des-elus-des-le-premier-tour-CNT000001tDe2J.html" title="Sénatoriales: le scrutin est clos, des élus dès le premier tour">
+                            Sénatoriales: le scrutin est clos, des élus dès le premier tour
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F6a9%2F4a8%2F93e4597b8fe67c4e9a6082330e%2Fa-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid%7C6a94a893e4597b8fe67c4e9a6082330e.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/a-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid-magic-CNT000001tDk7R.html" title="A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid">
+                            A Paris, des patrons de bars et de restaurants manifestent contre ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F1cb%2F333%2F07f890e2ca05a86878fd3a538f%2Fattaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude%7C000_8QT8P4-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">14:10</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude-CNT000001tDgM6.html" title="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude">
+                            Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Attaque à Paris : mis hors de cause, le &quot;deuxième suspect&quot; pensait qu'il serait &quot;traité comme un héros&quot;" src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F6e2%2Fb46%2Faf668e33a21af560dc040c0ec7%2Fattaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros%7C6e2b46af668e33a21af560dc040c0ec7.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros-magic-CNT000001tDjiQ.html" title="Attaque à Paris : mis hors de cause, le &quot;deuxième suspect&quot; pensait qu'il serait &quot;traité comme un héros&quot;">
+                            Attaque à Paris : mis hors de cause, le "deuxième suspect" pensait ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt='Covid-19: des médecins réclament "des mesures drastiques"' src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F02f%2F21e%2F1f86d9d994824bddcd08d2bf4d%2Fcovid-19-des-medecins-reclament-des-mesures-drastiques%7C000_8QP9DY-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/covid-19-des-medecins-reclament-des-mesures-drastiques-CNT000001tDgBo.html" title='Covid-19: des médecins réclament "des mesures drastiques"'>
+                            Covid-19: des médecins réclament "des mesures drastiques"
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Reconfinement préventif avant Noël : Olivier Véran a tranché" src="//media3.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fb26%2F13a%2F4de8065389f7b336ad37d9f719%2Freconfinement-preventif-avant-noel-olivier-veran-a-tranche%7Cb2613a4de8065389f7b336ad37d9f719.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/reconfinement-preventif-avant-noel-olivier-veran-a-tranche-magic-CNT000001tCddQ.html" title="Reconfinement préventif avant Noël : Olivier Véran a tranché">
+                            Reconfinement préventif avant Noël : Olivier Véran a tranché
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt='Attentats: le risque terroriste "peut-être collectivement mis derrière nous", estime Darmanin' src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F1cb%2F333%2F07f890e2ca05a86878fd3a538f%2Fattentats-le-risque-terroriste-peut-etre-collectivement-mis-derriere-nous-estime-darmanin%7C000_8QT8P4-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">10:40</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/attentats-le-risque-terroriste-peut-etre-collectivement-mis-derriere-nous-estime-darmanin-CNT000001tDfvx.html" title='Attentats: le risque terroriste "peut-être collectivement mis derrière nous", estime Darmanin'>
+                            Attentats: le risque terroriste "peut-être collectivement mis ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Femme évêque ou curé ? Des catholiques engagées revendiquent plus de féminin dans l'Eglise" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F02e%2Fc56%2F28a8aec6eaa7958a38950be024%2Ffemme-eveque-ou-cure-des-catholiques-engagees-revendiquent-plus-de-feminin-dans-l-eglise%7C000_1SH8TS-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">41:37</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/femme-eveque-ou-cure-des-catholiques-engagees-revendiquent-plus-de-feminin-dans-l-eglise-CNT000001tDffq.html" title="Femme évêque ou curé ? Des catholiques engagées revendiquent plus de féminin dans l'Eglise">
+                            Femme évêque ou curé ? Des catholiques engagées revendiquent plus de ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt='"Dictats", "parti-pris" : Olivier Véran dans le viseur des restaurateurs des Bouches-du-Rhône' src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F283%2Fd5f%2F9a6c4ba4b3d56e49a2140cf01b%2Fdictats-parti-pris-olivier-veran-dans-le-viseur-des-restaurateurs-des-bouches-du-rhone%7C283d5f9a6c4ba4b3d56e49a2140cf01b.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/dictats-parti-pris-olivier-veran-dans-le-viseur-des-restaurateurs-des-bouches-du-rhone-magic-CNT000001tDeUn.html" title='"Dictats", "parti-pris" : Olivier Véran dans le viseur des restaurateurs des Bouches-du-Rhône'>
+                            "Dictats", "parti-pris" : Olivier Véran dans le viseur des ...
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Sénatoriales: les grands électeurs aux urnes " src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F162%2Fc51%2F8ba971cb1120169e477e051a31%2Fsenatoriales-les-grands-electeurs-aux-urnes%7C000_I69G0-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/france/senatoriales-les-grands-electeurs-aux-urnes-CNT000001tDeHX.html" title="Sénatoriales: les grands électeurs aux urnes ">
+                            Sénatoriales: les grands électeurs aux urnes 
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main strip-alerte-info"><div class="main-container"><div class="clear"></div></div></div><div class="container-main"><div class="main-container container-top fil-ariane"><a href="/france/" title="retour en arrière"><span class="icon-arrow-left"></span>Toutes les news France</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title"><span class="live">En direct : </span>
+    attaque à Paris, deux journalistes blessés, deux suspects interpellés
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><article id="CNT000001tA4d5" itemscope="" itemtype="http://schema.org/Article"><span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta content="Orange Actu" itemprop="name"/><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="//c.orange.fr/logo-orange.png" itemprop="url"/></span></span><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><div class="image-wrapper"><div class="article-img"><img alt="attaque à Paris, deux journalistes blessés, deux suspects interpellés" itemprop="image" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F20e%2F03a%2Fe3cddd888333ea67c9456da2ab%2Fattaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles%7C20e03ae3cddd888333ea67c9456da2ab.jpg?format=980x450&amp;facedetect=1&amp;quality=85"/><span class="live-icon"></span></div><div class="caption-wrapper"><div class="caption-title" itemprop="name">Des pompiers transportent un blessé à proximité des anciens locaux de "Charlie Hebdo". </div><div class="caption-copyright" itemprop="copyrightHolder" itemtype="http://schema.org/Organization">©Alain JOCARD / AFP</div></div></div><!-- .image-wrapper --></div><!-- fin article corps image --><div class="article-corps-text"><!-- PUBLICATION --><meta content="2020-09-25" itemprop="datePublished"/><meta content="2020-09-25" itemprop="dateModified"/><meta content="https://actu.orange.fr/france/attaque-a-paris-deux-journalistes-blesses-deux-suspects-interpelles-magic-CNT000001tA4d5.html" itemprop="mainEntityOfPage"/><meta content="  • Un homme et une femme ont été blessés à l'arme blanche, vendredi 25 septembre à Paris dans le 11e..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date"><span itemprop="author" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">Orange avec Media Services</span></span>, publié le vendredi 25 septembre 2020 à 12h30
+                    </p><!-- Fin Date --><!-- TEXTE --><p><strong>• Un homme et une femme ont été blessés à l'arme blanche, vendredi 25 septembre à Paris dans le 11e arrondissement, près des anciens locaux de Charlie Hebdo. Il s'agit de deux journalistes de la société Premières Lignes, qui travaillent pour l'émission "Cash investigation" de <em>France 2</em>. Leur vie n'est "pas en danger", selon le Premier ministre Jean Castex, qui s'est rendu sur place. Ils ont été attaqués vendredi en fin de matinée, alors qu'ils prenaient une pause cigarette.<br/>
+• Deux suspects ont été interpellés.<br/>
+• Le Parquet national antiterroriste a été saisi. <br/>
+• Cette attaque survient alors que se tient à Paris le procès des attentats de janvier 2015, dont celui contre Charlie Hebdo. </strong><br/><br/><br/><br/>
+  </p></div><!-- articleBody --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+$(document).ready(function () {
+    if ($('.news-top-article').length && $('.sticky-block-column').length) {
+    //to set banner "a lire aussi" position at the top if "news-top-article" is present
+        $('.article-corps').addClass('news-top-check');
+        $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+    }
+});
+</script><script src="//pms.orange.fr/module/embed/2115/js/embed.js"></script><table class="live-comments" data-reload-source="/fragment/livearticle/20200925.228b0b78-495c-4415-a216-3d607c521ede" data-reload-time="60000"><tr class="first"><td class="comment-time txt-right">
+                                                        25/09 à 22:55
+                            </td><td><p>Ce direct est désormais terminé, merci de l'avoir suivi.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 22:03
+                            </td><td><div class="ms-embed twitter rich twitter-1 ms-embed-1"><a id="embedAMP_31da349cc15a330f583ec4f2f1bbb23d"></a><iframe data-type="ms-embed" frameborder="0" id="ms-embed-31da349cc15a330f583ec4f2f1bbb23d-0f75b9f84bc948db165b55b547589ff2" sandbox="allow-scripts allow-same-origin allow-forms " src="//pms.orange.fr/module/embed/2115/sandbox?url=https%3A%2F%2Ftwitter.com%2Forangenewsfr%2Fstatus%2F1309583422550151169%3Fref_src%3Dtwsrc%255Etfw&amp;frm=0f75b9f84bc948db165b55b547589ff2&amp;maxWidth=500" style="width: 100%; height: 40px;"></iframe></div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 21:45
+                            </td><td><p>Le ministre de l'Intérieur Gérald Darmanin a déclaré avoir demandé au préfet de police de Paris Didier Lallement                                   <strong>pourquoi la menace a été "sous-évaluée" près des anciens locaux de Charlie Hebdo</strong>.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 20:32
+                            </td><td><p><strong>Cinq hommes, nés entre 1983 et 1996, ont été placés en garde à vue</strong> vendredi dans l'enquête antiterroriste sur l'attaque au hachoir à Paris, devant les anciens locaux de Charlie Hebdo, a appris l'AFP de source judiciaire.</p><p>D'après cette source, ces cinq hommes ont été interpellés à Pantin (Seine-Saint-Denis) par les enquêteurs lors d'une perquisition à l'un des domiciles supposés du principal suspect de cette attaque.                                   <strong>Ces cinq gardes à vue s'ajoutent à celle du principal suspect et d'un autre homme, interpellées juste après l'attaque</strong>.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 20:26
+                            </td><td><p>Au JT de France 2, Gérald Darmanin, ministre de l'Intérieur, apporte des informations sur l'identité de l'auteur présumé de l'attaque. "Il n'était pas spécifiquement connu des services de police pour le renseignement, pour la radicalisation - il n'était pas fiché S, il n'était pas fiché FSPRT (fichier des signalements pour la prévention de la radicalisation à caractère terroriste, NDLR). Il était arrêté il y a un mois pour un port d'arme - un tournevis, manifestement. Un rappel à la loi lui a été donné. Il était encore mineur. On connaît encore difficilement son identité, on n'a pas de pièce d'identité. Il va falloir attendre encore quelques heures pour en connaître davantage sur lui", explique-t-il.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 20:23
+                            </td><td><p>Le ministre de l'Intérieur Gérald Darmanin est l'invité du JT de France 2 ce vendredi. Il qualifie l'attaque à Paris d'                                  <strong>"acte de terrorisme islamiste"</strong>. "Le Parquet s'est saisi pour terrorisme, c'est dans la rue où il y avait Charlie Hebdo. Le mode opératoire est un mode opératoire des terroristes islamistes" justifie-t-il.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 19:51
+                            </td><td><p>Paul Moreira, journaliste à l'agence Premières Lignes, donne des nouvelles de ses deux collègues blessés. "Nous venons de vivre une journée très dure. Attaque devant les locaux de Premières Lignes, deux camarades blessés. Mais leurs jours ne seraient plus en danger. Merci pour tous les messages de soutien", écrit-il sur Twitter.
+</p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Nous venons de vivre une journée très dure. Attaque devant les locaux de <a href="https://twitter.com/PLTVfilms?ref_src=twsrc%5Etfw">@PLTVfilms</a> , deux camarades blessés. Mais leurs jours ne seraient plus en danger. Merci pour tous les messages de soutien.</p>— Paul Moreira (@PaulMoreiraPLTV) <a href="https://twitter.com/PaulMoreiraPLTV/status/1309533733733781504?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 19:17
+                            </td><td><p>Le procureur de Paris Rémy Heitz a annoncé par communiqué avoir ouvert une enquête pour "violation du secret de l'enquête" après la diffusion de plusieurs photos, dont une présentée comme celle d'un suspect de l'attaque au hachoir à Paris, devant les anciens locaux de Charlie Hebdo.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 18:21
+                            </td><td><p>La maire de Paris Anne Hidalgo "condamne avec la plus grande fermeté l'ignoble attaque terroriste", écrit-elle dans un tweet. Pour rappel, elle s'est rendue sur les lieux aux côtés du Premier ministre Jean Castex et le ministre de l'Intérieur Gérald Darmanin.
+</p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">À travers ce lieu hautement symbolique, c’est une fois encore la liberté d’expression qui est visée.<br/>Nous devons rester vigilants et mobilisés pour défendre ce pilier de notre République et protéger nos citoyens.</p>— Anne Hidalgo (@Anne_Hidalgo) <a href="https://twitter.com/Anne_Hidalgo/status/1309493931768508418?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 18:13
+                            </td><td><p>Après un premier tweet dans lequel Charlie Hebdo fait part de son "soutien" et de sa "solidarité" aux personnes touchées par l'attaque, le média satirique publie un deuxième message sur Twitter, signé "la rédaction de Charlie Hebdo". "Cet épisode tragique démontre une fois de plus que le fanatisme, l'intolérance, dont l'enquête nous révélera les origines, sont toujours aussi présents dans la société française", peut-on notamment lire.
+</p><blockquote class="twitter-tweet"><p dir="ltr" lang="und"><a href="https://t.co/1pvqgrAFrj">pic.twitter.com/1pvqgrAFrj</a></p>— Charlie Hebdo (@Charlie_Hebdo_) <a href="https://twitter.com/Charlie_Hebdo_/status/1309518298829254659?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 18:06
+                            </td><td><p>La chaîne BFMTV diffuse la vidéo de l'interpellation du principal suspect.
+</p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Attaque à Paris: les images de l'interpellation du principal suspect <a href="https://t.co/HdLTAhjOmr">pic.twitter.com/HdLTAhjOmr</a></p>— BFMTV (@BFMTV) <a href="https://twitter.com/BFMTV/status/1309519776453201921?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 17:35
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Profil des deux suspects, contexte... Ce que l'on sait de l'attaque à Paris<a href="https://t.co/NBrkMoHH3F">https://t.co/NBrkMoHH3F</a><a href="https://t.co/IQo2oGVQ4g">pic.twitter.com/IQo2oGVQ4g</a></p>— Orange News (@orangenewsfr) <a href="https://twitter.com/orangenewsfr/status/1309513425874235394?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 16:39
+                            </td><td><p><em>"Une fois encore c'est la République qui est frappée.</em> Mais comme hier elle saura montrer la force de ses valeurs et la fermeté de sa réponse. J'exprime toute ma solidarité aux victimes et aux familles et mon soutien aux forces de sécurité", réagit                                   <strong>François hollande</strong>, qui était président au moment des attentats de 2015. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 16:38
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Une fois encore c’est la République qui est frappée. Mais comme hier elle saura montrer la force de ses valeurs et la fermeté de sa réponse. J’exprime toute ma solidarité aux victimes et aux familles et mon soutien aux forces de sécurité. <a href="https://t.co/UxLSjW3JY1">pic.twitter.com/UxLSjW3JY1</a></p>— François Hollande (@fhollande) <a href="https://twitter.com/fhollande/status/1309495509309173761?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 16:24
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Attaque à l'arme blanche à Paris : "L'horreur de nouveau" <a href="https://t.co/seuvU5m36k">https://t.co/seuvU5m36k</a><a href="https://t.co/CUxivrxmXW">pic.twitter.com/CUxivrxmXW</a></p>— Orange News (@orangenewsfr) <a href="https://twitter.com/orangenewsfr/status/1309485305322508288?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 16:08
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8ZgEUawBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ58AXR2AAEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>
+                            Image tirée d'une vidéo obtenue par l'AFP et montrant des policiers interpellant un suspect présumé après l'attaque.
+                                                                            <br/>Ⓒ
+                            Laura CAMBAUD,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:24
+                            </td><td><div class="ms-embed twitter rich twitter-1 ms-embed-1"><a id="embedAMP_c7e1d75605da12ad234597d2f7e5c3b2"></a><iframe data-type="ms-embed" frameborder="0" id="ms-embed-c7e1d75605da12ad234597d2f7e5c3b2-0f75b9f84bc948db165bcee3f31ca3f2" sandbox="allow-scripts allow-same-origin allow-forms " src="//pms.orange.fr/module/embed/2115/sandbox?url=https%3A%2F%2Ftwitter.com%2FCharlie_Hebdo_%2Fstatus%2F1309480863101530113%3Fref_src%3Dtwsrc%255Etfw&amp;frm=0f75b9f84bc948db165bcee3f31ca3f2&amp;maxWidth=500" style="width: 100%; height: 40px;"></iframe></div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:22
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media3.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8ZgAOewBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59CHpzAQEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>
+                            La maire de Paris Anne Hidalgo, le Premier ministre Jean Castex et le ministre de l'Intérieur Gérald Darmanin sur les lieux de l'attaque.
+                                                                            <br/>Ⓒ
+                            GEOFFROY VAN DER HASSELT,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:23
+                            </td><td><p><strong>La vie des victimes n'est "pas en danger", </strong>affirme Jean Castex, sur place. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:12
+                            </td><td><p>Rémy Heitz, procureur de la République de Paris : "l'auteur principal" et "un 2e individu" ont été arrêtés et sont en garde à vue. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:11
+                            </td><td><p><strong>Jean Castex exprime sa "solidarité" avec les familles et collègues des deux journalistes blessés et salue l'action des secours. </strong></p><p><strong>Jean Castex rappelle son "attachement indéfectible à la liberté de la presse".  </strong></p><p><strong>Il affirme sa "volonté résolue par tous les moyens de lutter contre le terrorisme"</strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 15:09
+                            </td><td><p>Le Premier ministre Jean Castex, le ministre de l'Intérieur Gérald Darmanin et la maire de Paris Anne Hidalgo sont sur place. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 14:58
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8Zg8TdwBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59B3Z3BgEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>
+                            Le Premier ministre Jean Castex, le ministre de l'Intérieur Gérald Darmanin et la maire de Paris Anne Hildago sur les lieux de l'attaque
+                                                                            <br/>Ⓒ
+                            Alain JOCARD,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 14:45
+                            </td><td><div class="bloc-comment-img"><img height="398" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR3ZgF8Zg8HeABSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59BnR1BAEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/></div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 14:19
+                            </td><td><p><strong>Élise Lucet témoigne. </strong>Deux collobarateurs du magazine de France 2 "Cash Investigation", travaillant pour la société de production Premières Lignes, ont été blessés dans l'attaque. "Parmi les blessés, il y a des collaborateurs de Premières Lignes Télévision, la société de production qui produit notamment                                   <em>Cash Investigation</em>", a déclaré sur                                   <em>France 2</em> la présentatrice de l'émission. </p><p>"J'ai eu évidemment les producteurs et plusieurs salariés de Premières Lignes Télévision au téléphone (...), ce qu'ils me confirment maintenant avec certitude, c'est que                                   <strong>deux de nos collaborateurs sont blessés, un homme et une femme, </strong>qu'ils ont été blessés par un homme qui était dans la rue, donc devant les anciens locaux de                                   <em>Charlie Hebdo</em>", a ajouté Élise Lucet. "Une de nos salariés a vu                                   <strong>cet homme courir avec une lame de boucher ou une machette </strong>après un de nos collaborateurs qui était déjà blessé et même ensanglanté", a précisé la journaliste.</p><p>Une employée de Premières Lignes, jointe par l'AFP, a également témoigné que deux de ses collègues avaient été blessés dans cette attaque.                                   <strong>"Deux collègues fumaient une cigarette en bas de l'immeuble, dans la rue. J'ai entendu des hurlements. </strong>Je suis allée à la fenêtre et j'ai vu un de mes collègues, taché de sang, être poursuivi par un homme avec une machette dans la rue. On sait que nos deux collègues sont blessés, mais nous n'en savons pas davantage pour le moment", a-t-elle affirmé. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 14:14
+                            </td><td><p>Le Premier ministre Jean Castex et le ministre de l'Intérieur Gérald Darmanin se rendent sur les lieux de l'attaque, annonce Matignon.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 14:09
+                            </td><td><p><strong>Une deuxième personne est en garde à vue</strong>, selon une source judiciaire citée par l'AFP.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:56
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">⚡ Attaque près des anciens locaux de "Charlie Hebdo" : un deuxième suspect interpellé, le Parquet national antiterroriste saisi<br/><br/>Suivez notre direct ��<a href="https://t.co/DPRzvqjzLM">https://t.co/DPRzvqjzLM</a><a href="https://t.co/Z2Vx2WtrD0">pic.twitter.com/Z2Vx2WtrD0</a></p>— franceinfo (@franceinfo) <a href="https://twitter.com/franceinfo/status/1309461246756958211?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:55
+                            </td><td><p><strong>Un 2e suspect interpellé ? </strong>Un homme a été arrêté dans le secteur du métro Richard-Lenoir, a selon une source policière à                                   <em>France Télévisions</em>. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:53
+                            </td><td><p><strong>Le parquet national antiterroriste annonce être saisi. </strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:50
+                            </td><td><p><strong>MENACES RÉCENTES.</strong> L'organisation jihadiste  Al- Qaïda, qui avait revendiqué les attentats de 2015, a récemment menacé d'attaquer de nouveau                                    <em>Charlie Hebdo</em>, qui a réédité des caricatures du prophète de l'islam Mahomet à l'occasion du procès. </p><p>-                                   <strong>La DRH du journal Marika Bret </strong>a été                                   <a href="https://actu.orange.fr/france/j-ai-eu-dix-minutes-pour-quitter-mon-domicile-la-drh-de-charlie-hebdo-exfiltree-apres-des-menaces-CNT000001tupW5.html">exfiltrée de son domicile en début de semaine</a>, après avoir reçu des menaces. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:46
+                            </td><td><p>Le journaliste Paul Moreira, de la société de production Premières Lignes, indique au                                   <em>Parisien</em> que plusieurs personnes ont été blessées "devant nos locaux avec une feuille de boucher". </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:43
+                            </td><td><p><strong>Une enquête est ouverte pour "tentative d'assassinat", selon le procureur de Paris à l'AFP. </strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:31
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8Zg59fQBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59AnB1CgEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>
+                            Une femme choquée est réconfortée sur les lieux de l'attaque
+                                                                            <br/>Ⓒ
+                            Alain JOCARD,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:31
+                            </td><td><p><strong>Voici ce que l'on sait à ce stade :  </strong></p><p><strong>- </strong><a href="https://actu.orange.fr/france/quatre-blesses-a-l-arme-blanche-a-paris-pres-des-anciens-locaux-de-charlie-hebdo-CNT000001tA4qb/photos/un-blesse-est-evacue-le-25-septembre-2020-a-paris-apres-une-attaque-pres-des-anciens-locaux-de-charlie-hebdo-bd2fed05ec8a09e9b3017dc7ec724bb0.html">      Une attaque à l'arme blanche a fait deux blessés</a> vendredi à Paris près des anciens locaux de l'hebdomadaire satirique                                   <em>Charlie Hebdo</em>. De premières informations faisaient état de trois ou quatre victimes. Les deux blessés sont                                   <strong>des collaborateurs de l'agence de presse Premières Lignes</strong>. </p><p>- Cette attaque survient en plein procès de l'attentat meurtrier qui avait visé                                   <em>Charlie Hebdo</em> en janvier 2015, et après que le journal a republié les caricatures de Mahomet. </p><p><strong>- Un suspect a été interpellé par la police.</strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:22
+                            </td><td><p><strong>La journaliste Élise Lucet indique sur </strong><em>                                France 2                        </em><strong> que </strong><a href="https://actu.orange.fr/france/attaque-pres-des-anciens-locaux-de-charlie-hebdo-deux-collaborateurs-d-elise-lucet-blesses-magic-CNT000001tA4Ox.html">      deux des blessés sont des collaborateurs</a><strong> de l'agence Premières Lignes. </strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:21
+                            </td><td><p>Une des victimes est un collaborateur de la société de production Premières Lignes, indique l'un de ses dirigeants, Luc Hermann, à                                   <em>Libération</em>. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:17
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Extrêmement choquée par l’attaque meurtrière à proximité des anciens locaux de <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash&amp;ref_src=twsrc%5Etfw">#CharlieHebdo</a>, dans un arrondissement de Paris qui a déjà payé un lourd tribu à la violence terroriste. J’apporte tout mon soutien aux forces de l’ordre qui traquent en ce moment l’auteur des faits ! <a href="https://t.co/Y8s1nPOQr1">https://t.co/Y8s1nPOQr1</a></p>— Valérie Pécresse (@vpecresse) <a href="https://twitter.com/vpecresse/status/1309444183103598592?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:15
+                            </td><td><p>"La première victime, une femme, a été attaquée devant la fresque d'hommage aux dessinateurs de                                   <em>Charlie Hebdo</em>", indique à                                   <em>Libération</em> la femme qui a prévenu la police en premier. "C'est pile l'horaire de l'attaque de                                   <em>Charlie</em> il y a cinq ans, c'est l'heure de la sortie d'école", raconte-t-elle au quotidien. </p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:13
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">Intervention de police en cours secteur Richard Lenoir à <a href="https://twitter.com/hashtag/Paris11?src=hash&amp;ref_src=twsrc%5Etfw">#Paris11</a>.<br/>Évitez le secteur.</p>— Préfecture de Police (@prefpolice) <a href="https://twitter.com/prefpolice/status/1309435374377336832?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:15
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media3.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8ZgwGfABSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59AXB2BAEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>
+                            Des pompiers évacuent une personne blessée à l'arme blanche
+                                                                            <br/>Ⓒ
+                            Alain JOCARD,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:13
+                            </td><td><p>"Mon fils faisait du sport a proximité au moment des faits, raconte une gardienne d'immeuble au                                   <em>Parisien</em>.                                   <strong>Il a entendu des gens crier et a vu un homme partir en courant avec un grand couteau. </strong>Il a vu une femme et un homme blessés. J'habitais déjà dans le quartier il y a cinq ans, forcément, ce sont des souvenirs traumatisants."</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:12
+                            </td><td><p></p><blockquote class="twitter-tweet"><p dir="ltr" lang="fr">�� Une attaque à l’arme blanche est survenue près des anciens locaux de Charlie Hebdo à Paris. Trois personnes sont en urgence absolue &gt;<a href="https://t.co/k46kNDm91a">https://t.co/k46kNDm91a</a><a href="https://t.co/vAlwYZ8Clk">pic.twitter.com/vAlwYZ8Clk</a></p>— Le Parisien (@le_Parisien) <a href="https://twitter.com/le_Parisien/status/1309439278641020929?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:12
+                            </td><td><p>Selon                                   <em>Le Parisien</em>,                                   <strong>l'assaillant était armé d'une machette. </strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:10
+                            </td><td><p><strong>"Des milliers d'élèves", de la crèche au lycée, sont confinés par précaution</strong> dans trois arrondissements du centre de Paris. "Cinq écoles du 11e arrondissement et toutes les écoles des 3e et 4e arrondissements ont été confinées. Ça représente des milliers d'élèves, de la crèche au lycée. On se met en sécurité. On est en train de fermer les équipements municipaux et les gymnases aussi", indique le maire de Paris Centre Ariel Weil.</p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:04
+                            </td><td><p><strong>Un "suspect" a été interpellé à proximité de la place de la Bastille à Paris, </strong>après l'agression à l'arme blanche qui a fait quatre blessés vendredi, près des anciens locaux du journal                                   <em>Charlie Hebdo</em>, a appris l'AFP auprès de la préfecture de police de Paris.  </p><p>Cette agression, qui survient en plein procès des attentats meurtriers de janvier 2015, serait le fait d'une seule personne, a précisé                                   <strong>la préfecture de police de Paris, qui avait dans un premier temps fait état de deux suspects en fuite et de quatre blessés.</strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:02
+                            </td><td><div class="bloc-comment-img"><img height="508" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR3ZgF8ZgwfcQBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59AHZzCgEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/></div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 13:00
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media2.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8ZgwUdABSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59AHd0BgEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>Ⓒ
+                            GEOFFROY VAN DER HASSELT,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 12:59
+                            </td><td><div class="bloc-comment-img"><img height="341" src="//media1.woopic.com/api/v1/images/1075%2Fmedias%3Fid%3Da1kkIS0nShZBX04gS0hEWkBEXhVXIzJeXEBCKFQgHzMtXUVfNxtzd3wkCVsaDhVxABhXGAYEHA0bJHAcDx8HJQF1ByBwAABVIFFudXR2ZgF8ZgwPDQBSQF5cflFMIGxHSVULIl4hDSw3U19XIRI0LCB7VktMWF8gFF1GWlZFTkxfKiwLSFtQfH4pADAHdktKYkYuKSF7SExEVVMpVkJfE1dIXVFEIDEQCAQEeQ59AHB9BgEAdA%253D%253D.jpg?facedetect=1&amp;quality=85" width="512"/><br/>Ⓒ
+                            Alain JOCARD,                             AFP                                            </div></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 12:57
+                            </td><td><p><strong>Deux personnes se trouvent en "urgence absolue"</strong>, selon la préfecture de police de Paris, qui parle de deux auteurs présumés "en fuite". </p><p>Un périmètre élargi a été établi autour des anciens locaux de Charlie Hebdo pour un "colis suspect", selon la préfecture. </p><p>La BRI (Brigade de recherche et d'intervention) est mobilisée et le laboratoire central de la préfecture se rend sur place. </p><p><strong>La préfecture invite à "éviter le secteur". </strong></p><p>La rue Nicolas Appert, où se trouvaient les locaux du journal, est bloquée, avec une dizaine de policiers déployés sur place. </p><p><strong>Une cellule de crise a été ouverte au ministère de l'Intérieur, où le ministre Gérald Darmanin se rend "en urgence" avec le Premier ministre Jean Castex.</strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 12:55
+                            </td><td><p><strong>Un "suspect" a été  interpellé, selon la préfecture de police de Paris. </strong></p></td></tr><tr class=""><td class="comment-time txt-right">
+                                                        25/09 à 12:46
+                            </td><td><p>Le Premier ministre Jean Castex se rend au centre de crise du ministère de l'Intérieur. </p></td></tr><tr class="last"><td class="comment-time txt-right">
+                                                        25/09 à 12:47
+                            </td><td><p>Quatre personnes ont été blessées à l'arme blanche à Paris vendredi, dans des circonstances encore indéterminées, près des anciens locaux du journal                                   <em>Charlie Hebdo</em>. </p><p>Cette attaque se produit                                   <strong>en plein procès des attentats meurtriers</strong> qui l'avaient notamment visé en janvier 2015. </p><p><strong>Deux personnes se trouvent en "urgence absolue",</strong> selon la préfecture de police de Paris. Les deux auteurs présumés de l'agression sont "en fuite". </p></td></tr></table><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1901
+                    },
+                    "magicRequest": {
+                        "hostname" : "//actu.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'actu', 2, 4, 'CNT000001tA4d5');
+    });
+</script><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200925'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div><div id="oan_ora_1_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_1_300x250_actu.france" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_1_300x250_actu.france" width="300"/></a></noscript></div></div></div><div class="stickyTop"></div><div class="sticky"><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="fil-info no-js o_r_url_filinfo"><div class="fil-info-entete bloc-commun"><h2> Fil info</h2><nav class="fil-info-select" id="fil-info-select"><a class="fil-info-choix-categorie o_r_actu" href="#"><span id="fil-info-choix-label">Actu</span></a><ul class="fil-info-list-categorie mCS_destroyed" id="fil-info-list-categorie"><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Actu" href="#all">Actu</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="France" href="#france">France</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Politique" href="#politique">Politique</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Société" href="#societe">Société</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Monde" href="#monde">Monde</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Finance" href="#finance">Finance</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Auto" href="#auto">Auto</a></li></ul></nav></div><div class="fil-info-content bloc-commun"><div class="fil-info-datatitle o_r_news_1" data-text="Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/suisse-oui-au-conge-paternite-non-aux-entraves-a-l-immigration-de-citoyens-de-l-ue-CNT000001tCPCc.html"><span class="fil-info-datePublished">19:09</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens de l'UE</span></a></div><div class="fil-info-datatitle o_r_news_2" data-text="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/fermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir-CNT000001tDlSg.html"><span class="fil-info-datePublished">18:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_3" data-text="Législatives 2022: erreur politique de modifier le mode de scrutin..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/legislatives-2022-erreur-politique-de-modifier-le-mode-de-scrutin-guerini-lrem-CNT000001tDlIN.html"><span class="fil-info-datePublished">18:45</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Législatives 2022: "erreur politique" de modifier le mode de scrutin (Guerini, LREM)</span></a></div><div class="fil-info-datatitle o_r_news_4" data-text="Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/belarus-centaines-d-arrestations-lors-d-une-nouvelle-marche-de-l-opposition-CNT000001tDhaO.html"><span class="fil-info-datePublished">18:37</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition</span></a></div><div class="fil-info-datatitle o_r_news_5" data-text="Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/conflit-au-karabakh-au-moins-23-morts-poutine-appelle-a-la-fin-des-affrontements-CNT000001tDfqT.html"><span class="fil-info-datePublished">18:36</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des affrontements</span></a></div><div class="fil-info-datatitle o_r_news_6" data-text="Epic Games retrouve Apple lundi au tribunal" data-title="High-tech"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/high-tech/epic-games-retrouve-apple-lundi-au-tribunal-CNT000001tDlpl.html"><span class="fil-info-datePublished">18:34</span><span class="fil-info-categorie">High-tech</span><span class="fil-info-datatitre">Epic Games retrouve Apple lundi au tribunal</span></a></div><div class="fil-info-datatitle o_r_news_7" data-text="Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis" data-title="Fait-divers"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/fait-divers/ils-volent-du-2-000-pieds-de-chanvre-en-le-prenant-pour-du-cannabis-CNT000001tDlpc.html"><span class="fil-info-datePublished">18:30</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis</span></a></div><div class="fil-info-datatitle o_r_news_8" data-text="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/covid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir-magic-CNT000001tDldS.html"><span class="fil-info-datePublished">18:00</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_9" data-text="Les tendances à la Fashion Week de Milan : Viva l'Italia!" data-title="Culture"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/culture/les-tendances-a-la-fashion-week-de-milan-viva-l-italia-CNT000001tDhOg.html"><span class="fil-info-datePublished">17:56</span><span class="fil-info-categorie">Culture</span><span class="fil-info-datatitre">Les tendances à la Fashion Week de Milan : Viva l'Italia!</span></a></div><div class="fil-info-datatitle o_r_news_10" data-text="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/savoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte-magic-CNT000001tDkWB.html"><span class="fil-info-datePublished">17:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte</span></a></div><div class="fil-info-datatitle o_r_news_11" data-text="Sénatoriales: le scrutin est clos, des élus dès le premier tour" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/senatoriales-le-scrutin-est-clos-des-elus-des-le-premier-tour-CNT000001tDe2J.html"><span class="fil-info-datePublished">17:49</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Sénatoriales: le scrutin est clos, des élus dès le premier tour</span></a></div><div class="fil-info-datatitle o_r_news_12" data-text="A Paris, des patrons de bars et de restaurants manifestent contre les..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/a-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid-magic-CNT000001tDk7R.html"><span class="fil-info-datePublished">17:30</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid</span></a></div><div class="fil-info-datatitle o_r_news_13" data-text="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude-CNT000001tDgM6.html"><span class="fil-info-datePublished">16:52</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude</span></a></div><div class="fil-info-datatitle o_r_news_14" data-text="Attaque à Paris : mis hors de cause, le deuxième suspect pensait qu'il..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros-magic-CNT000001tDjiQ.html"><span class="fil-info-datePublished">16:20</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque à Paris : mis hors de cause, le "deuxième suspect" pensait qu'il serait "traité comme un héros"</span></a></div><div class="fil-info-datatitle o_r_news_15" data-text="Coronavirus: l'avion-ambulance qui sauve des vies au Pérou" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/coronavirus-l-avion-ambulance-qui-sauve-des-vies-au-perou-CNT000001tDeaI.html"><span class="fil-info-datePublished">16:16</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Coronavirus: l'avion-ambulance qui sauve des vies au Pérou</span></a></div><div class="fil-info-datatitle o_r_news_16" data-text="Trump exige un contrôle antidopage de Biden en vue de leur débat " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/trump-exige-un-controle-antidopage-de-biden-en-vue-de-leur-debat-CNT000001tDjd4.html"><span class="fil-info-datePublished">16:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Trump exige un contrôle antidopage de Biden en vue de leur débat </span></a></div><div class="fil-info-datatitle o_r_news_17" data-text="Au Liban, pas la moindre perspective de sortie de crise" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/au-liban-pas-la-moindre-perspective-de-sortie-de-crise-CNT000001tDgfZ.html"><span class="fil-info-datePublished">15:21</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Au Liban, pas la moindre perspective de sortie de crise</span></a></div><div class="fil-info-datatitle o_r_news_18" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDiwz.html"><span class="fil-info-datePublished">15:15</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers </span></a></div><div class="fil-info-datatitle o_r_news_19" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDium.html"><span class="fil-info-datePublished">15:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers</span></a></div><div class="fil-info-datatitle o_r_news_20" data-text="Pas de plans sur la comète : Olivier Véran rejette un confinement préventif..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/pas-de-plans-sur-la-comete-olivier-veran-rejette-un-confinement-preventif-a-noel-magic-CNT000001tDiiq.html"><span class="fil-info-datePublished">14:55</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">"Pas de plans sur la comète" : Olivier Véran rejette un confinement préventif à Noël</span></a></div>
+</div><div class="fil-info-pagination bloc-commun"><div class="fil-info-counter"></div></div></div><!--[if lte IE 7]></div><![endif]--><!--[if IE 8]></div><![endif]--><script>
+    if (sUrlReferrer != 'undefined'){
+        var ref = sUrlReferrer;
+    }else {
+        var ref = "";
+    }
+    if(typeof Polaris == "undefined") Polaris = { };
+    Polaris.newsfeed = { limit: 7, src: "/fragments/fil-info/", currentCat: "all" };
+    function changeAllLinksFilInfo(tag_gstat){
+        img = new Image();
+        z_protocol = (document.location.protocol === 'https:') ? 'https%3A' : 'http%3A';
+        rnd = Math.round(Math.random() * 10000000000);
+        img.src = document.location.protocol + "//r.orange.fr/r?ref="+ref+"_"+tag_gstat+"&url=" + z_protocol + "//c.woopic.com/z.gif?" + rnd;
+    };
+</script><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="no-js graphbourse blocHref tile"><div class="container"><div class="inline"><p class="name"><a href="//finance.orange.fr/bourse/">CAC 40</a></p><p class="variation">
+                4 730 pts
+            </p></div><div class="inline"><div class="icone bourse"><span class="icon-finance-down"></span></div></div><div class="inline"><p class="down">-0,69%</p></div></div></div><div class="no-js graphbourse thelast tile"><div class="container"><div class="inline"><p class="name">
+                Météo
+            </p><p class="variation ville">
+                Paris
+            </p></div><div class="inline"><div class="meteo"><span class="favorites-city-icon"><span class="picTempsAddons"></span></span></div></div><div class="inline"><span class="temperature">27°</span></div><div class="clear"></div></div></div><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Le Point" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2F853%2F3d6%2F9485f72909ee9400ee57805739%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Le Point</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/le-point/2020-09-24" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-actu',
+                            uid: 'CNT000001tA4d5',
+                            publication_date: '2020-09-25 12:30:00',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_300x250_actu.france" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_300x250_actu.france" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_facebook bt-soc bt-fb transition_1" href="//r.orange.fr/r/Oactu_fborangenews" target="_blank" title="Facebook"><span class="icon-facebook"></span><span class="nom transition_1">facebook</span></a><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="//r.orange.fr/r/Oactu_tworangenews" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_728x90_actu.france" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_728x90_actu.france" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//actu.orange.fr/js/min/article.footer.7debf2966c34a61cb0733f7d607f63c2455d8564.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

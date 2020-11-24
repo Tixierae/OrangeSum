@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="4a7dd984f49339f81549bbe83e5b1eca" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-09-27 19:07:05" name="orange-generated-date"/><meta content="1601226425" name="orange-generated-timestamp"/><meta content="b0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Un vélo électrique à roues orbitales : actualité automobile, infos, scoop</title><meta content="Si vous cherchez un vélo à assistance électrique novateur, ne cherchez plus. Avec son look futuriste, le Reevo Bikes vous satisfera pleinement. Développé par la start-up Beno Technologies installée à Dubaï, ce vélo est un concentré de technologies et de design. En premier lieu, Beno Technologies a voulu casser les codes, en développant des roues orbitales. Ainsi, outre l'aspect technologique, ce système offre un design exceptionnel au vélo, puisque le Reevo est dépourvu de moyeux et de rayons. Si la partie motorisation semble assez complexe et inédite sur un vélo (même s'il rappelle le projet Cyclotron), elle reste pourtant simple. Le moteur de 750 watts (une version 250 watts est prévue pour le marché européen) intégré dans la partie arrière basse du cadre entraîne une jante extérieure qui maintient le pneu et laisse ainsi fixe l'intérieur de la roue. Avec cette technologie, la société promet de meilleures performances et en profite pour intégrer de nombreux éléments inédits. Par exemple, un système d'attache dans la roue arrière permet d'y fixer une petite sacoche. En outre, les feux de signalisation à LED d'une puissance de 800 lumens sont directement intégrés aux roues et se déclenchent automatiquement dès que la luminosité baisse. Le feu de freinage et les clignotants sont aussi parfaitement dissimulés dans les roues. Toutefois, si l'innovation est là, on reste dubitatif quant à l'utilisation sous la pluie. Les projections devraient très vite salir la sacoche et les feux... Signalons également que le vélo utilise une fourche monobras à l'avant afin de présenter des lignes toujours plus novatrices." name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="Orange Auto" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oauto_twitter_orange" property="twitter:site"/><meta content="Un vélo électrique à roues orbitales" property="name"/><meta content="2020-09-27T18:00:16+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fun-velo-electrique-a-roues-orbitales%7Cimg_pano_21772_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-09-25T15:45:56+02:00" property="article:published_time"/><meta content="2020-09-25T15:52:12+02:00" property="article:modified_time"/><meta content="News" property="article:section"/><meta content="vélo électrique" property="article:tag"/><meta content="écomobilité" property="article:tag"/><meta content="écologie" property="article:tag"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fun-velo-electrique-a-roues-orbitales%7Cimg_pano_21772_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="Un vélo électrique à roues orbitales" property="og:title"/><meta content="Si vous cherchez un vélo à assistance électrique novateur, ne cherchez plus. Avec son look futuriste, le Reevo Bikes vous satisfera pleinement. Développé par la start-up Beno Technologies installée à Dubaï, ce vélo est un concentré de technologies et de design. En premier lieu, Beno Technologies a voulu casser les codes, en développant des roues orbitales. Ainsi, outre l'aspect technologique, ce système offre un design exceptionnel au vélo, puisque le Reevo est dépourvu de moyeux et de rayons. Si la partie motorisation semble assez complexe et inédite sur un vélo (même s'il rappelle le projet Cyclotron), elle reste pourtant simple. Le moteur de 750 watts (une version 250 watts est prévue pour le marché européen) intégré dans la partie arrière basse du cadre entraîne une jante extérieure qui maintient le pneu et laisse ainsi fixe l'intérieur de la roue. Avec cette technologie, la société promet de meilleures performances et en profite pour intégrer de nombreux éléments inédits. Par exemple, un système d'attache dans la roue arrière permet d'y fixer une petite sacoche. En outre, les feux de signalisation à LED d'une puissance de 800 lumens sont directement intégrés aux roues et se déclenchent automatiquement dès que la luminosité baisse. Le feu de freinage et les clignotants sont aussi parfaitement dissimulés dans les roues. Toutefois, si l'innovation est là, on reste dubitatif quant à l'utilisation sous la pluie. Les projections devraient très vite salir la sacoche et les feux... Signalons également que le vélo utilise une fourche monobras à l'avant afin de présenter des lignes toujours plus novatrices." property="og:description"/><meta content="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html" property="og:url"/><link href="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html" rel="canonical"/><link href="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=auto_I1;d=1601226984;s=3ef115134965469c686ac0ecbf22e8740cf87296823867be7abf48fbd2719493/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "autocatecomobilite"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "auto",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Auto",
+            queryAdditionalParams : "module=chaine&bhv=auto&ap=-1",
+            cmplBlocks : [{ baseId : '-auto' }],
+                        toptrend : false
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "auto",
+            "univers_affichage": "electrique",
+            "sous_univers" : "news",
+            "source_contenu" : "",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//auto.orange.fr/css/min/article.header.8aedee9f1636c1bbab4f1a1944bd032dd9a5e47b.css" rel="stylesheet"/><script src="//auto.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_auto.electrique?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" mv3-active o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/473%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/473%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu" id="menu-v3-second-level"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark"><li class="fixed-width"><ul><li class=" o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                                    Auto
+                                </a></li><li class=" mv3-active o_r_electrique"><a href="https://auto.orange.fr/electrique/" title="Electrique">
+                                    Electrique
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" o_r_voitures"><a href="https://auto.orange.fr/electrique/voitures/" title="Voitures">
+                                Voitures
+                            </a></li><li class=" o_r_2-roues"><a href="https://auto.orange.fr/electrique/2-roues/" title="2-roues">
+                                2-roues
+                            </a></li><li class=" mv3-active o_r_velos-trottinettes"><a href="https://auto.orange.fr/electrique/velos-trottinettes/" title="Vélos/Trottinettes">
+                                Vélos/Trottinettes
+                            </a></li><li class=" o_r_dossiers"><a href="https://auto.orange.fr/electrique/dossiers/" title="Dossiers">
+                                Dossiers
+                            </a></li></ul></li></ul></div></header><header class="menu-v3-init o_r_url_menu" id="menu-v3-second-level-init"><div class="mv3-container-main mv3-loader-dark"><ul class="mv3-second-level"><li class="menu-item-1 o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                            Auto
+                        </a></li><li class="menu-item-1 mv3-active o_r_electrique"><a href="https://auto.orange.fr/electrique/" title="Electrique">
+                            Electrique
+                        </a></li><li class="menu-item-2 o_r_voitures"><a href="https://auto.orange.fr/electrique/voitures/" title="Voitures">
+                            Voitures
+                        </a></li><li class="menu-item-2 o_r_2-roues"><a href="https://auto.orange.fr/electrique/2-roues/" title="2-roues">
+                            2-roues
+                        </a></li><li class="menu-item-2 mv3-active o_r_velos-trottinettes"><a href="https://auto.orange.fr/electrique/velos-trottinettes/" title="Vélos/Trottinettes">
+                            Vélos/Trottinettes
+                        </a></li><li class="menu-item-2 o_r_dossiers"><a href="https://auto.orange.fr/electrique/dossiers/" title="Dossiers">
+                            Dossiers
+                        </a></li></ul></div></header>
+<div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Un vélo électrique à roues orbitales" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fun-velo-electrique-a-roues-orbitales%7Cimg_pano_21772_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html" title="Un vélo électrique à roues orbitales">
+                            Un vélo électrique à roues orbitales
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Les quatre japonais avancent sur un standard de deux roues électrique" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F5a9%2F161%2F6afedc812bdf161b45c761a9ae%2Fles-quatre-japonais-avancent-sur-un-standard-de-deux-roues-electrique%7Cimg_1_12976.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/2-roues/les-quatre-japonais-avancent-sur-un-standard-de-deux-roues-electrique-CNT000001tA5os.html" title="Les quatre japonais avancent sur un standard de deux roues électrique">
+                            Les quatre japonais avancent sur un standard de deux roues électrique
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="La Tesla Model S Plaid s'offre le record de Laguna Seca" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F34b%2Fec4%2Ff3ef995b3bb48a7e31a5965ab9%2Fla-tesla-model-s-plaid-s-offre-le-record-de-laguna-seca%7Cimg_pano_21770_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/la-tesla-model-s-plaid-s-offre-le-record-de-laguna-seca-CNT000001tA0oY.html" title="La Tesla Model S Plaid s'offre le record de Laguna Seca">
+                            La Tesla Model S Plaid s'offre le record de Laguna Seca
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="Nouveau record pour le Volkswagen ID.R" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F118%2F3cf%2F89d43220613e7c088ac95de552%2Fnouveau-record-pour-le-volkswagen-id-r%7Cimg_pano_21767_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/nouveau-record-pour-le-volkswagen-id-r-CNT000001tA0p7.html" title="Nouveau record pour le Volkswagen ID.R">
+                            Nouveau record pour le Volkswagen ID.R
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="Le Ford Mustang Mach-E GT arrive en Europe" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F7cf%2Ff21%2F67dccad0212d62f66cca9953a2%2Fle-ford-mustang-mach-e-gt-arrive-en-europe%7Cimg_pano_21765_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/le-ford-mustang-mach-e-gt-arrive-en-europe-CNT000001tA0oP.html" title="Le Ford Mustang Mach-E GT arrive en Europe">
+                            Le Ford Mustang Mach-E GT arrive en Europe
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="Volkswagen ID.4 : le SUV compact 100 % électrique de VW" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9bc%2Fb9e%2F76013c1c066b52504725547a91%2Fvolkswagen-id-4-le-suv-compact-100-electrique-de-vw%7Cimg_pano_21764_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/volkswagen-id-4-le-suv-compact-100-electrique-de-vw-CNT000001tA0pg.html" title="Volkswagen ID.4 : le SUV compact 100 % électrique de VW">
+                            Volkswagen ID.4 : le SUV compact 100 % électrique de VW
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Peugeot 508 Peugeot Sport Engineered : la plus puissante de toutes" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F834%2F860%2Fb095824f5e1ff41c7d98d4d60b%2Fpeugeot-508-peugeot-sport-engineered-la-plus-puissante-de-toutes%7Cimg_pano_21763_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/peugeot-508-peugeot-sport-engineered-la-plus-puissante-de-toutes-CNT000001tA0oo.html" title="Peugeot 508 Peugeot Sport Engineered : la plus puissante de toutes">
+                            Peugeot 508 Peugeot Sport Engineered : la plus puissante de toutes
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt="Strava Metro, le plein de données pour mieux appréhender le boom du vélo" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcaa%2Fa50%2Fe8300d707c602d013836a26149%2Fstrava-metro-le-plein-de-donnees-pour-mieux-apprehender-le-boom-du-velo%7Cimg_pano_21761_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/velos-trottinettes/strava-metro-le-plein-de-donnees-pour-mieux-apprehender-le-boom-du-velo-CNT000001txLOJ.html" title="Strava Metro, le plein de données pour mieux appréhender le boom du vélo">
+                            Strava Metro, le plein de données pour mieux appréhender le boom du vélo
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Nouvelles couleurs pour le prototype VW ID.R" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F7cd%2Ff4f%2F9f1347692df0ceacefc3e8c843%2Fnouvelles-couleurs-pour-le-prototype-vw-id-r%7Cimg_pano_21760_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/nouvelles-couleurs-pour-le-prototype-vw-id-r-CNT000001txK2Q.html" title="Nouvelles couleurs pour le prototype VW ID.R">
+                            Nouvelles couleurs pour le prototype VW ID.R
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt="Tesla Model S Plaid : 840 km d'autonomie et 320 km/h en pointe" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fe29%2F4a9%2Fb974cc2ee405997fbaac6a0fdd%2Ftesla-model-s-plaid-840-km-d-autonomie-et-320-km-h-en-pointe%7Cimg_pano_21756_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/tesla-model-s-plaid-840-km-d-autonomie-et-320-km-h-en-pointe-CNT000001twF5K.html" title="Tesla Model S Plaid : 840 km d'autonomie et 320 km/h en pointe">
+                            Tesla Model S Plaid : 840 km d'autonomie et 320 km/h en pointe
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Aurus, l'Escort électrique de Poutine" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F94a%2F5bf%2Fa9e877ef27a53e72a4d45edf12%2Faurus-l-escort-electrique-de-poutine%7Cimg_1_12938.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/2-roues/aurus-l-escort-electrique-de-poutine-CNT000001twwt0.html" title="Aurus, l'Escort électrique de Poutine">
+                            Aurus, l'Escort électrique de Poutine
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt="Lotus Evija : ses cinq modes de conduite détaillés" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F40a%2F414%2F1d85a1e73351fdbc844448b7d0%2Flotus-evija-ses-cinq-modes-de-conduite-detailles%7Cimg_pano_21749_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/lotus-evija-ses-cinq-modes-de-conduite-detailles-CNT000001tuz8R.html" title="Lotus Evija : ses cinq modes de conduite détaillés">
+                            Lotus Evija : ses cinq modes de conduite détaillés
+                        </a></div><div class="date">
+                                22 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="A vendre : Rimac Concept One" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb09%2F670%2F642498bab2d58652980518c7cf%2Fa-vendre-rimac-concept-one%7Cimg_pano_21746_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/electrique/voitures/a-vendre-rimac-concept-one-CNT000001turVm.html" title="A vendre : Rimac Concept One">
+                            A vendre : Rimac Concept One
+                        </a></div><div class="date">
+                                22 septembre 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main"><div class="main-container container-top fil-ariane"><a href="//auto.orange.fr/electrique/velos-trottinettes/" title="retour en arrière"><span class="icon-arrow-left"></span>Vélos et trottinettes électriques</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Un vélo électrique à roues orbitales
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><div id="Diaporama"><a name="plmAnchor"></a><div id="DiapoMainContainer" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><div class="o_r_nav_diapo" id="MiniSlideContainer" style="display:none"><div id="MiniSlide"><!-- Loading Screen --><div class="loading" data-u="loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><!-- Slides Container --><div class="slides" data-u="slides"><div><a class="currentPhoto" data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fimg_pano_21772_600.jpg?facedetect=1&amp;quality=85" data-id="un-velo-electrique-a-roues-orbitales-0" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fimg_pano_21772_600.jpg?format=822x700&amp;quality=85" data-title="Un vélo électrique à roues orbitales" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/un-velo-electrique-a-roues-orbitales-f04b162f18a75b984e50176df732d42c.html"><img alt="Un vélo électrique à roues orbitales" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fimg_pano_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Un vélo électrique à roues orbitales"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fdc0%2F7d5%2F82c266508a06a7317e85305af2%2Fimg_1_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-1" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fdc0%2F7d5%2F82c266508a06a7317e85305af2%2Fimg_1_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-392792437e036a09362549b6f9e92a77.html"><img alt="" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fdc0%2F7d5%2F82c266508a06a7317e85305af2%2Fimg_1_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F523%2Fb0b%2Fe96f3387a7afe54dea4dc2188d%2Fimg_2_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-2" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F523%2Fb0b%2Fe96f3387a7afe54dea4dc2188d%2Fimg_2_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-cf60b8bbc49a1bef65defe38d0f5a979.html"><img alt="" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F523%2Fb0b%2Fe96f3387a7afe54dea4dc2188d%2Fimg_2_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcdb%2F8c7%2F031b5c816e2d4d3de61926382e%2Fimg_3_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-3" data-src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcdb%2F8c7%2F031b5c816e2d4d3de61926382e%2Fimg_3_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-438fdee5356d420aff8d7f7770491b6a.html"><img alt="" data-src2="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fcdb%2F8c7%2F031b5c816e2d4d3de61926382e%2Fimg_3_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F514%2F0a0%2F11e8b4b775a1491bb6e797eefe%2Fimg_4_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-4" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F514%2F0a0%2F11e8b4b775a1491bb6e797eefe%2Fimg_4_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-a22616d0e774dc26311cbf4b4bb93b1f.html"><img alt="" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F514%2F0a0%2F11e8b4b775a1491bb6e797eefe%2Fimg_4_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Ff88%2F9fb%2F7efa19267ed764b9a5f93fccff%2Fimg_5_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-5" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Ff88%2F9fb%2F7efa19267ed764b9a5f93fccff%2Fimg_5_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-8be3725e66e1908491863397bbe62cbd.html"><img alt="" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Ff88%2F9fb%2F7efa19267ed764b9a5f93fccff%2Fimg_5_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F90e%2Fee1%2Fc6739899bdad2160abd584438d%2Fimg_6_21772_600.jpg?facedetect=1&amp;quality=85" data-id="-6" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F90e%2Fee1%2Fc6739899bdad2160abd584438d%2Fimg_6_21772_600.jpg?format=822x700&amp;quality=85" data-title="" data-type="image" data-u="image" href="//auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V/photos/-420b5b6e9d262aeb754369f5ee74e16d.html"><img alt="" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F90e%2Fee1%2Fc6739899bdad2160abd584438d%2Fimg_6_21772_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title=""/></a></div></div></div><a class="diapo-chevron prev nav o_r_fleche_gauche" href="" id="MiniSlidePrev"><span class="icon-arrow-left"></span></a><a class="diapo-chevron next nav o_r_fleche_droite" href="" id="MiniSlideNext"><span class="icon-arrow-right"></span></a></div><div class="image" id="ImageContainer"><div id="Loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><div class="module" id="MainImage"><img alt="Un vélo électrique à roues orbitales" itemprop="contentUrl" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fimg_pano_21772_600.jpg?format=822x700&amp;quality=85" title="Un vélo électrique à roues orbitales"/></div><div class="o_r_url_diapo" id="SlideNav"><a class="slide-prev hidden nav o_r_fleche_gauche" href="" id="SlideNavLeft"><div class="diapo-chevron prev" id="SlidePrev"><span class="icon-arrow-left"></span></div></a><a class="slide-next hidden nav o_r_fleche_droite" href="" id="SlideNavRight"><div class="diapo-chevron next" id="SlideNext"><span class="icon-arrow-right"></span></div></a></div></div><div id="DescContainer"><div class="module" id="DescTitle" itemprop="name">Un vélo électrique à roues orbitales</div><div id="DescContent" itemprop="description"></div><div id="DescIndex"><span id="currentIndex">1</span>/7</div><div id="DescCopyright" itemprop="copyrightHolder">
+                 © Motorlegend
+            </div></div></div></div><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+    Polaris.channelName = "Actualités";
+    Polaris.diaporamaTitle = 'Un vélo électrique à roues orbitales'
+    Polaris.diaporamaTotal = 7;
+    Polaris.diaporamaStartIndex = 0;
+    Polaris.diaporamaStartId = "un-velo-electrique-a-roues-orbitales-0";
+    Polaris.dynamicLoading = true;
+</script><article id="CNT000001tA86V" itemscope="" itemtype="http://schema.org/Article"><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><meta content="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fimg_pano_21772_600.jpg?format=822x700&amp;quality=85" itemprop="url"/></span></div><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt="Test Cannondale Mavaro Neo 1, le nec le plus ultra pour la ville" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F76e%2Fcfa%2Fa8a06bc9c44ffbf3f28a9ae182%2Ftest-cannondale-mavaro-neo-1-le-nec-le-plus-ultra-pour-la-ville%7Cimg_pano_21567_600.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/electrique/velos-trottinettes/test-cannondale-mavaro-neo-1-le-nec-le-plus-ultra-pour-la-ville-CNT000001sx5aa.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'Test Cannondale Mavaro Neo 1, le nec le plus ultra pour la ville' });} else { javascript:void(0); }">
+                Test Cannondale Mavaro Neo 1, le nec le plus ultra pour la ville
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/electrique/velos-trottinettes/test-vae-cowboy-il-va-y-avoir-du-sport-CNT000001nWbUl.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'Test VAE Cowboy, il va y avoir du sport !' });} else { javascript:void(0); }">
+                Test VAE Cowboy, il va y avoir du sport !
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1478);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2020-09-25" itemprop="datePublished"/><meta content="2020-09-25" itemprop="dateModified"/><meta content="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html" itemprop="mainEntityOfPage"/><meta content=" Si vous cherchez un vélo à assistance électrique novateur, ne cherchez plus. Avec son look futuriste, le..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date">
+                                            publié le <strong>25 septembre</strong></p><!-- Fin Date --><!-- TEXTE --><p>Si vous cherchez un vélo à assistance électrique novateur, ne cherchez plus. Avec son look futuriste, le Reevo Bikes vous satisfera pleinement. Développé par la start-up Beno Technologies installée à Dubaï, ce vélo est un concentré de technologies et de design. En premier lieu, Beno Technologies a voulu casser les codes, en développant des roues orbitales. Ainsi, outre l'aspect technologique, ce système offre un design exceptionnel au vélo, puisque le Reevo est dépourvu de moyeux et de rayons. Si la partie motorisation semble assez complexe et inédite sur un vélo (même s'il rappelle le projet Cyclotron), elle reste pourtant simple. Le moteur de 750 watts (une version 250 watts est prévue pour le marché européen) intégré dans la partie arrière basse du cadre entraîne une jante extérieure qui maintient le pneu et laisse ainsi fixe l'intérieur de la roue. Avec cette technologie, la société promet de meilleures performances et en profite pour intégrer de nombreux éléments inédits. Par exemple, un système d'attache dans la roue arrière permet d'y fixer une petite sacoche. En outre, les feux de signalisation à LED d'une puissance de 800 lumens sont directement intégrés aux roues et se déclenchent automatiquement dès que la luminosité baisse. Le feu de freinage et les clignotants sont aussi parfaitement dissimulés dans les roues. Toutefois, si l'innovation est là, on reste dubitatif quant à l'utilisation sous la pluie. Les projections devraient très vite salir la sacoche et les feux... Signalons également que le vélo utilise une fourche monobras à l'avant afin de présenter des lignes toujours plus novatrices.</p><p>Au guidon de ce vélo, on reste conquis par la présence d'un support pour smartphone qui transforme le Reevo Bikes en modèle connecté. Ici les informations telles que la vitesse, l'autonomie ou le GPS sont visibles. Même s'il attire toutes les convoitises, ce vélo est prêt à décourager les voleurs grâce à un lecteur d'empreinte digitale qui permet d'activer le vélo. Ce système agit également sur l'antivol intégré au cadre. Au-delà de la sécurité passive, le Reevo propose des sécurités actives, tel que le détecteur de mouvement qui déclenche une alerte sur le téléphone du propriétaire. Ce dernier pourra ensuite, grâce à la puce GPS intégrée au cadre, le localiser.</p><p>L'ensemble est alimenté par une batterie amovible en 48 V qui se recharge en 3 heures. Pour le moment, la firme ne communique pas sur l'autonomie de l'engin. Prévu pour une commercialisation en 2021, ce vélo futuriste soulève de nombreuses questions, notamment sur le rendement du système et la durée de vie des roulements, points faibles des roues orbitales. Mais il faut tout de même souligner l'inventivité et la créativité des ingénieurs qui ont travaillé pendant plus de 4 ans à l'élaboration de ce projet. Le prix reste encore inconnu.</p></div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+    $(document).ready(function () {
+        if ($('.news-top-article').length && $('.sticky-block-column').length) {
+            //to set banner "a lire aussi" position at the top if "news-top-article" is present
+            $('.article-corps').addClass('news-top-check');
+            $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+        }
+    });
+</script><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1478
+                    },
+                    "magicRequest": {
+                        "hostname" : "//auto.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'auto', 14, 4, 'CNT000001tA86V');
+    });
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200925'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_auto.electrique"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.electrique/ora_1_300x250_auto.electrique" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.electrique/ora_1_300x250_auto.electrique" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Auto Plus" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2Fb79%2F1ce%2F8576dde0c3c7e5806e805e1fee%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Auto Plus</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/auto-plus/2020-09-25" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-auto',
+                            uid: 'CNT000001tA86V',
+                            publication_date: '2020-09-25 15:45:56',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_auto.electrique"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.electrique/ora_2_300x250_auto.electrique" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.electrique/ora_2_300x250_auto.electrique" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="http://r.orange.fr/r/Oauto_twitter_orange" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_auto.electrique"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.electrique/ora_2_728x90_auto.electrique" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.electrique/ora_2_728x90_auto.electrique" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//auto.orange.fr/js/min/article.footer.aeb7829b77f638d16f91dce7a095782c50b0f50b.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

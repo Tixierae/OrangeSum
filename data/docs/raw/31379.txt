@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html data-device="desktop" lang="fr">
+<head>
+<title>#PlusFortsEnsembleUE</title>
+<meta content="Une alimentation européenne saine et durable, L’Europe prépare les vacances d’été, Les députés européens appellent à soutenir les artistes touchés par la pandémie , Les 10 mesures prises par l’UE pour lutter contre le coronavirus, Le Parlement et le pacte vert européen" name="description"/>
+<meta content="#PlusFortsEnsembleUE, #EuropéensContreLeCovid19, alimentation, Europe, Vacances, Députés européens, Pandémie, Covid19, Pacte Vert, Coronavirus" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="eea60ea874f7520d3b9cf4005972b564" property="orange: sonde"/>
+<!-- FACEBOOK -->
+<meta content="Orange" property="og:site_name"/>
+<meta content="fr_FR" property="og:locale"/>
+<meta content="#PlusFortsEnsembleUE" property="og:title"/>
+<meta content="Une alimentation européenne saine et durable, L’Europe prépare les vacances d’été, Les députés européens appellent à soutenir les artistes touchés par la pandémie , Les 10 mesures prises par l’UE pour lutter contre le coronavirus, Le Parlement et le pacte vert européen" property="og:description"/>
+<meta content="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-parlement/prod/img/Logo_PE_hdef.jpg" property="og:image"/>
+<meta content="https://parlement-europeen.actu.orange.fr" property="og:url"/>
+<meta content="article" property="og:type"/>
+<!-- TWITTER -->
+<meta content="#PlusFortsEnsembleUE" property="twitter:title"/>
+<meta content="Une alimentation européenne saine et durable, L’Europe prépare les vacances d’été, Les députés européens appellent à soutenir les artistes touchés par la pandémie , Les 10 mesures prises par l’UE pour lutter contre le coronavirus, Le Parlement et le pacte vert européen" property="twitter:description"/>
+<meta content="https://parlement-europeen.actu.orange.fr" property="twitter:url"/>
+<meta content="article" property="twitter:card"/>
+<meta content="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-parlement/prod/img/Logo_PE_hdef.jpg" property="twitter:image:src"/>
+<script src="//iz4.orange.fr/$v=2;i=parleuro_I1;d=1601226984;s=643a0ed63396c1ff9deabc93472f437895f1ae422a1689c32e63d1926f2a7cfa/idzone.js" type="text/javascript"></script>
+<script>
+        window.env = 'prod'
+    </script>
+<!-- PVP -->
+<script async="" defer="" src="//c.woopic.com/Pvp/js/pvp-min.js" type="text/javascript"></script>
+<!-- /PVP -->
+<script language="javascript">
+        //
+        // Setting tag to implement inside the body tag, just after the opening <body> tag.
+        //
+
+        // Parameters:
+        // ----------------------------------------------------------------------------------------------
+        // Publisher's site own keyword list string, each key pair must be separated by a semi-column (;)
+        var oan_siteKeywords="";
+        // If the Publisher's site owner want to specify the topic used in the section, it can be specify bellow
+        var oan_siteContentTopic="";
+
+        // try do change anything bellow
+        document.write('<scr'+'ipt src="https://all.orfr.adgtw.orangeads.fr/js/ora_ops?sKW='+ encodeURI(oan_siteKeywords)+'&sCT='+encodeURI(oan_siteContentTopic)+'"><\/scr'+'ipt>');
+    </script>
+<link href="/icons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/icons/favicon-32x32-new.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/icons/favicon-16x16-new.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="https://z.preprod.woopic.com" rel="preconnect"/>
+<link href="https://c.woopic.com" rel="preconnect"/>
+<link href="https://cdn.woopic.com" rel="preconnect"/>
+<link href="https://c-rec.staging.woopic.com" rel="preconnect"/>
+<link href="https://pms.preprod.orange.fr" rel="preconnect"/>
+<link href="https://proxymedia.woopic.com" rel="preconnect"/>
+<link href="https://proxymedia.preprod.woopic.com" rel="preconnect"/>
+<link href="https://cdn.adgtw.orangeads.fr" rel="preconnect"/>
+<link href="https://ib.adnxs.com" rel="preconnect"/>
+<link href="https://dig.ultimedia.com" rel="preconnect"/>
+<link href="https://consent.orange.fr" rel="preconnect"/>
+<link href="https://static.mediarithmics.com" rel="preconnect"/>
+<link href="https://tags.tiqcdn.com" rel="preconnect"/>
+<link href="https://sync.smartadserver.com" rel="preconnect"/>
+<link href="https://events.mediarithmics.com" rel="preconnect"/>
+<link href="https://static-cdn.spott.ai" rel="preconnect"/>
+<link href="https://sb.scorecardresearch.com" rel="preconnect"/>
+<link href="https://tags.bkrtx.com" rel="preconnect"/>
+<link href="https://pixel.advertising.com" rel="preconnect"/>
+<link href="https://unpkg.com" rel="preconnect"/>
+<link href="https://cdn.jsdelivr.net" rel="preconnect"/>
+<link href="https://medialb.digiteka.net" rel="preconnect"/>
+<link href="https://ads.videoadex.com" rel="preconnect"/>
+<link href="https://ngs02c.digiteka.net" rel="preconnect"/>
+<link href="https://ngs07c.digiteka.net" rel="preconnect"/>
+<link href="https://s.ytimg.com" rel="preconnect"/>
+<link href="https://ups.analytics.yahoo.com" rel="preconnect"/>
+<link href="https://imasdk.googleapis.com" rel="preconnect"/>
+<link href="https://sdk.privacy-center.org" rel="preconnect"/>
+<link href="https://tag.leadplace.fr" rel="preconnect"/>
+<link href="https://triggermkg.leadplace.fr" rel="preconnect"/>
+<link href="https://confiant-integrations.global.ssl.fastly.net" rel="preconnect"/>
+<link href="https://adservice.google.fr" rel="preconnect"/>
+<link href="https://adservice.google.com" rel="preconnect"/>
+<link href="https://securepubads.g.doubleclick.net" rel="preconnect"/>
+<link href="https://static.adsafeprotected.com" rel="preconnect"/>
+<link href="https://www.ultimedia.com" rel="preconnect"/>
+<link href="https://www.youtube.com" rel="preconnect"/>
+<link href="https://stags.bluekai.com" rel="preconnect"/>
+<link href="https://tags.bluekai.com" rel="preconnect"/>
+<link href="https://stackpath.bootstrapcdn.com" rel="preconnect"/>
+<link href="https://cdnjs.cloudflare.com" rel="preconnect"/>
+<link href="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/desktop.f3f257e5.css" rel="stylesheet"/>
+<style>
+    
+    
+            .couleurPrimaire {
+            color: #111111;
+        }
+            
+            .couleurSecondaire {
+            color: #f7d900;
+        }
+            
+            .couleurTertiaire {
+            color: #ffffff;
+        }
+        .slider.buttons > button {
+            background-color: #ffffff;
+        }
+    
+            .couleurQuaternaire {
+            color: #eee;
+        }
+    
+</style>
+<script crossorigin="anonymous" integrity="sha256-+2SfyuYhd9/mPmcIHdzrgwtc4fBaQYTpu7fYesS49OU=" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js"></script>
+<!-- HTML Libre -->
+<?xml version='1.0'?>
+</head>
+<body>
+<div id="fb-root"></div>
+<script async="" crossorigin="anonymous" defer="" nonce="QOju8MGZ" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0"></script>
+<link href="//actu.orange.fr/css/min/partners-menuv3.header.23167e3c0aea439642641818b5c0296ba20b5220.css" rel="stylesheet"/><script src="//actu.orange.fr/js/min/partners-menuv3.header.04162d4ddef83adbfbbce322c1fec79b55509cfd.js"></script><div class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/661%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/661%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></div><div class="clear"></div>
+<!-- /MENU Element commun -->
+<div class="wrapper" id="wrapper">
+<header id="sticky_menu">
+<div class="bg_blanc">
+<a class="" href="//pubads.g.doubleclick.net/gampad/clk?id=5416568295&amp;iu=/3513" onmousedown='o_link("RG", "Header", "Parlement_Europeen_2020");' target="_blank">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/1211%2F../event-parlement/prod/img/banniere_w.png?facedetect=1&amp;quality=80"/>
+</div>
+</a>
+</div>
+</header>
+<div class="container" id="content">
+<div class="row">
+<div class="col-12">
+<div class="slider" data-slider="articles_hp" id="articles_slider_hp">
+<div class="item">
+<a class="article absolute p0" href="/une-alimentation-europeenne-saine-et-durable_CNT000001rwfGE.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F743%2Fcf1%2F1f3dc9114b4aa7ccd5e3b8e14c%2Falimentation_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Une alimentation européenne saine et durable</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/covid-19-plan-de-relance-pour-faire-face-aux-consequences-de-la-pandemie_CNT000001rwfF3.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fa3a%2F166%2F6acca4a335435d9a712cb9bef1%2FNEGO_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Covid-19 : plan de relance pour faire face aux conséquences de la pandémie</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/covid-19-10-actions-de-l-ue-pour-soutenir-la-relance-economique_CNT000001rwfFu.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F5af%2F747%2Fd4eb43f0ae97976b0104ecd467%2F10_relance_eco_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Covid-19 : 10 actions de l'UE pour soutenir la relance économique</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/budget-de-l-ue-le-parlement-europeen-reclame-de-nouvelles-sources-de-revenus_CNT000001rwfFc.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F58a%2Fe87%2F881249fe677aac14fc6b29b5d9%2Fsources_revenus_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Budget de l'UE : le Parlement européen réclame de nouvelles sources de revenus</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/de-nouvelles-regles-pour-les-recours-collectifs-des-consommateurs_CNT000001rwfFD.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fa3d%2F2ca%2F13724591eda392506e0feea13a%2Frecours2_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">De nouvelles règles pour les recours collectifs des consommateurs</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/penurie-de-medicaments-dans-l-ue-les-causes-et-les-solutions_CNT000001rwfG4.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F54b%2F894%2Fde651f6a97c7c05c6a5b86a1bd%2Fmedicaments_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Pénurie de médicaments dans l'UE : les causes et les solutions </h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/le-parlement-et-le-pacte-vert-europeen_CNT000001rwfGv.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F3be%2F27f%2F1c1e149f686fda69e4ab397dd4%2FPacte_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Le Parlement et le pacte vert européen</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/les-10-mesures-prises-par-l-ue-pour-lutter-contre-le-coronavirus_CNT000001rwfGN.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F76e%2F20d%2Fc150f7e8b7e397d03ddc1fd287%2F10_mesures_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Les 10 mesures prises par l'UE pour lutter contre le coronavirus</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/les-deputes-europeens-appellent-a-soutenir-les-artistes-touches-par-la-pandemie_CNT000001rwfGW.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fac1%2F138%2F83fc86a4af1c7d8afcd758e9c7%2Fculture_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Les députés européens appellent à soutenir les artistes touchés par la pandémie</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/conseils-pour-voyager-en-toute-securite_CNT000001rwfGm.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F18a%2Fe64%2Ffe599cdac69c61ea8aa7890a58%2Fvacances_ete_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Conseils pour voyager en toute sécurité</h2>
+</a>
+</div>
+<div class="item">
+<a class="article absolute p0" href="/debat-sur-l-etat-de-l-union-europeenne-donnez-votre-avis-et-posez-vos-questions-aux-deputes-europeens-avant-le-debat-le-plus-important-de-l-annee_CNT000001rwfFV.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fae1%2F651%2Fc3a1316515d43eab4800453834%2FSOTEU_990x500.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Débat sur l'état de l'Union européenne : donnez votre avis et posez vos questions aux députés européens avant le débat le plus important de l'année !</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
+<a class="article absolute" href="/une-alimentation-europeenne-saine-et-durable_CNT000001rwfGE.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F9f0%2Fea3%2F7951ce1178cba9b2a6100b1727%2Falimentation_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Une alimentation européenne saine et durable</h2>
+</a>
+<a class="article " href="/covid-19-10-actions-de-l-ue-pour-soutenir-la-relance-economique_CNT000001rwfFu.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F8d1%2F230%2F7f9646312eec61b1a6587980f9%2F10_relance_eco_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Covid-19 : 10 actions de l'UE pour soutenir la relance économique</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="cta_hp" href="//pubads.g.doubleclick.net/gampad/clk?id=5473927611&amp;iu=/3513" onmousedown='o_link("RG", "CTA", "Parlement_Europeen_2020");' target="_blank">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/1211%2F../event-parlement/prod/img/visuel_central.jpg?facedetect=1&amp;quality=80"/>
+</div>
+</a>
+<a class="article absolute" href="/de-nouvelles-regles-pour-les-recours-collectifs-des-consommateurs_CNT000001rwfFD.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F88e%2F4a3%2F3734fc5270c10114bfc0d159fc%2Frecours2_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">De nouvelles règles pour les recours collectifs des consommateurs</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article absolute" href="/covid-19-plan-de-relance-pour-faire-face-aux-consequences-de-la-pandemie_CNT000001rwfF3.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Ff6e%2F487%2F7e1bfdbb42ad150ebc24f1b71e%2FNEGO_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Covid-19 : plan de relance pour faire face aux conséquences de la pandémie</h2>
+</a>
+<a class="article " href="/budget-de-l-ue-le-parlement-europeen-reclame-de-nouvelles-sources-de-revenus_CNT000001rwfFc.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Ff4d%2Fa50%2F97f3ec1ec774500d83bae22948%2Fsources_revenus_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Budget de l'UE : le Parlement européen réclame de nouvelles sources de revenus</h2>
+</a>
+</div>
+</div>
+<button class="voir_plus" data-index="0">voir <span>+</span></button>
+<div id="autres_articles">
+<div class="bloc_article">
+<div class="row">
+<div class="col-4">
+<a class="article " href="/penurie-de-medicaments-dans-l-ue-les-causes-et-les-solutions_CNT000001rwfG4.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F116%2Fb4e%2F59f87e461c445debf00746a9b8%2Fmedicaments_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Pénurie de médicaments dans l'UE : les causes et les solutions </h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/le-parlement-et-le-pacte-vert-europeen_CNT000001rwfGv.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F47f%2F51f%2F3f293439767249897d8d5fe8a7%2FPacte_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Le Parlement et le pacte vert européen</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/les-10-mesures-prises-par-l-ue-pour-lutter-contre-le-coronavirus_CNT000001rwfGN.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fa1e%2Ffe9%2F7d7e3c7547709261b4fcd56ffd%2F10_mesures_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Les 10 mesures prises par l'UE pour lutter contre le coronavirus</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/les-deputes-europeens-appellent-a-soutenir-les-artistes-touches-par-la-pandemie_CNT000001rwfGW.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fa93%2F8b4%2F1fec7bdbc0182dff38cf37a35c%2Fculture_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Les députés européens appellent à soutenir les artistes touchés par la pandémie</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/conseils-pour-voyager-en-toute-securite_CNT000001rwfGm.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F6fb%2F194%2Fd1dbab177f5ce417b2ef705846%2Fvacances_ete_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Conseils pour voyager en toute sécurité</h2>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/debat-sur-l-etat-de-l-union-europeenne-donnez-votre-avis-et-posez-vos-questions-aux-deputes-europeens-avant-le-debat-le-plus-important-de-l-annee_CNT000001rwfFV.html">
+<img alt="" class="icon-video-parlement" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/images/icone-video.836a0a62.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fe0a%2Fb6c%2F42918c65c72edd8638d48976b8%2FSOTEU_316x269.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<h2 class="ellipsis" data-row="3">Débat sur l'état de l'Union européenne : donnez votre avis et posez vos questions aux députés européens avant le débat le plus important de l'année !</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-footer">
+<div class="container">
+<div id="footer">
+<div class="row">
+<div class="col-12 col-lg-6 marg">
+<div class="bg_blanc padd">
+<a class="twitter-timeline" data-tweet-limit="1" href="https://twitter.com/Europarl_FR?ref_src=twsrc%5Etfw"></a>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+</div>
+</div>
+<div class="col-12 col-lg-6 marg">
+<div class="bg_blanc padd">
+<div class="fb-page" data-adapt-container-width="true" data-height="620" data-hide-cover="false" data-href="https://www.facebook.com/parlement.europeen.france/posts/10158966453463825" data-show-facepile="true" data-small-header="false" data-tabs="timeline" data-width="500px"><blockquote cite="https://www.facebook.com/parlement.europeen.france/posts/10158966453463825" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/parlement.europeen.france/posts/10158966453463825"></a></blockquote></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<?xml version='1.0'?>
+<script type="text/javascript">
+                var o_confCommon = {
+                    typeEnv: "prod",
+                    genericHeaderZone: true,
+                    domainTitle: "Actualités",
+                    domainUrl: "//actu.orange.fr",
+                    domainRef: "actu",
+                    serviceZone: {
+                        searchZone: {
+                            unifiedSearchEngine: {
+                                label: "rechercher sur news",
+                                queryAdditionalParams: "module=chaine&bhv=news"
+                            }
+                        }
+                    },
+                    footer: {
+                        id: "footer-wrapper",
+                        syndicationZone: true,
+                        sitemapZone: true,
+                    },
+                    tracking: {
+                        //enable iQ TMS
+                        Tealium: {
+                            activate: true
+                        }
+                    },
+                    underlineLeftItem: '0',
+                    unifiedSearchEngine: {
+                        label: "Rechercher dans Actualités",
+                        queryAdditionalParams: "module=chaine&bhv=actu&ap=-1",
+                        //cmplBlocks: [{ baseId: '-'}],
+                        toptrendCategory: "orange.people",
+                        toptrend: true
+                    }
+
+                }
+            </script>
+<script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script>
+<script src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/runtime.ce6a7f2e.js" type="text/javascript"></script>
+<script src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-parlement/prod/build/desktop.a7a70d2e.js" type="text/javascript"></script>
+<!-- footer Elco -->
+<script>
+    head.ready(function(){ o_footer(); });
+</script>
+<!-- /footer Elco -->
+<link href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-boilerplate/prod/css/fonts.css" rel="stylesheet"/>
+<!-- Tag Bluekai -->
+<img alt="bluekai" height="1" src="//stags.bluekai.com/site/58288?phint=source=event-parlement&amp;phint=event=seen&amp;phint=rand=923232660" width="1"/>
+<!-- /Tag Bluekai -->
+</body>
+</html>

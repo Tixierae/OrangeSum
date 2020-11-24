@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="4a7dd984f49339f81549bbe83e5b1eca" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-09-27 19:20:08" name="orange-generated-date"/><meta content="1601227208" name="orange-generated-timestamp"/><meta content="b0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Reprise des programmes F1 Clienti et Ferrari XX : actualité automobile, infos, scoop</title><meta content="Le circuit espagnol de Montmelo, près de Barcelone, a accueilli deux journées d'essais privés organisés par le constructeur au cheval cabré à l'intention des participants de ses programmes F1 Clienti et Ferrari XX." name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="Orange Auto" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oauto_twitter_orange" property="twitter:site"/><meta content="Reprise des programmes F1 Clienti et Ferrari XX" property="name"/><meta content="2020-09-08T18:09:04+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Freprise-des-programmes-f1-clienti-et-ferrari-xx%7Cimg_pano_21464_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-07-23T09:52:10+02:00" property="article:published_time"/><meta content="2020-07-23T10:31:13+02:00" property="article:modified_time"/><meta content="News" property="article:section"/><meta content="circuit automobile" property="article:tag"/><meta content="F1" property="article:tag"/><meta content="sport automobile" property="article:tag"/><meta content="http://media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Freprise-des-programmes-f1-clienti-et-ferrari-xx%7Cimg_pano_21464_600.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="Reprise des programmes F1 Clienti et Ferrari XX" property="og:title"/><meta content="Le circuit espagnol de Montmelo, près de Barcelone, a accueilli deux journées d'essais privés organisés par le constructeur au cheval cabré à l'intention des participants de ses programmes F1 Clienti et Ferrari XX." property="og:description"/><meta content="https://auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs.html" property="og:url"/><link href="https://auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs.html" rel="canonical"/><link href="https://auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=auto_I1;d=1601227239;s=02d516ce874a9815cea9af7a571034f07799436668100b77e35823e4952d99e2/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "autonews"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "auto",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Auto",
+            queryAdditionalParams : "module=chaine&bhv=auto&ap=-1",
+            cmplBlocks : [{ baseId : '-auto' }],
+                        toptrend : false
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "auto",
+            "univers_affichage": "news",
+            "sous_univers" : "",
+            "source_contenu" : "",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//auto.orange.fr/css/min/article.header.8aedee9f1636c1bbab4f1a1944bd032dd9a5e47b.css" rel="stylesheet"/><script src="//auto.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_auto.actu?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" mv3-active o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/473%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/473%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu" id="menu-v3-second-level"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark"><li class="fixed-width"><ul><li class=" o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                                    Auto
+                                </a></li><li class=" mv3-active o_r_news"><a href="https://auto.orange.fr/news/" title="News">
+                                    News
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" mv3-active o_r_toutes-les-news"><a href="https://auto.orange.fr/news/" title="Toutes les news">
+                                Toutes les news
+                            </a></li></ul></li></ul></div></header><header class="menu-v3-init o_r_url_menu" id="menu-v3-second-level-init"><div class="mv3-container-main mv3-loader-dark"><ul class="mv3-second-level"><li class="menu-item-1 o_r_auto"><a href="https://auto.orange.fr" title="Auto">
+                            Auto
+                        </a></li><li class="menu-item-1 mv3-active o_r_news"><a href="https://auto.orange.fr/news/" title="News">
+                            News
+                        </a></li><li class="menu-item-2 mv3-active o_r_toutes-les-news"><a href="https://auto.orange.fr/news/" title="Toutes les news">
+                            Toutes les news
+                        </a></li></ul></div></header>
+<div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Ferrari Omologata : unique" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb53%2F464%2F604f2c7101020ef1f8c2c6aec4%2Fferrari-omologata-unique%7Cimg_pano_21771_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/ferrari-omologata-unique-CNT000001tA86M.html" title="Ferrari Omologata : unique">
+                            Ferrari Omologata : unique
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Porsche conçoit une carrosserie en matériau composite à base de fibres naturelles" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F883%2Fc47%2Fd9397a6b63be3c2ebaed943d14%2Fporsche-concoit-une-carrosserie-en-materiau-composite-a-base-de-fibres-naturelles%7Cimg_pano_21769_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/porsche-concoit-une-carrosserie-en-materiau-composite-a-base-de-fibres-naturelles-CNT000001tA0o6.html" title="Porsche conçoit une carrosserie en matériau composite à base de fibres naturelles">
+                            Porsche conçoit une carrosserie en matériau composite à base de ...
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Allard Motor Company relance la fabrication de la JR" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F45d%2F530%2F3ed51634f2f147c19f8768660b%2Fallard-motor-company-relance-la-fabrication-de-la-jr%7Cimg_pano_21768_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/allard-motor-company-relance-la-fabrication-de-la-jr-CNT000001tA0ox.html" title="Allard Motor Company relance la fabrication de la JR">
+                            Allard Motor Company relance la fabrication de la JR
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="Twin Turbo Furious Bugatti La Montre Noire par Jacob &amp;amp; Co." src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F348%2F65d%2F2f39c52691ea04e12141755407%2Ftwin-turbo-furious-bugatti-la-montre-noire-par-jacob-co%7Cimg_pano_21766_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/twin-turbo-furious-bugatti-la-montre-noire-par-jacob-amp-co-CNT000001tA0oG.html" title="Twin Turbo Furious Bugatti La Montre Noire par Jacob &amp;amp; Co.">
+                            Twin Turbo Furious Bugatti La Montre Noire par Jacob &amp; Co.
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="Embarquez avec Robert Kubica sur la Nürburgring Nordschleife" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F954%2Fb85%2Fc2b89ba24fe2bed4e630c5867e%2Fembarquez-avec-robert-kubica-sur-la-nurburgring-nordschleife%7Cimg_pano_21762_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/embarquez-avec-robert-kubica-sur-la-nurburgring-nordschleife-CNT000001tA0of.html" title="Embarquez avec Robert Kubica sur la Nürburgring Nordschleife">
+                            Embarquez avec Robert Kubica sur la Nürburgring Nordschleife
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt="La version Extended de la nouvelle Rolls-Royce Ghost est arrivée" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F99e%2F1d5%2F18627e5b0c134bbc84528f44a3%2Fla-version-extended-de-la-nouvelle-rolls-royce-ghost-est-arrivee%7Cimg_pano_21759_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/la-version-extended-de-la-nouvelle-rolls-royce-ghost-est-arrivee-CNT000001txK2Z.html" title="La version Extended de la nouvelle Rolls-Royce Ghost est arrivée">
+                            La version Extended de la nouvelle Rolls-Royce Ghost est arrivée
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="McLaren 765LT : premiers clients livrés" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F475%2F80a%2Fbc53484bc3e955fcfe2a0224f3%2Fmclaren-765lt-premiers-clients-livres%7Cimg_pano_21758_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/mclaren-765lt-premiers-clients-livres-CNT000001txIWR.html" title="McLaren 765LT : premiers clients livrés">
+                            McLaren 765LT : premiers clients livrés
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt="Une Mercedes-AMG GT Stealth Edition pour les USA" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F5ee%2F653%2Fbe99daf9c3366dffc0fa6f1dfb%2Fune-mercedes-amg-gt-stealth-edition-pour-les-usa%7Cimg_pano_21757_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/une-mercedes-amg-gt-stealth-edition-pour-les-usa-CNT000001txIX9.html" title="Une Mercedes-AMG GT Stealth Edition pour les USA">
+                            Une Mercedes-AMG GT Stealth Edition pour les USA
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Nouveautés M Performance Parts pour les BMW M3 et M4 2021" src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F4cf%2Fc8f%2Fca0d6c7610296c27b36b7444cd%2Fnouveautes-m-performance-parts-pour-les-bmw-m3-et-m4-2021%7Cimg_pano_21754_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/nouveautes-m-performance-parts-pour-les-bmw-m3-et-m4-2021-CNT000001tws88.html" title="Nouveautés M Performance Parts pour les BMW M3 et M4 2021">
+                            Nouveautés M Performance Parts pour les BMW M3 et M4 2021
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt="Nouvelles BMW M3 Berline et BMW M4 Coupé" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fc6d%2Fe20%2Faf0d199748e818d589874d268f%2Fnouvelles-bmw-m3-berline-et-bmw-m4-coupe%7Cimg_pano_21753_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/nouvelles-bmw-m3-berline-et-bmw-m4-coupe-CNT000001twnCU.html" title="Nouvelles BMW M3 Berline et BMW M4 Coupé">
+                            Nouvelles BMW M3 Berline et BMW M4 Coupé
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="La Bugatti Chiron Pur Sport en tournée américaine" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F294%2F5c2%2F59188d9ebb9bfc3c3254218e5e%2Fla-bugatti-chiron-pur-sport-en-tournee-americaine%7Cimg_pano_21751_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/la-bugatti-chiron-pur-sport-en-tournee-americaine-CNT000001tws8z.html" title="La Bugatti Chiron Pur Sport en tournée américaine">
+                            La Bugatti Chiron Pur Sport en tournée américaine
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt="Édition limitée Audi R8 green hell" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F535%2F594%2Faa909d2dfe40ec144259a75347%2Fedition-limitee-audi-r8-green-hell%7Cimg_pano_21750_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/edition-limitee-audi-r8-green-hell-CNT000001tws8I.html" title="Édition limitée Audi R8 green hell">
+                            Édition limitée Audi R8 green hell
+                        </a></div><div class="date">
+                                22 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Stage de pilotage : AMG Winter Experience 2021" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F158%2F812%2F736f4f97b5d952b05a909bee96%2Fstage-de-pilotage-amg-winter-experience-2021%7Cimg_pano_21747_600.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://auto.orange.fr/news/stage-de-pilotage-amg-winter-experience-2021-CNT000001tutvK.html" title="Stage de pilotage : AMG Winter Experience 2021">
+                            Stage de pilotage : AMG Winter Experience 2021
+                        </a></div><div class="date">
+                                22 septembre 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main"><div class="main-container container-top fil-ariane"><a href="//auto.orange.fr/news/" title="retour en arrière"><span class="icon-arrow-left"></span>Toutes les news</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Reprise des programmes F1 Clienti et Ferrari XX
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><div id="Diaporama"><a name="plmAnchor"></a><div id="DiapoMainContainer" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><div class="o_r_nav_diapo" id="MiniSlideContainer" style="display:none"><div id="MiniSlide"><!-- Loading Screen --><div class="loading" data-u="loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><!-- Slides Container --><div class="slides" data-u="slides"><div><a class="currentPhoto" data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Fimg_pano_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-0" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Fimg_pano_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-0c6979d955aa78aa542bd3a0be856be5.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Fimg_pano_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fece%2Fdc2%2Fda6760a516d21cea0693196d7a%2Fimg_1_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-1" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fece%2Fdc2%2Fda6760a516d21cea0693196d7a%2Fimg_1_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-ef5cfcb1c3027055b974afe168df7e9f.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fece%2Fdc2%2Fda6760a516d21cea0693196d7a%2Fimg_1_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F25a%2F1b3%2Fca5340a4ed2b1b6f81ad8fdf73%2Fimg_2_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-2" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F25a%2F1b3%2Fca5340a4ed2b1b6f81ad8fdf73%2Fimg_2_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-ba4422736bd0b83707fbecaedff1c007.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F25a%2F1b3%2Fca5340a4ed2b1b6f81ad8fdf73%2Fimg_2_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F637%2Fbac%2Fc2818bb797e87604086bd138bc%2Fimg_3_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-3" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F637%2Fbac%2Fc2818bb797e87604086bd138bc%2Fimg_3_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-373f4962eef3f19c50bf7b05a5018b8f.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F637%2Fbac%2Fc2818bb797e87604086bd138bc%2Fimg_3_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Faff%2F07a%2Fac182a3b061c307604140dbc83%2Fimg_4_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-4" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Faff%2F07a%2Fac182a3b061c307604140dbc83%2Fimg_4_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-548ef4f8ad5e67cef599d9c4f2bf5dab.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Faff%2F07a%2Fac182a3b061c307604140dbc83%2Fimg_4_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb1c%2F61c%2F5e51134dc2bc70d2ab6e344386%2Fimg_5_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-5" data-src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb1c%2F61c%2F5e51134dc2bc70d2ab6e344386%2Fimg_5_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-07c9bcabfc431d0ced42a6c81bf7ed4c.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb1c%2F61c%2F5e51134dc2bc70d2ab6e344386%2Fimg_5_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fc73%2Fc4e%2F914803f60fdf0a5fa86523f909%2Fimg_6_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-6" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fc73%2Fc4e%2F914803f60fdf0a5fa86523f909%2Fimg_6_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-46e43ed07dd56f5c5cdf63cc5cc1ccbc.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fc73%2Fc4e%2F914803f60fdf0a5fa86523f909%2Fimg_6_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fecc%2F7b1%2F42a479451ae8aacea22a654242%2Fimg_7_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-7" data-src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fecc%2F7b1%2F42a479451ae8aacea22a654242%2Fimg_7_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-7aa7c56eea047faa0b3d4928554326c8.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fecc%2F7b1%2F42a479451ae8aacea22a654242%2Fimg_7_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F4de%2F8b8%2Fa8e82e6109fb0d33511ab2dba7%2Fimg_8_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-8" data-src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F4de%2F8b8%2Fa8e82e6109fb0d33511ab2dba7%2Fimg_8_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-e7460ad7f229d1b089ade809562db744.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F4de%2F8b8%2Fa8e82e6109fb0d33511ab2dba7%2Fimg_8_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F037%2F081%2F31f221e0fd0090f4d6d6e4a5fa%2Fimg_9_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-9" data-src="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F037%2F081%2F31f221e0fd0090f4d6d6e4a5fa%2Fimg_9_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-6cda5d5d1ddc2d0b7fb7afd8831a7ce5.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media2.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F037%2F081%2F31f221e0fd0090f4d6d6e4a5fa%2Fimg_9_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div><div><a data-copyright="&amp;copy; Motorlegend" data-description="" data-full="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fe8a%2F599%2F4329ccbadea06a2f8942804c0c%2Fimg_10_21464_600.jpg?facedetect=1&amp;quality=85" data-id="reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-10" data-src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fe8a%2F599%2F4329ccbadea06a2f8942804c0c%2Fimg_10_21464_600.jpg?format=822x700&amp;quality=85" data-title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-type="image" data-u="image" href="//auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs/photos/reprise-des-programmes-f1-clienti-et-ferrari-xx-credit-photo-ferrari-0aeb901f9253adee44731f6ba3b6ec50.html"><img alt="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari" data-src2="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fe8a%2F599%2F4329ccbadea06a2f8942804c0c%2Fimg_10_21464_600.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Reprise des programmes F1 Clienti et Ferrari XX  - Crédit photo : Ferrari"/></a></div></div></div><a class="diapo-chevron prev nav o_r_fleche_gauche" href="" id="MiniSlidePrev"><span class="icon-arrow-left"></span></a><a class="diapo-chevron next nav o_r_fleche_droite" href="" id="MiniSlideNext"><span class="icon-arrow-right"></span></a></div><div class="image" id="ImageContainer"><div id="Loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><div class="module" id="MainImage"><img alt="Reprise des programmes F1 Clienti et Ferrari XX" itemprop="contentUrl" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Fimg_pano_21464_600.jpg?format=822x700&amp;quality=85" title="Reprise des programmes F1 Clienti et Ferrari XX"/></div><div class="o_r_url_diapo" id="SlideNav"><a class="slide-prev hidden nav o_r_fleche_gauche" href="" id="SlideNavLeft"><div class="diapo-chevron prev" id="SlidePrev"><span class="icon-arrow-left"></span></div></a><a class="slide-next hidden nav o_r_fleche_droite" href="" id="SlideNavRight"><div class="diapo-chevron next" id="SlideNext"><span class="icon-arrow-right"></span></div></a></div></div><div id="DescContainer"><div class="module" id="DescTitle" itemprop="name">Reprise des programmes F1 Clienti et Ferrari XX</div><div id="DescContent" itemprop="description"></div><div id="DescIndex"><span id="currentIndex">1</span>/11</div><div id="DescCopyright" itemprop="copyrightHolder">
+                 © Motorlegend
+            </div></div></div></div><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+    Polaris.channelName = "Actualités";
+    Polaris.diaporamaTitle = 'Reprise des programmes F1 Clienti et Ferrari XX'
+    Polaris.diaporamaTotal = 11;
+    Polaris.diaporamaStartIndex = 0;
+    Polaris.diaporamaStartId = "reprise-des-programmes-f1-clienti-et-ferrari-xx-0";
+    Polaris.dynamicLoading = true;
+</script><article id="CNT000001rR0zs" itemscope="" itemtype="http://schema.org/Article"><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><meta content="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F33d%2F76c%2Ff529b73199b87eb92bf03170f3%2Fimg_pano_21464_600.jpg?format=822x700&amp;quality=85" itemprop="url"/></span></div><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt="Ferrari Omologata : unique" src="//media1.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2Fb53%2F464%2F604f2c7101020ef1f8c2c6aec4%2Fferrari-omologata-unique%7Cimg_pano_21771_600.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/news/ferrari-omologata-unique-CNT000001tA86M.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'Ferrari Omologata : unique' });} else { javascript:void(0); }">
+                Ferrari Omologata : unique
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">News</div><div class="element-title"><a href="https://auto.orange.fr/news/porsche-concoit-une-carrosserie-en-materiau-composite-a-base-de-fibres-naturelles-CNT000001tA0o6.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'Porsche conçoit une carrosserie en matériau composite à base de fibres naturelles' });} else { javascript:void(0); }">
+                Porsche conçoit une carrosserie en matériau composite à base de fibres naturelles
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1478);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2020-07-23" itemprop="datePublished"/><meta content="2020-07-23" itemprop="dateModified"/><meta content="https://auto.orange.fr/news/reprise-des-programmes-f1-clienti-et-ferrari-xx-CNT000001rR0zs.html" itemprop="mainEntityOfPage"/><meta content=" Le circuit espagnol de Montmelo, près de Barcelone, a accueilli deux journées d'essais privés organisés..." itemprop="headline"/><div itemprop="articleBody"><!-- Date --><p class="date">
+                                            publié le <strong>23 juillet</strong></p><!-- Fin Date --><!-- TEXTE --><p>Le circuit espagnol de Montmelo, près de Barcelone, a accueilli deux journées d'essais privés organisés par le constructeur au cheval cabré à l'intention des participants de ses programmes F1 Clienti et Ferrari XX.</p><p>Ces essais de début de saison ont réuni en piste quatre monoplaces de Formule 1 et onze châssis faisant partie du programme Ferrari XX, pour le plus grand plaisir de leurs propriétaires qui ne les avaient plus pilotés depuis plusieurs mois.</p><p>Les monoplaces de F1 comprenaient une F138 pilotée par Fernando Alonso lors de la saison 2013, la Ferrari 248 F1 de 2006, la F2007 du Finlandais Kimi Raikkonen ainsi la Ferrari F2008 de Felipe Massa. Elles se sont relayées sur le circuit de 4 665 mètres, qui accueillera le cinquième Grand Prix de F1 de la saison 2020 du 14 au 16 août prochains.</p><p>Le plateau Ferrari XX était quant à lui composé de châssis FXX-K Evo, FXX Evo et 599XX Evo. Animée par un bloc V12 6.0 positionné sous son capot avant, la dernière nommée est sans doute la plus extrême de toutes. Il s'agit d'une version optimisée de la 599XX qui offre 25 ch supplémentaires (elle dispose de 750 ch) et un couple de 700 Nm, tout en affichant un poids réduit de 35 kg par rapport à la 599XX. L'une de ses particularités réside également dans son aileron arrière actif contrôlé électroniquement (sans intervention du pilote), qui lui confère également un maximum d'appuis en courbes.</p><p>Les programmes F1 Clienti et Ferrari XX retourneront en piste du 28 au 30 août prochains sur le circuit du Mugello cette fois, en Italie, à l'occasion des Ferrari Racing Days.</p><p>Crédit photo : Ferrari</p></div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+    $(document).ready(function () {
+        if ($('.news-top-article').length && $('.sticky-block-column').length) {
+            //to set banner "a lire aussi" position at the top if "news-top-article" is present
+            $('.article-corps').addClass('news-top-check');
+            $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+        }
+    });
+</script><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1478
+                    },
+                    "magicRequest": {
+                        "hostname" : "//auto.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'auto', 14, 4, 'CNT000001rR0zs');
+    });
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1478 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200723'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_1_300x250_auto.actu" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_1_300x250_auto.actu" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Auto Plus" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2Fb79%2F1ce%2F8576dde0c3c7e5806e805e1fee%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Auto Plus</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/auto-plus/2020-09-25" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div><div class="recette upsell upsell-auto tuile-tendance blocHref o_r_url_upsell_Electrique" data-oevent-action="Un vélo électrique à roues orbitales" data-oevent-category="Electrique_recircul_topic" data-oevent-label="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html"><h3>Electrique</h3><a href="https://auto.orange.fr/electrique/velos-trottinettes/un-velo-electrique-a-roues-orbitales-CNT000001tA86V.html" title="Array"><img alt="" src="//media3.woopic.com/api/v1/images/473%2Fmotorlegend-articles%2F9ad%2Fb7e%2F11f2bc948215ae9675ee6bd4a4%2Fun-velo-electrique-a-roues-orbitales%7Cimg_pano_21772_600.jpg?format=300x300&amp;facedetect=1&amp;quality=85"/></a><p>Un vélo électrique à roues orbitales</p></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-auto',
+                            uid: 'CNT000001rR0zs',
+                            publication_date: '2020-07-23 09:52:10',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_2_300x250_auto.actu" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_2_300x250_auto.actu" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="http://r.orange.fr/r/Oauto_twitter_orange" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_auto.actu"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_auto.actu/ora_2_728x90_auto.actu" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_auto.actu/ora_2_728x90_auto.actu" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//auto.orange.fr/js/min/article.footer.aeb7829b77f638d16f91dce7a095782c50b0f50b.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

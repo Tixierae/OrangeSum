@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="7d176aade852719f3cb5c505e3f056e6" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-07-03 13:09:13" name="orange-generated-date"/><meta content="1593774553" name="orange-generated-timestamp"/><meta content="m0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>La soeur de Jeanfi Janssens sur Orange Vidéos</title><meta content='Jeanfi Janssens nous raconte une anecdote sur sa soeur, routière. 
+
+Découvrez la page Facebook Officielle des "Grosses Têtes" : https://www.facebook.com/lesgrossestetesrtl/
+Retrouvez vos "Grosses Têtes" sur Instagram : https://bit.ly/2hSBiAo
+Découvrez le compte Twitter Officiel des "Grosses Têtes" : https://bit.ly/2PXSkkz
+Toutes les vidéos des "Grosses Têtes" sont sur YouTube : https://bit.ly/2DdUyGg' name="description"/><meta content="culture,humour,video,actu,replay,divertissement,laurent-baffie,michele-bernier,laurent-ruquier,les-grosses-tetes,eric-laugerias,isabelle-mergault,jeanfi-janssens,caroline-diament" name="keywords"/><meta content="100001472813666" property="fb:admins"/><meta content="1 day" property="revisit_after"/><meta content="302867969796322" property="fb:app_id"/><meta content="Vidéo" property="application-name"/><meta content="Vidéo" property="application-tooltip"/><meta content="//video-streaming.orange.fr" property="application-starturl"/><meta content="width=1024;height=800" property="msapplication-window"/><meta content="Orange vidéos" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="La soeur de Jeanfi Janssens" property="name"/><meta content="RTL" property="author"/><meta content="RTL" property="publisher"/><meta content="2020-07-02T18:16:34+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media1.woopic.com/api/v1/images/1066%2Fmulti%2F3uvmu%2Fla-soeur-de-jeanfi-janssens%7Cf8uslx-H.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="video.other" property="og:type"/><meta content="2020-07-02T18:06:24+02:00" property="video:release_date"/><meta content="99" property="video:duration"/><meta content="culture" property="video:tag"/><meta content="humour" property="video:tag"/><meta content="video" property="video:tag"/><meta content="actu" property="video:tag"/><meta content="replay" property="video:tag"/><meta content="divertissement" property="video:tag"/><meta content="laurent-baffie" property="video:tag"/><meta content="michele-bernier" property="video:tag"/><meta content="laurent-ruquier" property="video:tag"/><meta content="les-grosses-tetes" property="video:tag"/><meta content="eric-laugerias" property="video:tag"/><meta content="isabelle-mergault" property="video:tag"/><meta content="jeanfi-janssens" property="video:tag"/><meta content="caroline-diament" property="video:tag"/><meta content="http://media1.woopic.com/api/v1/images/1066%2Fmulti%2F3uvmu%2Fla-soeur-de-jeanfi-janssens%7Cf8uslx-H.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="La soeur de Jeanfi Janssens" property="og:title"/><meta content='Jeanfi Janssens nous raconte une anecdote sur sa soeur, routière. 
+
+Découvrez la page Facebook Officielle des "Grosses Têtes" : https://www.facebook.com/lesgrossestetesrtl/
+Retrouvez vos "Grosses Têtes" sur Instagram : https://bit.ly/2hSBiAo
+Découvrez le compte Twitter Officiel des "Grosses Têtes" : https://bit.ly/2PXSkkz
+Toutes les vidéos des "Grosses Têtes" sont sur YouTube : https://bit.ly/2DdUyGg' property="og:description"/><meta content="https://video-streaming.orange.fr/comedie-humour/la-soeur-de-jeanfi-janssens-CNT000001riYeM.html" property="og:url"/><link href="https://video-streaming.orange.fr/comedie-humour/la-soeur-de-jeanfi-janssens-CNT000001riYeM.html" rel="canonical"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=videostream_I1;d=1593774584;s=790c933853abf4949f48ff97f7d0f4f4797428a69e044ddf738a29d412c7c156/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "videoplayer"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "vidéos",
+        domainUrl : '//video-streaming.orange.fr',
+                domainRef : "video",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans vidéos",
+            queryAdditionalParams : "module=chaine&bhv=videos&ap=-1",
+            cmplBlocks : [{ baseId : '-3' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "video-streaming",
+            "univers_affichage": "humour",
+            "sous_univers" : "",
+            "source_contenu" : "",
+            "titre_page": document.title, // document title
+            "type_page": "video",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//video-streaming.orange.fr/css/min/player.header.17471c7e551dde1ea05eed7b7338417537545c74.css" rel="stylesheet"/><script src="//video-streaming.orange.fr/js/min/player.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_videos.catalogue?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="//video-streaming.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_actu"><a href="//video-streaming.orange.fr/actu-politique/videos-les-plus-recentes.html" title="Actu">
+                                Actu
+                            </a></li><li class=" o_r_sport"><a href="//video-streaming.orange.fr/sports-extreme/videos-les-plus-recentes.html" title="Sport">
+                                Sport
+                            </a></li><li class=" mv3-active o_r_humour"><a href="//video-streaming.orange.fr/comedie-humour/videos-les-plus-recentes.html" title="Humour">
+                                Humour
+                            </a></li><li class=" o_r_femmes"><a href="//video-streaming.orange.fr/femmes/videos-les-plus-recentes.html" title="Femmes">
+                                Femmes
+                            </a></li><li class=" o_r_Jeunesse"><a href="//video-streaming.orange.fr/jeunesse/videos-les-plus-recentes.html" title="Jeunesse">
+                                Jeunesse
+                            </a></li><li class=" o_r_people"><a href="//video-streaming.orange.fr/people/videos-les-plus-recentes.html" title="People">
+                                People
+                            </a></li><li class=" o_r_tv"><a href="//video-streaming.orange.fr/tv/videos-les-plus-recentes.html" title="TV">
+                                TV
+                            </a></li><li class=" o_r_jeux"><a href="//video-streaming.orange.fr/jeux-video/videos-les-plus-recentes.html" title="Jeux">
+                                Jeux
+                            </a></li><li class=" o_r_cinema"><a href="//video-streaming.orange.fr/cinema/videos-les-plus-recentes.html" title="Cinéma">
+                                Cinéma
+                            </a></li><li class=" o_r_voyages"><a href="//video-streaming.orange.fr/voyages/videos-les-plus-recentes.html" title="Voyages">
+                                Voyages
+                            </a></li><li class=" o_r_musique"><a href="//video-streaming.orange.fr/musique/videos-les-plus-recentes.html" title="Musique">
+                                Musique
+                            </a></li><li class=" o_r_animaux"><a href="//video-streaming.orange.fr/animaux/videos-les-plus-recentes.html" title="Animaux">
+                                Animaux
+                            </a></li><li class=" o_r_art"><a href="//video-streaming.orange.fr/culture-art-creation/videos-les-plus-recentes.html" title="Art">
+                                Art
+                            </a></li><li class=" o_r_auto"><a href="//video-streaming.orange.fr/auto-moto/videos-les-plus-recentes.html" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_high-tech"><a href="//video-streaming.orange.fr/high-tech-science/videos-les-plus-recentes.html" title="High-tech">
+                                High-tech
+                            </a></li><li class=" o_r_autres"><a href="//video-streaming.orange.fr/autres/videos-les-plus-recentes.html" title="Autres">
+                                Autres
+                            </a></li><li class=" o_r_espace-de-confiance"><a href="//video-streaming.orange.fr/espace-confiance/videos-les-plus-recentes.html" title="Espace de confiance">
+                                Espace de confiance
+                            </a></li></ul></li></ul></div></header><div class="clear"></div>
+<div class="container-main"><div class="main-container container-top fil-ariane"><a href="//video-streaming.orange.fr/comedie-humour/videos-les-plus-vues.html" title="retour en arrière"><span class="icon-arrow-left"></span>toutes les vidéos humour</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><div class="player-head" id="CNT000001riYeM" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject"><a name="plmAnchor"></a><link href="https://video-streaming.orange.fr/comedie-humour/la-soeur-de-jeanfi-janssens-CNT000001riYeM.html" itemprop="url"/><link href="//media1.woopic.com/api/v1/images/1066%2Fmulti%2F3uvmu%2Fla-soeur-de-jeanfi-janssens%7Cf8uslx-H.jpg?facedetect=1&amp;quality=85" itemprop="thumbnailUrl"/><meta content="Flash" itemprop="playerType"/><meta content="PT00H01M39S" itemprop="duration"/><meta content="2020-07-02" itemprop="datePublished"/><meta content="2020-07-02T18:06:24+02:00" itemprop="uploadDate"/><div class="header"><h1 class="page-title" itemprop="name"><span id="videoTitle">La soeur de Jeanfi Janssens</span></h1><p class="meta"><span class="meta">par <span id="videoUploader">RTL</span></span><span class="digiteka" id="videoType"></span></p><ul class="command"><li id="infoButton"><div class="container-command"><span>info</span><div class="icon-down"></div></div></li></ul></div><div class="container"><div class="infoContainer" itemprop="description" style="display:none"><p>
+                                    Jeanfi Janssens nous raconte une anecdote sur sa soeur, routière. 
+
+Découvrez la page Facebook Officielle des "Grosses Têtes" : https://www.facebook.com/lesgrossestetesrtl/
+Retrouvez vos "Grosses Têtes" sur Instagram : https://bit.ly/2hSBiAo
+Découvrez le compte Twitter Officiel des "Grosses Têtes" : https://bit.ly/2PXSkkz
+Toutes les vidéos des "Grosses Têtes" sont sur YouTube : https://bit.ly/2DdUyGg
+                            </p></div><div class="content"><div id="countdownContainer"><div class="hidden" id="countdown">Vidéo suivante dans 5 secondes</div></div><div class="digiteka" id="pvpContainer"></div></div></div></div><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+
+    $(document).ready(function(){
+        Polaris.pvp = new Pvp(
+                'digiteka',
+                {
+                    'id': 'CNT000001riYeM',
+                    'idDigiteka': 'f8uslx',
+                    'topic': 'generic',
+                    'categoryDigiteka' : "",
+                    'category': 'humour',
+                    'mediaType': 'digiteka-public'
+                },
+                {
+                    'sequenceUrl': "//pms.orange.fr/module/pm/673/videoInfo/docUId/CNT000001riYeM",
+                    'wmode': 'transparent',
+                    'csqoe': true,
+                    'libraryHost': '//c.woopic.com/Pvp/'                });
+
+        
+    });
+</script><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+
+    $(document).ready(function(){
+        Polaris.channelName = 'vidéos';
+        Polaris.itemId = 'CNT000001riYeM';
+        Polaris.MPConfig = 0;
+                Polaris.reactUrl = '/media/plm/react/%refId%';
+        Polaris.reactCountUrl = '/media/plm/reactCount/%refId%';
+                            Polaris.pid = 'SIl2WFC2AZWzJ7qSByljitF90Oyhq%2FuTApzSaqWevuWlcOiIs4B%2BBNo6BrMN2gh7og1Pal4k2xE%3D';
+            });
+</script><div class="player-corps"><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 838 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><div class="container-6 conteneur-switch"><h2>
+                                    vidéos similaires
+                            </h2><div class="right switch-lecture"><span>lecture auto</span><a class="switch left active o_r_nav_lectureauto" href=""><span class="switch-on">OUI</span><span class="switch-off">NON</span><div class="switch-bt transition_2"></div></a></div><div class="clearfix"></div><div class="jssor-carousel polaris" id="carousel-videos-similaires"><div class="slides o_r_url_similaire" data-u="slides"><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="La soeur de Jeanfi Janssens" src="//media2.woopic.com/api/v1/images/165%2Fv%2FSJurJ1U_Y88axt-qN%2Fla-soeur-de-jeanfi-janssens%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:39</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001rjczj" data-src="/media/plm/video/CNT000001rjczj/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/la-soeur-de-jeanfi-janssens-CNT000001rjczj.html" title="La soeur de Jeanfi Janssens">
+                    La soeur de Jeanfi Janssens
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente Les Grosses Têtes du Lundi 23 mars 2020" src="//media1.woopic.com/api/v1/images/165%2Fv%2FS7lEz1UUDgTckfZjN%2Flaurent-ruquier-presente-les-grosses-tetes-du-lundi-23-mars-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:31</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001oMqf3" data-src="/media/plm/video/CNT000001oMqf3/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-lundi-23-mars-2020-CNT000001oMqf3.html" title="Laurent Ruquier présente Les Grosses Têtes du Lundi 23 mars 2020">
+                    Laurent Ruquier présente Les Grosses Têtes du Lundi 23 mars 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Les Grosses Têtes et les perroquets" src="//media1.woopic.com/api/v1/images/165%2Fv%2FS88Ao1UVG6mrF4QcI%2Fles-grosses-tetes-et-les-perroquets%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">04:25</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001oRKDh" data-src="/media/plm/video/CNT000001oRKDh/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/les-grosses-tetes-et-les-perroquets-CNT000001oRKDh.html" title="Les Grosses Têtes et les perroquets">
+                    Les Grosses Têtes et les perroquets
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Mardi 14 Avril 2020" src="//media2.woopic.com/api/v1/images/156%2Fv%2FSAMWX1UbTKtzh05OY%2Flaurent-ruquier-presente-les-grosses-tetes-du-mardi-14-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:33</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pl7E6" data-src="/media/plm/video/CNT000001pl7E6/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-mardi-14-avril-2020-CNT000001pl7E6.html" title="Laurent Ruquier présente les Grosses Têtes du Mardi 14 Avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Mardi 14 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Lundi 20 Avril 2020" src="//media3.woopic.com/api/v1/images/156%2Fv%2FSB4QW1UdRYKMfQu9D%2Flaurent-ruquier-presente-les-grosses-tetes-du-lundi-20-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:40</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pwT9w" data-src="/media/plm/video/CNT000001pwT9w/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-lundi-20-avril-2020-CNT000001pwT9w.html" title="Laurent Ruquier présente les Grosses Têtes du Lundi 20 Avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Lundi 20 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Mardi 21 Avril 2020" src="//media2.woopic.com/api/v1/images/165%2Fv%2FSBC5I1UdmgRIOG7SI%2Flaurent-ruquier-presente-les-grosses-tetes-du-mardi-21-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:21</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pzrOa" data-src="/media/plm/video/CNT000001pzrOa/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-mardi-21-avril-2020-CNT000001pzrOa.html" title="Laurent Ruquier présente les Grosses Têtes du Mardi 21 Avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Mardi 21 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente Les Grosses Têtes du Jeudi 9 avril 2020" src="//media3.woopic.com/api/v1/images/165%2Fv%2FS9ixj1UZphFfZcRbx%2Flaurent-ruquier-presente-les-grosses-tetes-du-jeudi-9-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:26</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pdQ42" data-src="/media/plm/video/CNT000001pdQ42/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-jeudi-9-avril-2020-CNT000001pdQ42.html" title="Laurent Ruquier présente Les Grosses Têtes du Jeudi 9 avril 2020">
+                    Laurent Ruquier présente Les Grosses Têtes du Jeudi 9 avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Mardi 28 Avril 2020" src="//media1.woopic.com/api/v1/images/156%2Fv%2FSC9i41Ug4wDQ4kuiB%2Flaurent-ruquier-presente-les-grosses-tetes-du-mardi-28-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:34</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pM4Mu" data-src="/media/plm/video/CNT000001pM4Mu/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-mardi-28-avril-2020-CNT000001pM4Mu.html" title="Laurent Ruquier présente les Grosses Têtes du Mardi 28 Avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Mardi 28 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquie présente les Grosses Têtes du 16 Avril 2020" src="//media1.woopic.com/api/v1/images/165%2Fv%2FSAcJW1Uc7DUGYRnYj%2Flaurent-ruquie-presente-les-grosses-tetes-du-16-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:17</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pp0I3" data-src="/media/plm/video/CNT000001pp0I3/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquie-presente-les-grosses-tetes-du-16-avril-2020-CNT000001pp0I3.html" title="Laurent Ruquie présente les Grosses Têtes du 16 Avril 2020">
+                    Laurent Ruquie présente les Grosses Têtes du 16 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Vendredi 3 avril 2020" src="//media1.woopic.com/api/v1/images/156%2Fv%2FS92v_1UXqyCFfyxMe%2Flaurent-ruquier-presente-les-grosses-tetes-du-vendredi-3-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:36</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001p5f4I" data-src="/media/plm/video/CNT000001p5f4I/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-vendredi-3-avril-2020-CNT000001p5f4I.html" title="Laurent Ruquier présente les Grosses Têtes du Vendredi 3 avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Vendredi 3 avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Mercredi 15 Avril 2020" src="//media3.woopic.com/api/v1/images/156%2Fv%2FSAUiK1UboCaeZM_-R%2Flaurent-ruquier-presente-les-grosses-tetes-du-mercredi-15-avril-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:35</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001pn2tx" data-src="/media/plm/video/CNT000001pn2tx/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-mercredi-15-avril-2020-CNT000001pn2tx.html" title="Laurent Ruquier présente les Grosses Têtes du Mercredi 15 Avril 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Mercredi 15 Avril 2020
+                </a></div></div></div></div><div class="three type10 tile blocHref "><div class="container"><div class="image height66"><img alt="Laurent Ruquier présente les Grosses Têtes du Lundi 25 Mai 2020" src="//media1.woopic.com/api/v1/images/165%2Fv%2FSFZat1UpGMMNTSd8i%2Flaurent-ruquier-presente-les-grosses-tetes-du-lundi-25-mai-2020%7Cx240?format=300x175&amp;facedetect=1&amp;quality=85"/><div class="meta"><div class="time">01:44</div></div></div><div class="info"><div class="content"><a class="name" data-id="CNT000001qpBWx" data-src="/media/plm/video/CNT000001qpBWx/" data-type="video" href="https://video-streaming.orange.fr/comedie-humour/laurent-ruquier-presente-les-grosses-tetes-du-lundi-25-mai-2020-CNT000001qpBWx.html" title="Laurent Ruquier présente les Grosses Têtes du Lundi 25 Mai 2020">
+                    Laurent Ruquier présente les Grosses Têtes du Lundi 25 Mai 2020
+                </a></div></div></div></div></div><a class="arrow left o_r_nav_similaire_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_similaire_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div><script>$(document).ready(function(){var e=$(".container-6.conteneur-switch");$.carousel($("#carousel-videos-similaires"),{container:e,spacing:1,width:e.width()})})</script>
+</div></div><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.video.smartfeed" widget-id="AR_5"></div></div></section></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_videos.catalogue"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_videos.catalogue/ora_1_300x250_videos.catalogue" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_videos.catalogue/ora_1_300x250_videos.catalogue" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="title1 top">
+                                Les commentaires sont désactivés pour cette page.
+                            </p></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_videos.catalogue"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_videos.catalogue/ora_2_300x250_videos.catalogue" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_videos.catalogue/ora_2_300x250_videos.catalogue" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.video.lienscommerciaux" widget-id="AR_15"></div></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_videos.catalogue"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_videos.catalogue/ora_2_728x90_videos.catalogue" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_videos.catalogue/ora_2_728x90_videos.catalogue" width="728"/></a></noscript></div></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//video-streaming.orange.fr/js/min/player.footer.5ce50c63e673f70645d5803d2b93bf126e91138f.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script></body></html>

@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="fr" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="37a35bd519baad70528272dff014e553" property="orange: sonde"/><meta content="index, follow" name="robots"/><meta content="5D5336A72635F62FA6B1B79A7B3507B2" name="msvalidate.01"/><meta content="2020-09-27 19:24:23" name="orange-generated-date"/><meta content="1601227463" name="orange-generated-timestamp"/><meta content="m0" name="orange-hbx-dc"/><link href="/apple-touch-icon.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png?v=bOReJRKMXp" rel="icon" sizes="32x32" type="image/png"/><link href="/favicon-16x16.png?v=bOReJRKMXp" rel="icon" sizes="16x16" type="image/png"/><link href="/site.webmanifest?v=bOReJRKMXp" rel="manifest"/><link color="#ff7900" href="/safari-pinned-tab.svg?v=bOReJRKMXp" rel="mask-icon"/><link href="/favicon.ico?v=bOReJRKMXp" rel="shortcut icon"/><meta content="#000000" name="msapplication-TileColor"/><meta content="#ffffff" name="theme-color"/><title>Facebook et Twitter sanctionnent une vidéo de Trump jugée mensongère sur la pandémie</title><meta content="Facebook et Twitter, étrillés à droite comme à gauche pour leurs politiques de modération des contenus, ont durci le ton avec Donald Trump mercredi: les deux réseaux sociaux ont supprimé ou fait retirer une vidéo qui enfreignait leurs règles sur la désinformation autour de la pandémie de Covid-19." name="description"/><meta content="100001472813666" property="fb:admins"/><meta content="227362824389057" property="fb:pages"/><meta content="Orange Actualités" property="og:site_name"/><meta content="fr_FR" property="og:locale"/><meta content="@Oactu_tworangenews" property="twitter:site"/><meta content="Facebook et Twitter sanctionnent une vidéo de Trump jugée mensongère sur la pandémie" property="name"/><meta content="AFP" property="author"/><meta content="AFP" property="publisher"/><meta content="2020-08-06T12:32:01+02:00" property="dateModified"/><meta content="summary_large_image" property="twitter:card"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2Ffacebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie%7C000_1W96T5-highDef.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="twitter:image:src"/><meta content="article" property="og:type"/><meta content="2020-08-06T08:46:13+02:00" property="article:published_time"/><meta content="2020-08-06T08:46:13+02:00" property="article:modified_time"/><meta content="Media" property="article:section"/><meta content="USA" property="article:tag"/><meta content="internet" property="article:tag"/><meta content="pandémie" property="article:tag"/><meta content="santé" property="article:tag"/><meta content="élections" property="article:tag"/><meta content="politique" property="article:tag"/><meta content="Julie JAMMOT" property="article:author"/><meta content="http://media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2Ffacebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie%7C000_1W96T5-highDef.jpg?format=470x264&amp;facedetect=1&amp;quality=85" property="og:image"/><meta content="Facebook et Twitter sanctionnent une vidéo de Trump jugée mensongère sur la pandémie" property="og:title"/><meta content="Facebook et Twitter, étrillés à droite comme à gauche pour leurs politiques de modération des contenus, ont durci le ton avec Donald Trump mercredi: les deux réseaux sociaux ont supprimé ou fait retirer une vidéo qui enfreignait leurs règles sur la désinformation autour de la pandémie de Covid-19." property="og:description"/><meta content="https://actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum.html" property="og:url"/><meta content="https://www.facebook.com/orangeactufr" property="og:author"/><link href="https://actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum.html" rel="canonical"/><link href="https://actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum.amp" rel="amphtml"/><link href="//c.woopic.com/pseudo/css/mediation.css?43" rel="stylesheet"/><link href="//c.woopic.com/react/css/react.css?43" rel="stylesheet"/><link href="//pseudo.woopic.com/css/spup.css" rel="stylesheet"/><script src="//iz4.orange.fr/$v=2;i=actu_I1;d=1601227494;s=4e1c55da4253bb8a9b19e9ed37988ead396475ed0a1f81595d11f7644a59edc6/idzone.js" type="text/javascript"></script><script>var sUrlReferrer = "actusocieteart"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "actu",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Actualités",
+            queryAdditionalParams : "module=chaine&bhv=actu&ap=-1",
+            cmplBlocks : [{ baseId : '-actu' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "actu",
+            "univers_affichage": "societe",
+            "sous_univers" : "media",
+            "source_contenu" : "AFP",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link href="//actu.orange.fr/css/min/article.header.23e6981c4bcfdd28c860e3a7145441dde5998348.css" rel="stylesheet"/><script src="//actu.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_actu.societe?sKW=&amp;sCT="></script></head><body class="device-desktop"><div class="polaris" id="omContent">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/661%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/661%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu" id="menu-v3-second-level"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark"><li class="fixed-width"><ul><li class=" mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                    Société
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" o_r_sante"><a href="//actu.orange.fr/societe/sante/" title="Santé">
+                                Santé
+                            </a></li><li class=" o_r_environnement"><a href="//actu.orange.fr/societe/environnement/" title="Environnement">
+                                Environnement
+                            </a></li><li class=" o_r_fait-divers"><a href="//actu.orange.fr/societe/fait-divers/" title="Fait divers">
+                                Fait divers
+                            </a></li><li class=" o_r_people"><a href="//actu.orange.fr/societe/people/" title="People">
+                                People
+                            </a></li><li class=" o_r_culture"><a href="//actu.orange.fr/societe/culture/" title="Culture">
+                                Culture
+                            </a></li><li class=" mv3-active o_r_media"><a href="//actu.orange.fr/societe/media/" title="Média">
+                                Média
+                            </a></li><li class=" o_r_high-tech"><a href="//actu.orange.fr/societe/high-tech/" title="High-tech">
+                                High-tech
+                            </a></li><li class=" o_r_insolite"><a href="//actu.orange.fr/societe/insolite/" title="Insolite">
+                                Insolite
+                            </a></li><li class=" o_r_videos"><a href="//actu.orange.fr/societe/videos/" title="Vidéos">
+                                Vidéos
+                            </a></li></ul></li></ul></div></header><header class="menu-v3-init o_r_url_menu" id="menu-v3-second-level-init"><div class="mv3-container-main mv3-loader-dark"><ul class="mv3-second-level"><li class="menu-item-1 mv3-active o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                            Société
+                        </a></li><li class="menu-item-2 o_r_sante"><a href="//actu.orange.fr/societe/sante/" title="Santé">
+                            Santé
+                        </a></li><li class="menu-item-2 o_r_environnement"><a href="//actu.orange.fr/societe/environnement/" title="Environnement">
+                            Environnement
+                        </a></li><li class="menu-item-2 o_r_fait-divers"><a href="//actu.orange.fr/societe/fait-divers/" title="Fait divers">
+                            Fait divers
+                        </a></li><li class="menu-item-2 o_r_people"><a href="//actu.orange.fr/societe/people/" title="People">
+                            People
+                        </a></li><li class="menu-item-2 o_r_culture"><a href="//actu.orange.fr/societe/culture/" title="Culture">
+                            Culture
+                        </a></li><li class="menu-item-2 mv3-active o_r_media"><a href="//actu.orange.fr/societe/media/" title="Média">
+                            Média
+                        </a></li><li class="menu-item-2 o_r_high-tech"><a href="//actu.orange.fr/societe/high-tech/" title="High-tech">
+                            High-tech
+                        </a></li><li class="menu-item-2 o_r_insolite"><a href="//actu.orange.fr/societe/insolite/" title="Insolite">
+                            Insolite
+                        </a></li><li class="menu-item-2 o_r_videos"><a href="//actu.orange.fr/societe/videos/" title="Vidéos">
+                            Vidéos
+                        </a></li></ul></div></header>
+<div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div class="jssor-carousel polaris strip bkg-dark" id="carousel-news-top-article"><div class="slides o_r_url_bandeau" data-u="slides"><div class="three type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent" id="oan_ora_1_1x1_chaine.article.bandeaunews" widget-id="AR_14"><div class="image "><img alt="Télévision : Michel Drucker opéré du coeur" src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fc1c%2Fb31%2F9c30e75582efc85841db217c1b%2Ftelevision-michel-drucker-opere-du-coeur%7Cc1cb319c30e75582efc85841db217c1b.png?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/television-michel-drucker-opere-du-coeur-magic-CNT000001tDhSN.html" title="Télévision : Michel Drucker opéré du coeur">
+                            Télévision : Michel Drucker opéré du coeur
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"><div class="image "><img alt="Opéré du coeur, Michel Drucker contraint de reporter sa rentrée " src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F85f%2F0a5%2Fb08dd6e9655b7285051db6a20c%2Fopere-du-coeur-michel-drucker-contraint-de-reporter-sa-rentree%7C000_1SU4WM-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/opere-du-coeur-michel-drucker-contraint-de-reporter-sa-rentree-CNT000001tDheZ.html" title="Opéré du coeur, Michel Drucker contraint de reporter sa rentrée ">
+                            Opéré du coeur, Michel Drucker contraint de reporter sa rentrée 
+                        </a></div><div class="date">
+                                27 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"><div class="image "><img alt="Des sénateurs américains appellent Netflix à ne pas adapter un auteur chinois" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F3b0%2F4cc%2Feb426c24f3ab2c00d1b8edf268%2Fdes-senateurs-americains-appellent-netflix-a-ne-pas-adapter-un-auteur-chinois%7C000_1QB1JO-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/des-senateurs-americains-appellent-netflix-a-ne-pas-adapter-un-auteur-chinois-CNT000001tBo7b.html" title="Des sénateurs américains appellent Netflix à ne pas adapter un auteur chinois">
+                            Des sénateurs américains appellent Netflix à ne pas adapter un ...
+                        </a></div><div class="date">
+                                26 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"><div class="image "><img alt="Salvador: menacé par la justice, le président Bukele s'attaque à la presse" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2Fc7b%2F3b9%2F052603bdd3aa22223ef8346332%2Fsalvador-menace-par-la-justice-le-president-bukele-s-attaque-a-la-presse%7C000_8QN882-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/salvador-menace-par-la-justice-le-president-bukele-s-attaque-a-la-presse-CNT000001tBsU2.html" title="Salvador: menacé par la justice, le président Bukele s'attaque à la presse">
+                            Salvador: menacé par la justice, le président Bukele s'attaque à la ...
+                        </a></div><div class="date">
+                                26 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"><div class="image "><img alt="Zemmour condamné à 10.000 euros d'amende pour injure et provocation à la haine" src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Fea4%2Fb39%2F1e5b9f666f92582dd45a0410c5%2Fzemmour-condamne-a-10-000-euros-d-amende-pour-injure-et-provocation-a-la-haine%7C000_1UC9YG-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/zemmour-condamne-a-10-000-euros-d-amende-pour-injure-et-provocation-a-la-haine-CNT000001tAbbp.html" title="Zemmour condamné à 10.000 euros d'amende pour injure et provocation à la haine">
+                            Zemmour condamné à 10.000 euros d'amende pour injure et provocation ...
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"><div class="image "><img alt='Laurent Ruquier lance samedi "On est en direct"' src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F48e%2Fa11%2F344fa1046ac81cbb9b536a3198%2Flaurent-ruquier-lance-samedi-on-est-en-direct%7Cc04f068ca4c6ad1695e6e187013967064e7eaae5-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/laurent-ruquier-lance-samedi-on-est-en-direct-CNT000001tA7tS.html" title='Laurent Ruquier lance samedi "On est en direct"'>
+                            Laurent Ruquier lance samedi "On est en direct"
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"><div class="image "><img alt="Radio France: projet d'accord sur des suppressions de postes moins élevées" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2Fad5%2F93f%2Ff6872cb8a3ef2d404f4df97c5a%2Fradio-france-projet-d-accord-sur-des-suppressions-de-postes-moins-elevees%7C000_XP1EG-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/radio-france-projet-d-accord-sur-des-suppressions-de-postes-moins-elevees-CNT000001tA5fY.html" title="Radio France: projet d'accord sur des suppressions de postes moins élevées">
+                            Radio France: projet d'accord sur des suppressions de postes moins ...
+                        </a></div><div class="date">
+                                25 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"><div class="image "><img alt="Décès d'Harold Evans, légende du journalisme britannique" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2Fd69%2Fbd7%2Fbc61bdb403596dc0e2bca924fe%2Fdeces-d-harold-evans-legende-du-journalisme-britannique%7C000_8QL78K-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/deces-d-harold-evans-legende-du-journalisme-britannique-CNT000001txRp1.html" title="Décès d'Harold Evans, légende du journalisme britannique">
+                            Décès d'Harold Evans, légende du journalisme britannique
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"><div class="image "><img alt="Maroc: le procès d'Omar Radi pour &quot;ivresse&quot; renvoyé à fin octobre" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F320%2F6d9%2F2efbb75a0b54cf718549a1b949%2Fmaroc-le-proces-d-omar-radi-pour-ivresse-renvoye-a-fin-octobre%7C000_8QG6MC-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/maroc-le-proces-d-omar-radi-pour-ivresse-renvoye-a-fin-octobre-CNT000001txXrj.html" title="Maroc: le procès d'Omar Radi pour &quot;ivresse&quot; renvoyé à fin octobre">
+                            Maroc: le procès d'Omar Radi pour "ivresse" renvoyé à fin octobre
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"><div class="image "><img alt="Algérie: les médias francophones publics appellent à libérer Khaled Drareni" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F002%2F19f%2F2298a57f6832935a580a6d0d1b%2Falgerie-les-medias-francophones-publics-appellent-a-liberer-khaled-drareni%7C000_8Q24CP-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div><div class="meta"><div class="time">27:57</div></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/algerie-les-medias-francophones-publics-appellent-a-liberer-khaled-drareni-CNT000001txVpR.html" title="Algérie: les médias francophones publics appellent à libérer Khaled Drareni">
+                            Algérie: les médias francophones publics appellent à libérer Khaled ...
+                        </a></div><div class="date">
+                                24 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"><div class="image "><img alt="Algérie: les avocats du journaliste Khaled Drareni se pourvoient en cassation" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F129%2F07c%2F157e30509313f73b8fadab04db%2Falgerie-les-avocats-du-journaliste-khaled-drareni-se-pourvoient-en-cassation%7C000_8QK2E9-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/algerie-les-avocats-du-journaliste-khaled-drareni-se-pourvoient-en-cassation-CNT000001twJGt.html" title="Algérie: les avocats du journaliste Khaled Drareni se pourvoient en cassation">
+                            Algérie: les avocats du journaliste Khaled Drareni se pourvoient en ...
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"><div class="image "><img alt="Les médias se mobilisent pour soutenir Charlie Hebdo, de nouveau menacé" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F2ad%2F0ba%2F6a7e5fd55088b4725fbd8eee2a%2Fles-medias-se-mobilisent-pour-soutenir-charlie-hebdo-de-nouveau-menace%7C000_8PV9ZY-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/les-medias-se-mobilisent-pour-soutenir-charlie-hebdo-de-nouveau-menace-CNT000001tvWO5.html" title="Les médias se mobilisent pour soutenir Charlie Hebdo, de nouveau menacé">
+                            Les médias se mobilisent pour soutenir Charlie Hebdo, de nouveau menacé
+                        </a></div><div class="date">
+                                23 septembre 2020
+            </div></div></div></div></div></div><div class="three type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"><div class="image "><img alt="Maroc: le journaliste Omar Radi, détenu depuis fin juillet, chez le juge d'instruction" src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2Ffff%2Fadb%2Fadaac3832d6057085536c7b2ee%2Fmaroc-le-journaliste-omar-radi-detenu-depuis-fin-juillet-chez-le-juge-d-instruction%7C000_8QG6MD-highDef.jpg?format=80x90&amp;facedetect=1&amp;quality=85"/><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a class="title blocHrefTarget lines-2" href="https://actu.orange.fr/societe/media/maroc-le-journaliste-omar-radi-detenu-depuis-fin-juillet-chez-le-juge-d-instruction-CNT000001tuzaD.html" title="Maroc: le journaliste Omar Radi, détenu depuis fin juillet, chez le juge d'instruction">
+                            Maroc: le journaliste Omar Radi, détenu depuis fin juillet, chez le ...
+                        </a></div><div class="date">
+                                22 septembre 2020
+            </div></div></div></div></div></div></div><a class="arrow left o_r_nav_bandeau_fleche_gauche" data-u="arrowleft" href="#"><span class="icon-arrow-left"></span></a><a class="arrow right o_r_nav_bandeau_fleche_droite" data-u="arrowright" href="#"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+<div class="container-main strip-alerte-info"><div class="main-container"><div class="clear"></div></div></div><div class="container-main"><div class="main-container container-top fil-ariane"><a href="/societe/media/" title="retour en arrière"><span class="icon-arrow-left"></span>Toutes les news Média</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope="" itemtype="http://schema.org/title">
+    Facebook et Twitter sanctionnent une vidéo de Trump jugée mensongère sur la pandémie
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><div id="Diaporama"><a name="plmAnchor"></a><div id="DiapoMainContainer" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><div class="o_r_nav_diapo" id="MiniSlideContainer" style="display:none"><div id="MiniSlide"><!-- Loading Screen --><div class="loading" data-u="loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><!-- Slides Container --><div class="slides" data-u="slides"><div><a class="currentPhoto" data-copyright="&amp;copy; AFP, Kenzo TRIBOUILLARD" data-description="" data-full="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2F000_1W96T5-highDef.jpg?facedetect=1&amp;quality=85" data-id="c-est-la-premiere-fois-que-facebook-censure-directement-donald-trump-0" data-src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2F000_1W96T5-highDef.jpg?format=822x700&amp;quality=85" data-title="C'est la première fois que Facebook censure directement Donald Trump
+" data-type="image" data-u="image" href="//actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum/photos/c-est-la-premiere-fois-que-facebook-censure-directement-donald-trump-7bbd91fa22b28ce1e260d21522223478.html"><img alt="C'est la première fois que Facebook censure directement Donald Trump
+" data-src2="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2F000_1W96T5-highDef.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="C'est la première fois que Facebook censure directement Donald Trump
+"/></a></div><div><a data-copyright="&amp;copy; AFP, Brendan Smialowski" data-description="" data-full="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F658%2Fab3%2F43f1b6ef6c27a1b0442802b01a%2F000_1WA588-highDef.jpg?facedetect=1&amp;quality=85" data-id="le-president-donald-trump-lors-de-sa-conference-de-presse-a-la-maison-blanche-le-4-aout-2020-1" data-src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F658%2Fab3%2F43f1b6ef6c27a1b0442802b01a%2F000_1WA588-highDef.jpg?format=822x700&amp;quality=85" data-title="Le président Donald Trump lors de sa conférence de presse à la Maison Blanche, le 4 août 2020" data-type="image" data-u="image" href="//actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum/photos/le-president-donald-trump-lors-de-sa-conference-de-presse-a-la-maison-blanche-le-4-aout-2020-ed920ff9eeaf7d0a9d9315a026869749.html"><img alt="Le président Donald Trump lors de sa conférence de presse à la Maison Blanche, le 4 août 2020" data-src2="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F658%2Fab3%2F43f1b6ef6c27a1b0442802b01a%2F000_1WA588-highDef.jpg?format=207x156&amp;facedetect=1&amp;quality=85" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" title="Le président Donald Trump lors de sa conférence de presse à la Maison Blanche, le 4 août 2020"/></a></div></div></div></div><div class="image" id="ImageContainer"><div id="Loading"><img alt="Chargement en cours" src="/images/media/diaporama/loading.gif" title="Chargement en cours"/></div><div class="module" id="MainImage"><img alt="C'est la première fois que Facebook censure directement Donald Trump
+" itemprop="contentUrl" src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2F000_1W96T5-highDef.jpg?format=822x700&amp;quality=85" title="C'est la première fois que Facebook censure directement Donald Trump
+"/></div><div class="o_r_url_diapo" id="SlideNav"><a class="slide-prev hidden nav o_r_fleche_gauche" href="" id="SlideNavLeft"><div class="diapo-chevron prev" id="SlidePrev"><span class="icon-arrow-left"></span></div></a><a class="slide-next hidden nav o_r_fleche_droite" href="" id="SlideNavRight"><div class="diapo-chevron next" id="SlideNext"><span class="icon-arrow-right"></span></div></a></div></div><div id="DescContainer"><div class="module" id="DescTitle" itemprop="name">C'est la première fois que Facebook censure directement Donald Trump
+</div><div id="DescContent" itemprop="description"></div><div id="DescIndex"><span id="currentIndex">1</span>/2</div><div id="DescCopyright" itemprop="copyrightHolder">
+                 © AFP, Kenzo TRIBOUILLARD
+            </div></div></div></div><script>
+    if (typeof Polaris === 'undefined') {
+        Polaris = { };
+    }
+    Polaris.channelName = "Actualités";
+    Polaris.diaporamaTitle = 'Facebook et Twitter sanctionnent une vidéo de Trump jugée mensongère sur la pandémie'
+    Polaris.diaporamaTotal = 2;
+    Polaris.diaporamaStartIndex = 0;
+    Polaris.diaporamaStartId = "c-est-la-premiere-fois-que-facebook-censure-directement-donald-trump-0";
+    Polaris.dynamicLoading = true;
+</script><article id="CNT000001seTum" itemscope="" itemtype="http://schema.org/Article"><span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><meta content="Orange Actu" itemprop="name"/><span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="//c.orange.fr/logo-orange.png" itemprop="url"/></span></span><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><meta content="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F846%2F06f%2F8599e2d52d6096ad3a8f7b6066%2F000_1W96T5-highDef.jpg?format=822x700&amp;quality=85" itemprop="url"/></span></div><!-- fin article corps image --><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img alt="Twitter interdit momentanément à l'équipe de campagne de Trump de tweeter pour cause de désinformation " src="//media1.woopic.com/api/v1/images/661%2Fafp-news%2F051%2F922%2F9d59ac0f7e3ddb48cb09293299%2Ftwitter-interdit-momentanement-a-l-equipe-de-campagne-de-trump-de-tweeter-pour-cause-de-desinformation%7C000_1WB49E-highDef.jpg?format=250x150&amp;facedetect=1&amp;quality=85"/></div><div class="element-genre">High-tech</div><div class="element-title"><a href="https://actu.orange.fr/societe/high-tech/twitter-interdit-momentanement-a-l-equipe-de-campagne-de-trump-de-tweeter-pour-cause-de-desinformation-CNT000001sfiV6.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'Twitter interdit momentanément à l'équipe de campagne de Trump de tweeter pour cause de désinformation ' });} else { javascript:void(0); }">
+                Twitter interdit momentanément à l'équipe de campagne de Trump de tweeter pour cause de désinformation 
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">Monde</div><div class="element-title"><a href="https://actu.orange.fr/monde/pitoyable-trump-s-en-prend-a-sa-coordinatrice-de-la-lutte-contre-le-covid-19-CNT000001saBvF.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'&quot;Pitoyable!&quot;: Trump s'en prend à sa coordinatrice de la lutte contre le Covid-19' });} else { javascript:void(0); }">
+                "Pitoyable!": Trump s'en prend à sa coordinatrice de la lutte contre le Covid-19
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1901);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta content="2020-08-06" itemprop="datePublished"/><meta content="2020-08-06" itemprop="dateModified"/><meta content="https://actu.orange.fr/societe/media/facebook-et-twitter-sanctionnent-une-video-de-trump-jugee-mensongere-sur-la-pandemie-CNT000001seTum.html" itemprop="mainEntityOfPage"/><meta content=" Facebook et Twitter, étrillés à droite comme à gauche pour leurs politiques de modération des contenus,..." itemprop="headline"/><div class="provider-afp-news" itemprop="articleBody"><!-- Date --><p class="date"><span itemprop="author" itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">AFP</span></span>, publié le jeudi 06 août 2020 à 08h46
+                    </p><!-- Fin Date --><!-- TEXTE --><p>Facebook et Twitter, étrillés à droite comme à gauche pour leurs politiques de modération des contenus, ont durci le ton avec Donald Trump mercredi: les deux réseaux sociaux ont supprimé ou fait retirer une vidéo qui enfreignait leurs règles sur la désinformation autour de la pandémie de Covid-19.</p><p>Le clip montrait le président américain expliquer dans un entretien à la chaîne Fox News que les enfants étaient "presque totalement" immunisés, de par leur âge, contre le nouveau coronavirus.</p><p>"Cette vidéo inclut des fausses affirmations selon lesquelles un certain groupe de personnes n'est pas susceptible d'attraper le Covid-19, ce qui enfreint notre règlement sur la désinformation dangereuse autour de la maladie", a expliqué à l'AFP un porte-parole de Facebook.</p><p>C'est la première fois que Facebook censure directement Donald Trump.</p><p>Twitter est allé encore plus loin. Le réseau a interdit au compte de campagne du chef de l'Etat de continuer à tweeter tant qu'il ne retirait pas l'extrait de l'interview. </p><p>Le compte @TeamTrump semblait s'être conformé à la demande de la plateforme, car il était toujours actif mercredi soir et la vidéo était introuvable.</p><p>"Le président énonçait juste un fait: les enfants sont moins susceptibles que les adultes d'attraper le coronavirus", a réagi Courtney Parella, une porte-parole de la campagne de Donald Trump.</p><p>"Voici encore la preuve que la Silicon Valley est biaisée contre le président. Les règles ne sont appliquées que dans un sens. Les réseaux sociaux ne sont pas les arbitres de la vérité", a-t-elle poursuivi.</p><p><strong>- Modération sous tension -</strong></p><p>Les mesures prises par les deux groupes californiens risquent de relancer les velléités du président et de son parti de lancer des représailles contre les réseaux sociaux, qu'ils accusent de favoriser l'opposition.</p><p>Ils sont particulièrement remontés depuis que, fin mai, Twitter a épinglé un tweet du président, largement interprété comme une incitation à la violence contre les manifestants antiracisme.</p><p>Furieux, Donald Trump avait signé un décret menaçant de changer une loi qui assure aux plateformes numériques une grande liberté en matière de modération des contenus.</p><p>Son camp s'est rallié autour de lui.</p><p>Lors d'une audition la semaine dernière de Google, Apple, Facebook et Amazon devant une commission parlementaire, les élus conservateurs se sont d'ailleurs concentrés sur ces questions. "Les +Big Tech+ ont ouvert la chasse aux conservateurs, c'est un fait", a lancé Jim Jordan, proche allié de Donald Trump.</p><p><strong>- "Arbitres de la vérité" -</strong></p><p>Facebook, de son côté, a acquis une réputation de laxisme vis-à-vis des contenus politiques, car il exempte les propos des élus et candidats de son programme de vérification des faits et autorise les publicités politiques, au nom de la liberté d'expression, contrairement à Twitter.</p><p>Mark Zuckerberg, le patron de la société, avait ainsi refusé de censurer le message du président sur les manifestations. Les plateformes n'ont pas à jouer aux "arbitres de la vérité", avait-il insisté.</p><p>Mais sa décision a sucité un tollé, y compris en interne.</p><p>Facebook fait l'objet d'un boycott publicitaire de la part d'annonceurs exigeant plus de sévérité contre les contenus haineux, et face auxquels le géant des réseaux s'est contenté de quelques concessions mineures.</p><p>La plateforme avait déjà promis d'être intraitable sur certains sujets, comme la désinformation liée à la pandémie ou le déroulement démocratique des élections. En juin, elle a retiré des publicités de l'équipe de campagne du président comportant des symboles nazis. En juillet, elle a ajouté une note d'information à un post du président accusant le vote par correspondance de favoriser la corruption.</p><p><strong>- Innocence et immunité -</strong></p><p>Mercredi, Donald Trump a réitéré son opinion sur le système immunitaire des enfants face au Covid-19.</p><p>"Les enfants gèrent très bien le virus chinois. Ils peuvent l'attraper, mais l'impact sur eux est faible si vous regardez les chiffres en termes de mortalité. Les jeunes enfants ont un système immunitaire très très fort", a-t-il insisté lors d'une conférence de presse.</p><p>Les jeunes enfants représentent une proportion ultra minoritaire des hospitalisations pour le Covid-19 et les décès ont été très rares jusqu'à présent. Des études ont néanmoins montré que même s'ils sont moins vulnérables que les adultes, ils peuvent attraper et transmettre la maladie. </p></div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+$(document).ready(function () {
+    if ($('.news-top-article').length && $('.sticky-block-column').length) {
+    //to set banner "a lire aussi" position at the top if "news-top-article" is present
+        $('.article-corps').addClass('news-top-check');
+        $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+    }
+});
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total="1"></div><button class="MSReact-btn MSReact-btnGrey right" title="Réagir">Réagir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1901
+                    },
+                    "magicRequest": {
+                        "hostname" : "//actu.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'actu', 2, 4, 'CNT000001seTum');
+    });
+</script><div class="clear_30"></div><div class="pip_reset-when-visible" id="ultimedia_wrapper"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20200806'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_1_300x250_actu.societe" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_1_300x250_actu.societe" width="300"/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="fil-info no-js o_r_url_filinfo"><div class="fil-info-entete bloc-commun"><h2> Fil info</h2><nav class="fil-info-select" id="fil-info-select"><a class="fil-info-choix-categorie o_r_actu" href="#"><span id="fil-info-choix-label">Actu</span></a><ul class="fil-info-list-categorie mCS_destroyed" id="fil-info-list-categorie"><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Actu" href="#all">Actu</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="France" href="#france">France</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Politique" href="#politique">Politique</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Société" href="#societe">Société</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Monde" href="#monde">Monde</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Finance" href="#finance">Finance</a></li><li><a class="fil-info-link-categorie o_r_notchanged" data-title="Auto" href="#auto">Auto</a></li></ul></nav></div><div class="fil-info-content bloc-commun"><div class="fil-info-datatitle o_r_news_1" data-text="Coronavirus : le point sur la pandémie" data-title="Sante"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/coronavirus-le-point-sur-la-pandemie-CNT000001tDi3N.html"><span class="fil-info-datePublished">19:10</span><span class="fil-info-categorie">Sante</span><span class="fil-info-datatitre">Coronavirus : le point sur la pandémie</span></a></div><div class="fil-info-datatitle o_r_news_2" data-text="Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/suisse-oui-au-conge-paternite-non-aux-entraves-a-l-immigration-de-citoyens-de-l-ue-CNT000001tCPCc.html"><span class="fil-info-datePublished">19:09</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Suisse: oui au congé paternité, non aux entraves à l'immigration de citoyens de l'UE</span></a></div><div class="fil-info-datatitle o_r_news_3" data-text="Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/sante/fermeture-totale-des-bars-et-restaurants-a-marseille-et-aix-dimanche-soir-CNT000001tDlSg.html"><span class="fil-info-datePublished">18:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Fermeture totale des bars et restaurants à Marseille et Aix dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_4" data-text="Législatives 2022: erreur politique de modifier le mode de scrutin..." data-title="Politique"><a class="fil-info-overflow" href="https://actu.orange.fr/politique/legislatives-2022-erreur-politique-de-modifier-le-mode-de-scrutin-guerini-lrem-CNT000001tDlIN.html"><span class="fil-info-datePublished">18:45</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Législatives 2022: "erreur politique" de modifier le mode de scrutin (Guerini, LREM)</span></a></div><div class="fil-info-datatitle o_r_news_5" data-text="Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/belarus-centaines-d-arrestations-lors-d-une-nouvelle-marche-de-l-opposition-CNT000001tDhaO.html"><span class="fil-info-datePublished">18:37</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Bélarus: centaines d'arrestations lors d'une nouvelle marche de l'opposition</span></a></div><div class="fil-info-datatitle o_r_news_6" data-text="Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des..." data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/conflit-au-karabakh-au-moins-23-morts-poutine-appelle-a-la-fin-des-affrontements-CNT000001tDfqT.html"><span class="fil-info-datePublished">18:36</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Conflit au Karabakh: au moins 23 morts, Poutine appelle à la fin des affrontements</span></a></div><div class="fil-info-datatitle o_r_news_7" data-text="Epic Games retrouve Apple lundi au tribunal" data-title="High-tech"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/high-tech/epic-games-retrouve-apple-lundi-au-tribunal-CNT000001tDlpl.html"><span class="fil-info-datePublished">18:34</span><span class="fil-info-categorie">High-tech</span><span class="fil-info-datatitre">Epic Games retrouve Apple lundi au tribunal</span></a></div><div class="fil-info-datatitle o_r_news_8" data-text="Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis" data-title="Fait-divers"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/fait-divers/ils-volent-du-2-000-pieds-de-chanvre-en-le-prenant-pour-du-cannabis-CNT000001tDlpc.html"><span class="fil-info-datePublished">18:30</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Ils volent du 2.000 pieds de chanvre en le prenant pour du cannabis</span></a></div><div class="fil-info-datatitle o_r_news_9" data-text="Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/covid-les-bars-fermes-a-marseille-et-aix-en-provence-des-dimanche-soir-magic-CNT000001tDldS.html"><span class="fil-info-datePublished">18:00</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Covid : les bars fermés à Marseille et Aix-en-Provence dès dimanche soir</span></a></div><div class="fil-info-datatitle o_r_news_10" data-text="Les tendances à la Fashion Week de Milan : Viva l'Italia!" data-title="Culture"><a class="fil-info-overflow" href="https://actu.orange.fr/societe/culture/les-tendances-a-la-fashion-week-de-milan-viva-l-italia-CNT000001tDhOg.html"><span class="fil-info-datePublished">17:56</span><span class="fil-info-categorie">Culture</span><span class="fil-info-datatitre">Les tendances à la Fashion Week de Milan : Viva l'Italia!</span></a></div><div class="fil-info-datatitle o_r_news_11" data-text="Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/savoie-6000-animaux-pieges-par-la-neige-une-cellule-de-crise-ouverte-magic-CNT000001tDkWB.html"><span class="fil-info-datePublished">17:55</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Savoie : 6000 animaux piégés par la neige, une cellule de crise ouverte</span></a></div><div class="fil-info-datatitle o_r_news_12" data-text="Sénatoriales: le scrutin est clos, des élus dès le premier tour" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/senatoriales-le-scrutin-est-clos-des-elus-des-le-premier-tour-CNT000001tDe2J.html"><span class="fil-info-datePublished">17:49</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Sénatoriales: le scrutin est clos, des élus dès le premier tour</span></a></div><div class="fil-info-datatitle o_r_news_13" data-text="A Paris, des patrons de bars et de restaurants manifestent contre les..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/a-paris-des-patrons-de-bars-et-de-restaurants-manifestent-contre-les-nouvelles-mesures-sanitaires-anti-covid-magic-CNT000001tDk7R.html"><span class="fil-info-datePublished">17:30</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">A Paris, des patrons de bars et de restaurants manifestent contre les nouvelles mesures sanitaires anti-Covid</span></a></div><div class="fil-info-datatitle o_r_news_14" data-text="Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude" data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-au-hachoir-a-paris-neuf-gardes-a-vue-en-cours-une-video-a-l-etude-CNT000001tDgM6.html"><span class="fil-info-datePublished">16:52</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque au hachoir à Paris: neuf gardes à vue en cours, une vidéo à l'étude</span></a></div><div class="fil-info-datatitle o_r_news_15" data-text="Attaque à Paris : mis hors de cause, le deuxième suspect pensait qu'il..." data-title="France"><a class="fil-info-overflow" href="https://actu.orange.fr/france/attaque-a-paris-mis-hors-de-cause-le-deuxieme-suspect-pensait-qu-il-serait-traite-comme-un-heros-magic-CNT000001tDjiQ.html"><span class="fil-info-datePublished">16:20</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Attaque à Paris : mis hors de cause, le "deuxième suspect" pensait qu'il serait "traité comme un héros"</span></a></div><div class="fil-info-datatitle o_r_news_16" data-text="Coronavirus: l'avion-ambulance qui sauve des vies au Pérou" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/coronavirus-l-avion-ambulance-qui-sauve-des-vies-au-perou-CNT000001tDeaI.html"><span class="fil-info-datePublished">16:16</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Coronavirus: l'avion-ambulance qui sauve des vies au Pérou</span></a></div><div class="fil-info-datatitle o_r_news_17" data-text="Trump exige un contrôle antidopage de Biden en vue de leur débat " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/trump-exige-un-controle-antidopage-de-biden-en-vue-de-leur-debat-CNT000001tDjd4.html"><span class="fil-info-datePublished">16:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Trump exige un contrôle antidopage de Biden en vue de leur débat </span></a></div><div class="fil-info-datatitle o_r_news_18" data-text="Au Liban, pas la moindre perspective de sortie de crise" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/au-liban-pas-la-moindre-perspective-de-sortie-de-crise-CNT000001tDgfZ.html"><span class="fil-info-datePublished">15:21</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Au Liban, pas la moindre perspective de sortie de crise</span></a></div><div class="fil-info-datatitle o_r_news_19" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers " data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDiwz.html"><span class="fil-info-datePublished">15:15</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers </span></a></div><div class="fil-info-datatitle o_r_news_20" data-text="Yémen: accord historique sur un échange de 1.081 prisonniers" data-title="Monde"><a class="fil-info-overflow" href="https://actu.orange.fr/monde/yemen-accord-historique-sur-un-echange-de-1-081-prisonniers-CNT000001tDium.html"><span class="fil-info-datePublished">15:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Yémen: accord historique sur un échange de 1.081 prisonniers</span></a></div>
+</div><div class="fil-info-pagination bloc-commun"><div class="fil-info-counter"></div></div></div><!--[if lte IE 7]></div><![endif]--><!--[if IE 8]></div><![endif]--><script>
+    if (sUrlReferrer != 'undefined'){
+        var ref = sUrlReferrer;
+    }else {
+        var ref = "";
+    }
+    if(typeof Polaris == "undefined") Polaris = { };
+    Polaris.newsfeed = { limit: 7, src: "/fragments/fil-info/", currentCat: "all" };
+    function changeAllLinksFilInfo(tag_gstat){
+        img = new Image();
+        z_protocol = (document.location.protocol === 'https:') ? 'https%3A' : 'http%3A';
+        rnd = Math.round(Math.random() * 10000000000);
+        img.src = document.location.protocol + "//r.orange.fr/r?ref="+ref+"_"+tag_gstat+"&url=" + z_protocol + "//c.woopic.com/z.gif?" + rnd;
+    };
+</script><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="no-js graphbourse blocHref tile"><div class="container"><div class="inline"><p class="name"><a href="//finance.orange.fr/bourse/">CAC 40</a></p><p class="variation">
+                4 730 pts
+            </p></div><div class="inline"><div class="icone bourse"><span class="icon-finance-down"></span></div></div><div class="inline"><p class="down">-0,69%</p></div></div></div><div class="no-js graphbourse thelast tile"><div class="container"><div class="inline"><p class="name">
+                Météo
+            </p><p class="variation ville">
+                Paris
+            </p></div><div class="inline"><div class="meteo"><span class="favorites-city-icon"><span class="picTempsAddons"></span></span></div></div><div class="inline"><span class="temperature">27°</span></div><div class="clear"></div></div></div><div class="blocHref upsell portrait o_r_url_upsell_presse_item1"><h2>Presse</h2><div class="content"><img alt="Télécâble Sat Hebdo" src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2Fae2%2F6fd%2Fe857a5cf3a1c7cc356f27976ff%2Fcover-big.jpg?format=200x300"/><div class="inner"><h3 class="transition_1">Télécâble Sat Hebdo</h3><a href="https://r.orange.fr/r/Omedia_epresse/magazine/telecable-sat-hebdo/2020-09-21" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div class="inner-left" id="react"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div class="inner-left" id="graphcomment"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-actu',
+                            uid: 'CNT000001seTum',
+                            publication_date: '2020-08-06 08:46:13',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_2_300x250_actu.societe" target="_blank"><img alt="" height="250" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_2_300x250_actu.societe" width="300"/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a class="o_r_url_social_facebook bt-soc bt-fb transition_1" href="//r.orange.fr/r/Oactu_fborangenews" target="_blank" title="Facebook"><span class="icon-facebook"></span><span class="nom transition_1">facebook</span></a><a class="o_r_url_social_twitter bt-soc bt-tw transition_1" href="//r.orange.fr/r/Oactu_tworangenews" target="_blank" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_actu.societe"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.societe/ora_2_728x90_actu.societe" target="_blank"><img alt="" height="90" src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.societe/ora_2_728x90_actu.societe" width="728"/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id="o-footer-wrapper"></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script src="//actu.orange.fr/js/min/article.footer.7debf2966c34a61cb0733f7d607f63c2455d8564.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>

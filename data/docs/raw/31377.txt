@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html data-device="desktop" lang="fr">
+<head>
+<title>HP - Les PME ont la parole</title>
+<meta content="HP - Réinventer la manière dont les gens, les machines et le contenu collaborent, dans le monde entier." name="description"/>
+<meta content="hp" name="keywords"/>
+<meta charset="utf-8"/>
+<meta content="width=1470" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="a19ced446de33deef7f31959b057ba25" property="orange: sonde"/>
+<!-- FACEBOOK -->
+<meta content="Orange" property="og:site_name"/>
+<meta content="fr_FR" property="og:locale"/>
+<meta content="HP - Les PME ont la parole" property="og:title"/>
+<meta content="HP - Réinventer la manière dont les gens, les machines et le contenu collaborent, dans le monde entier." property="og:description"/>
+<meta content="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-hppro2020/prod/img/image_facebook.jpg" property="og:image"/>
+<meta content="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" property="og:url"/>
+<meta content="article" property="og:type"/>
+<!-- TWITTER -->
+<meta content="HP - Les PME ont la parole" property="twitter:title"/>
+<meta content="HP - Réinventer la manière dont les gens, les machines et le contenu collaborent, dans le monde entier." property="twitter:description"/>
+<meta content="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" property="twitter:url"/>
+<meta content="article" property="twitter:card"/>
+<meta content="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-hppro2020/prod/img/image_facebook.jpg" property="twitter:image:src"/>
+<script src="//iz4.orange.fr/$v=2;i=hp-pme-actu_I1;d=1601226981;s=86c04a948aca0af518336fc8c4807067f33de10405a6616afd91e3bb2a1ee5ff/idzone.js" type="text/javascript"></script>
+<script>
+        window.env = 'prod'
+    </script>
+<script language="javascript">
+        //
+        // Setting tag to implement inside the body tag, just after the opening <body> tag.
+        //
+
+        // Parameters:
+        // ----------------------------------------------------------------------------------------------
+        // Publisher's site own keyword list string, each key pair must be separated by a semi-column (;)
+        var oan_siteKeywords="";
+        // If the Publisher's site owner want to specify the topic used in the section, it can be specify bellow
+        var oan_siteContentTopic="";
+
+        // try do change anything bellow
+        document.write('<scr'+'ipt src="https://all.orfr.adgtw.orangeads.fr/js/ora_ops?sKW='+ encodeURI(oan_siteKeywords)+'&sCT='+encodeURI(oan_siteContentTopic)+'"><\/scr'+'ipt>');
+    </script>
+<link href="/icons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/icons/favicon-32x32-new.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/icons/favicon-16x16-new.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="https://z.preprod.woopic.com" rel="preconnect"/>
+<link href="https://c.woopic.com" rel="preconnect"/>
+<link href="https://cdn.woopic.com" rel="preconnect"/>
+<link href="https://c-rec.staging.woopic.com" rel="preconnect"/>
+<link href="https://pms.preprod.orange.fr" rel="preconnect"/>
+<link href="https://proxymedia.woopic.com" rel="preconnect"/>
+<link href="https://proxymedia.preprod.woopic.com" rel="preconnect"/>
+<link href="https://cdn.adgtw.orangeads.fr" rel="preconnect"/>
+<link href="https://ib.adnxs.com" rel="preconnect"/>
+<link href="https://dig.ultimedia.com" rel="preconnect"/>
+<link href="https://consent.orange.fr" rel="preconnect"/>
+<link href="https://static.mediarithmics.com" rel="preconnect"/>
+<link href="https://tags.tiqcdn.com" rel="preconnect"/>
+<link href="https://sync.smartadserver.com" rel="preconnect"/>
+<link href="https://events.mediarithmics.com" rel="preconnect"/>
+<link href="https://static-cdn.spott.ai" rel="preconnect"/>
+<link href="https://sb.scorecardresearch.com" rel="preconnect"/>
+<link href="https://tags.bkrtx.com" rel="preconnect"/>
+<link href="https://pixel.advertising.com" rel="preconnect"/>
+<link href="https://unpkg.com" rel="preconnect"/>
+<link href="https://cdn.jsdelivr.net" rel="preconnect"/>
+<link href="https://medialb.digiteka.net" rel="preconnect"/>
+<link href="https://ads.videoadex.com" rel="preconnect"/>
+<link href="https://ngs02c.digiteka.net" rel="preconnect"/>
+<link href="https://ngs07c.digiteka.net" rel="preconnect"/>
+<link href="https://s.ytimg.com" rel="preconnect"/>
+<link href="https://ups.analytics.yahoo.com" rel="preconnect"/>
+<link href="https://imasdk.googleapis.com" rel="preconnect"/>
+<link href="https://sdk.privacy-center.org" rel="preconnect"/>
+<link href="https://tag.leadplace.fr" rel="preconnect"/>
+<link href="https://triggermkg.leadplace.fr" rel="preconnect"/>
+<link href="https://confiant-integrations.global.ssl.fastly.net" rel="preconnect"/>
+<link href="https://adservice.google.fr" rel="preconnect"/>
+<link href="https://adservice.google.com" rel="preconnect"/>
+<link href="https://securepubads.g.doubleclick.net" rel="preconnect"/>
+<link href="https://static.adsafeprotected.com" rel="preconnect"/>
+<link href="https://www.ultimedia.com" rel="preconnect"/>
+<link href="https://www.youtube.com" rel="preconnect"/>
+<link href="https://stags.bluekai.com" rel="preconnect"/>
+<link href="https://tags.bluekai.com" rel="preconnect"/>
+<link href="https://stackpath.bootstrapcdn.com" rel="preconnect"/>
+<link href="https://cdnjs.cloudflare.com" rel="preconnect"/>
+<link href="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/desktop.0de4b76e.css" rel="stylesheet"/>
+<style>
+    
+    
+            .couleurPrimaire {
+            color: #0097d7;
+        }
+            
+            .couleurSecondaire {
+            color: #0097d7;
+        }
+            
+            .couleurTertiaire {
+            color: #ffffff;
+        }
+        .slider.buttons > button {
+            background-color: #ffffff;
+        }
+    
+            .couleurQuaternaire {
+            color: #eee;
+        }
+    
+</style>
+<!-- PVP -->
+<script async="" defer="" src="//c.woopic.com/Pvp/js/pvp-min.js" type="text/javascript"></script>
+<!-- /PVP -->
+<script crossorigin="anonymous" integrity="sha256-+2SfyuYhd9/mPmcIHdzrgwtc4fBaQYTpu7fYesS49OU=" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js"></script>
+<!-- HTML Libre -->
+<style>
+.slick-arrow:before { filter: drop-shadow(3px 3px 5px #000);}
+</style>
+</head>
+<body class="">
+<link href="//finance.orange.fr/css/min/partners-menuv3.header.23167e3c0aea439642641818b5c0296ba20b5220.css" rel="stylesheet"/><script src="//finance.orange.fr/js/min/partners-menuv3.header.04162d4ddef83adbfbbce322c1fec79b55509cfd.js"></script><div class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une"><a href="https://actu.orange.fr/" title="A la une">
+                                A la une
+                            </a></li><li class=" o_r_france"><a href="https://actu.orange.fr/france/" title="France">
+                                France
+                            </a></li><li class=" o_r_monde"><a href="https://actu.orange.fr/monde/" title="Monde">
+                                Monde
+                            </a></li><li class=" o_r_politique"><a href="https://actu.orange.fr/politique/" title="Politique">
+                                Politique
+                            </a></li><li class=" o_r_societe"><a href="https://actu.orange.fr/societe/" title="Société">
+                                Société
+                            </a></li><li class=" mv3-active o_r_finance"><a href="http://finance.orange.fr/" title="Finance">
+                                Finance
+                            </a></li><li class=" o_r_auto"><a href="https://auto.orange.fr/" title="Auto">
+                                Auto
+                            </a></li><li class=" o_r_meteo"><a href="http://meteo.orange.fr/" title="Météo">
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="le Parlement Européen"><img alt="le Parlement Européen" src="//media2.woopic.com/api/v1/images/493%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&amp;quality=85" title="le Parlement Européen"/></a></li><li class="mv3-logo o_r_hppmeparole"><a href="https://hp-les-pme-ont-la-parole.actu.orange.fr/?utx_source=HP_2020_Finance&amp;utx_medium=onglet&amp;utx_campaign=rubrique_actu" title="HP les PME ont la parole"><img alt="HP les PME ont la parole" src="//media3.woopic.com/api/v1/images/493%2Fum-menuv3%2F9ea%2F078%2Fba4559700aca6b0c324bd5ea6f%2F9ea078ba4559700aca6b0c324bd5ea6f.png?facedetect=1&amp;quality=85" title="HP les PME ont la parole"/></a></li></ul></li></ul></div></div><div class="clear"></div>
+<header class="menu-v3 o_r_url_menu menuready" id="menu-v3-second-level" style="display: block;"><div class="mv3-container-main"><ul class="mv3-second-level mv3-loader-dark mv3-loader-off"><li class="fixed-width"><ul><li class=" mv3-active o_r_finance"><a data-link-changed="true" href="//finance.orange.fr" title="Finance">
+                                    Finance
+                                </a></li></ul></li><li class="dynamic"><ul class="dynamic-menu"><li class=" o_r_actualite-eco"><a data-link-changed="true" href="//finance.orange.fr/actualite-eco/" title="Actualité éco">
+                                    Actualité éco
+                                </a></li><li class=" o_r_finance-perso"><a data-link-changed="true" href="//finance.orange.fr/finance-perso/" title="Finance perso">
+                                    Finance perso
+                                </a></li><li class=" o_r_bourse"><a data-link-changed="true" href="//finance.orange.fr/bourse/" title="Bourse">
+                                    Bourse
+                                </a></li></ul></li></ul></div>
+</header>
+<!-- /MENU Element commun -->
+<div class="wrapper" id="wrapper">
+<div id="content">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="bandeau">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/1211%2F../event-hppro2020/prod/img/Bandeau_WebV2_HP.jpg"/>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-9 col-sm-12">
+<div class="row">
+<div class="col-8">
+<div class="first-article">
+<a class="article " href="/pourquoi-pas-un-pc-portable-eco-responsable_CNT000001t600o.html">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F5af%2F315%2F4f27beb5958d7a366b67d3bf42%2Fart14_580x410.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Environnement</div>
+<h2 class="ellipsis" data-row="2">Pourquoi pas un pc portable eco-responsable</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="col-4">
+<a class="article " href="/une-journee-avec-mon-meilleur-compagnon_CNT000001t600G.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/video.63518fd9.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F3a5%2Fc50%2F131dc34914be74f4877aaff81c%2Fvid4_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1"><div>Mobilité</div></div>
+<h2 class="ellipsis" data-row="2">Une journée avec mon meilleur compagnon</h2>
+</div>
+</a>
+<a class="article " href="/guide-nettoyer-efficacement-son-materiel-informatique_CNT000001t5ZZO.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/infographie.51a2b9d4.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F741%2Fe16%2F83572d5fd8013bae6d5e4c96cb%2Finfograph2_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Bureautique</div>
+<h2 class="ellipsis" data-row="2">GUIDE : Nettoyer efficacement son matériel informatique</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
+<a class="article " href="/comment-gerer-efficacement-vos-documents-en-teletravail_CNT000001t600f.html">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F7fe%2F572%2F05d672914e79b7555128325000%2Fart5_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">Comment gérer efficacement vos documents en télétravail ? </h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/hp-elite-dragonfly-le-pc-professionnel-convertible-le-plus-leger_CNT000001t5ZX3.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/diaporama.3f3228bf.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F15c%2F467%2F57fb6c0f871e41e2d46e460071%2Freport1_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">HP Elite Dragonfly, le pc professionnel convertible le plus léger</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/hp-reinvente-le-mode-de-conception-fabrication-et-recuperation-de-ses-produits_CNT000001t601y.html">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fb16%2F93f%2Fd8dd49ad7275dee1d5704ee25b%2Fart18_280X158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Environnement</div>
+<h2 class="ellipsis" data-row="2">HP réinvente le mode de conception, fabrication et récupération de ses produits</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
+<a class="article " href="/securite-et-mobilite-combinaison-gagnante-pour-la-gamme-hp-elite_CNT000001t5ZZX.html">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F351%2Fccc%2F40c3b74ac006585fa836e10f52%2Fsecurity_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Sécurité</div>
+<h2 class="ellipsis" data-row="2">Sécurité et mobilité : combinaison gagnante pour la gamme HP Elite</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/guide-pour-securiser-le-teletravail_CNT000001t5ZXc.html">
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F03f%2Fac5%2F44276b4b6b44594771bce0d6e3%2Fart1_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Sécurité</div>
+<h2 class="ellipsis" data-row="2">Guide pour sécuriser le télétravail</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/plume-ou-enclume-des-pc-de-plus-en-plus-leger_CNT000001t5ZWL.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/infographie.51a2b9d4.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F23d%2Fa98%2Fe6a178bee77a01af2f7f625ef8%2Finfograph3_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">Plume ou enclume des PC de plus en plus léger</h2>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-4">
+<a class="article " href="/decouvrez-le-pc-portable-convertible-professionnel-le-plus-leger_CNT000001t5ZWU.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/video.63518fd9.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fbbe%2F6f0%2Faf778e9088c4b79ed5f65dc203%2Fvid2_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">Découvrez le pc portable convertible professionnel le plus léger
+</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/teletravail-votre-entreprise-est-elle-prete_CNT000001t601p.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/quiz.abf6f488.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F6a0%2Fc14%2F729d65d2eadaaadd3eff4a6a87%2Fquiz10_280X158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">Télétravail : votre entreprise est-elle prête ?</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/hp-instant-ink_CNT000001t9YE7.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/video.63518fd9.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Ff2a%2Ff00%2Fd8df660c9dd53bb11cd4fb42eb%2Fvid3_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">HP Instant Ink
+</h2>
+</div>
+</a>
+</div>
+</div>
+<button class="btn voir_plus" data-index="0">Voir +</button>
+<div id="autres_articles">
+<div class="bloc_article">
+<div class="row">
+<div class="col-4">
+<a class="article " href="/economisez-sur-vos-cartouches-d-encre-avec-hp_CNT000001ta4fs.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/diaporama.3f3228bf.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F162%2Fd8b%2Faca7bd3c16c8307264f8acc7e1%2Finstant_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Bureautique</div>
+<h2 class="ellipsis" data-row="2">Economisez sur vos cartouches d'encre avec HP</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/hp-elite-dragonfly-plus-leger-que-l-air_CNT000001t600Y.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/video.63518fd9.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2F8e0%2Ff18%2F5f13550156e920724b30b549e6%2Fvid1_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Mobilité</div>
+<h2 class="ellipsis" data-row="2">HP Elite Dragonfly, plus léger que l'air</h2>
+</div>
+</a>
+</div>
+<div class="col-4">
+<a class="article " href="/gamme-hp-elite-rejoignez-l-elite_CNT000001tlQxH.html">
+<img alt="" class="icon-article" src="//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/images/diaporama.3f3228bf.png"/>
+<div class="wrap_img">
+<img alt="" class=" lazyload" data-src="//proxymedia.woopic.com/api/v1/images/525%2Fboilerplate-article%2Fde9%2F091%2F626e83ff575ef25efeb19373bc%2F1_PC_et_mobilite_280x158.jpg?facedetect=1&amp;quality=80&amp;saveas=webp&amp;saveasquality=80"/>
+</div>
+<div class="content">
+<div class="text-accroche ellipsis" data-row="1">Bureautique</div>
+<h2 class="ellipsis" data-row="2">Gamme HP Elite : Rejoignez l'élite</h2>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-3 col-sm-12">
+<div class="engagements">
+<div class="wrap_img">
+<div id="ora_1_300x250_ops_hpprintofin46307">
+<script language="javascript">
+                oan_displayAd("ora_1_300x250_ops_hpprintofin46307");</script>
+<noscript><a href="http://all.orfr.adgtw.orangeads.fr/clk/ora_ops/ora_1_300x250_ops_hpprintofin46307"><img data-src="http://all.orfr.adgtw.orangeads.fr/img/ora_1_300x250_ops_hpprintofin46307"/></a></noscript>
+</div>
+</div>
+<div class="rm-contact-2">
+<iframe frameborder="0" height="1000px" marginheight="0px" marginwidth="0px" name="iframe" scrolling="no" src="https://reinvent.hp.com/LP=623" style="border:0px # none;" width="100%"></iframe>
+</div>
+<div class="list-item">
+<ul class=" ">
+<li class="class1">
+<a class=" " href="categorie1">
+                                            Item 1
+                                    </a>
+</li>
+<li class="class2">
+<a class=" " href="categorie2">
+                                            Item 2
+                                    </a>
+</li>
+<li class="class3">
+<a class=" " href="categorie3">
+                                            Item 3
+                                    </a>
+</li>
+<li class="class4">
+<a class=" " href="categorie4">
+                                            Item 4
+                                    </a>
+</li>
+</ul>
+</div>
+<ul class="reseaux ">
+<li class="classinliensnoeud">
+<a class="lien_footer " href="//pubads.g.doubleclick.net/gampad/clk?id=5472980633&amp;iu=/3513" onmousedown='o_link("RG", "RS_ytb", "HP_2020_Finance");' target="_blank">
+<i class="fa fa-youtube-play"></i>
+</a>
+</li>
+<li class="">
+<a class="lien_footer " href="//pubads.g.doubleclick.net/gampad/clk?id=5472979355&amp;iu=/3513" onmousedown='o_link("RG", "RS_in", "HP_2020_Finance");' target="_blank">
+<i class="fa fa-linkedin"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+                var o_confCommon = {
+                    typeEnv: "prod",
+                    genericHeaderZone: true,
+                    domainTitle: "Actualités",
+                    domainUrl: "//actu.orange.fr",
+                    domainRef: "actu",
+                    serviceZone: {
+                        searchZone: {
+                            unifiedSearchEngine: {
+                                label: "rechercher sur news",
+                                queryAdditionalParams: "module=chaine&bhv=news"
+                            }
+                        }
+                    },
+                    footer: {
+                        id: "footer-wrapper",
+                        syndicationZone: true,
+                        sitemapZone: true,
+                    },
+                    tracking: {
+                        //enable iQ TMS
+                        Tealium: {
+                            activate: true
+                        }
+                    },
+                    underlineLeftItem: '0',
+                    unifiedSearchEngine: {
+                        label: "Rechercher dans Actualités",
+                        queryAdditionalParams: "module=chaine&bhv=actu&ap=-1",
+                        //cmplBlocks: [{ baseId: '-'}],
+                        toptrendCategory: "orange.people",
+                        toptrend: true
+                    }
+
+                }
+            </script>
+<script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script>
+<script type="text/javascript">
+            head.load([
+                "//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/runtime.2d5248e5.js",
+                "//cdn.woopic.com/v1/AUTH_1026a5a9b9a74d5aac158ba88c080da1/event-hppro2020/prod/build/desktop.08eccafe.js"
+            ]);
+        </script>
+<!-- footer Elco -->
+<script>
+    head.ready(function(){ o_footer(); });
+</script>
+<!-- /footer Elco -->
+<!-- Tag Bluekai -->
+<img alt="bluekai" height="1" src="//stags.bluekai.com/site/58288?phint=source=event-hppro2020&amp;phint=event=seen&amp;phint=rand=8844157769" width="1"/>
+<!-- /Tag Bluekai -->
+<link href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="//cdn.woopic.com/840aa06aeef64c848738c7997ff75b62/event-boilerplate/prod/css/fonts.css" rel="stylesheet"/>
+</body>
+</html>
