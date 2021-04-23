@@ -8,7 +8,7 @@ It also provides the code that was used to build the dataset, and the test set s
 
 ### OrangeSum
 The OrangeSum dataset was inspired by the [XSum dataset](https://github.com/EdinburghNLP/XSum/tree/master/XSum-Dataset). It was created by scraping the "Orange Actu" website: [https://actu.orange.fr/](https://actu.orange.fr/). Orange S.A. is a large French multinational telecommunications corporation, with 266M customers worldwide.
-Scraped pages cover almost a decade from Feb 2011 to Sep 2020. They belong to five main categories: France, world, politics, automotive, and society. The society category is itself divided into 8 subcategories: health, environment, people, culture, media, high-tech, unsual ("insolite" in French), and miscellaneous.
+Scraped pages cover almost a decade from Feb 2011 to Sep 2020. They belong to five main categories: France, world, politics, automotive, and society. The society category is itself divided into 8 subcategories: health, environment, people, culture, media, high-tech, unusual ("insolite" in French), and miscellaneous.
 
 Each article featured a single-sentence title as well as a very brief abstract, both professionally written by the author of the article. These two fields were extracted from each page, thus creating two summarization tasks: **OrangeSum Title** and **OrangeSum Abstract**.
 
